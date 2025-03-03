@@ -4,7 +4,7 @@ name: Sync with MobileModels
 on:
   workflow_dispatch: # To allow manual runs
   schedule:
-    - cron: '43 10 * * *'
+    - cron: '00 18 * * *'
 
 jobs:
    Task:
@@ -42,8 +42,8 @@ jobs:
 #        git diff
     - name: Commit # 提交更新, fork后请自行修改user信息
       run: |
-        git config --global user.email zhyi828@163.com
-        git config --global user.name zhyi828
+        git config --global user.email blackblock1523@hotmail.com
+        git config --global user.name blackblock1523
         git add .
         git diff-index --quiet HEAD || git commit -m "Sync with MobileModels $LATEST_COMMIT" -a
     - name: Push changes
