@@ -27,6 +27,8 @@ jobs:
     - name: Install requirements
       run: |
         pip install -r requirements.txt
+        pip uninstall pandas
+        pip install pandas==1.3.4
     - name: Update MobileModels
       run: |
         cd MobileModels
