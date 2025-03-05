@@ -28,6 +28,8 @@ jobs:
       run: |
         pip install -r requirements.txt
         pip install pandas==1.3.4
+        pip uninstall numpy -y
+        pip install numpy==1.25.1
     - name: Update MobileModels
       run: |
         cd MobileModels
