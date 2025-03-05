@@ -102,11 +102,11 @@ apple,A2097,cn,苹果, iPhone XS (GSM)
 apple,A2098,cn,苹果, iPhone XS (日本)
 apple,A2100,cn,苹果, iPhone XS (中国大陆)
 apple,A2099,cn,苹果, iPhone XS (中国移动)
-apple,A2104,cn,苹果, iPhone XS Max (中国大陆 & 港澳)
-apple,A2103,cn,苹果, iPhone XS Max (中国移动)
 apple,A1921,cn,苹果, iPhone XS Max (北美)
 apple,A2101,cn,苹果, iPhone XS Max (GSM)
 apple,A2102,cn,苹果, iPhone XS Max (日本)
+apple,A2104,cn,苹果, iPhone XS Max (中国大陆 & 港澳)
+apple,A2103,cn,苹果, iPhone XS Max (中国移动)
 apple,A1984,cn,苹果, iPhone XR (北美)
 apple,A2105,cn,苹果, iPhone XR (GSM)
 apple,A2106,cn,苹果, iPhone XR (日本)
@@ -255,6 +255,9 @@ apple,A2696,cn,苹果, iPad (第 10 代) (无线局域网)
 apple,A2757,cn,苹果, iPad (第 10 代) (无线局域网 + 蜂窝网络) (eSIM)
 apple,A2777,cn,苹果, iPad (第 10 代) (无线局域网 + 蜂窝网络) (中国大陆)
 apple,A3162,cn,苹果," iPad (第 10 代) (无线局域网 + 蜂窝网络) (eSIM, 中国大陆)"
+apple,A3354,cn,苹果, iPad (A16) (无线局域网)
+apple,A3355,cn,苹果, iPad (A16) (无线局域网 + 蜂窝网络)
+apple,A3356,cn,苹果, iPad (A16) (无线局域网 + 蜂窝网络) (中国大陆)
 apple,A1474,cn,苹果, iPad Air (无线局域网)
 apple,A1475,cn,苹果, iPad Air (无线局域网 + 蜂窝网络)
 apple,A1476,cn,苹果, iPad Air (无线局域网 + 蜂窝网络) (TD-LTE)
@@ -275,6 +278,12 @@ apple,A2904,cn,苹果," iPad Air (11 英寸, M2) (无线局域网 + 蜂窝网络
 apple,A2898,cn,苹果," iPad Air (13 英寸, M2) (无线局域网)"
 apple,A2899,cn,苹果," iPad Air (13 英寸, M2) (无线局域网 + 蜂窝网络)"
 apple,A2900,cn,苹果," iPad Air (13 英寸, M2) (无线局域网 + 蜂窝网络) (中国大陆)"
+apple,A3266,cn,苹果," iPad Air (11 英寸, M3) (无线局域网)"
+apple,A3267,cn,苹果," iPad Air (11 英寸, M3) (无线局域网 + 蜂窝网络)"
+apple,A3270,cn,苹果," iPad Air (11 英寸, M3) (无线局域网 + 蜂窝网络) (中国大陆)"
+apple,A3268,cn,苹果," iPad Air (13 英寸, M3) (无线局域网)"
+apple,A3269,cn,苹果," iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络)"
+apple,A3271,cn,苹果," iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络) (中国大陆)"
 apple,A1584,cn,苹果, iPad Pro (12.9 英寸) (无线局域网)
 apple,A1652,cn,苹果, iPad Pro (12.9 英寸) (无线局域网 + 蜂窝网络)
 apple,A1673,cn,苹果, iPad Pro (9.7 英寸) (无线局域网)
@@ -507,11 +516,11 @@ apple,A2097,en,苹果, iPhone XS (GSM)
 apple,A2098,en,苹果, iPhone XS (Japan)
 apple,A2100,en,苹果, iPhone XS (China mainland)
 apple,A2099,en,苹果, iPhone XS (China Mobile)
-apple,A2104,en,苹果," iPhone XS Max (China mainland, Hong Kong, Macao)"
-apple,A2103,en,苹果, iPhone XS Max (China Mobile)
 apple,A1921,en,苹果, iPhone XS Max (North America)
 apple,A2101,en,苹果, iPhone XS Max (GSM)
 apple,A2102,en,苹果, iPhone XS Max (Japan)
+apple,A2104,en,苹果," iPhone XS Max (China mainland, Hong Kong, Macao)"
+apple,A2103,en,苹果, iPhone XS Max (China Mobile)
 apple,A1984,en,苹果, iPhone XR (North America)
 apple,A2105,en,苹果, iPhone XR (GSM)
 apple,A2106,en,苹果, iPhone XR (Japan)
@@ -660,6 +669,9 @@ apple,A2696,en,苹果, iPad (10th generation) Wi-Fi
 apple,A2757,en,苹果, iPad (10th generation) Wi-Fi + Cellular
 apple,A2777,en,苹果, iPad (10th generation) Wi-Fi + Cellular (China mainland)
 apple,A3162,en,苹果," iPad (10th generation) Wi-Fi + Cellular (eSIM, China mainland)"
+apple,A3354,en,苹果, iPad (A16) Wi-Fi
+apple,A3355,en,苹果, iPad (A16) Wi-Fi + Cellular
+apple,A3356,en,苹果, iPad (A16) Wi-Fi + Cellular (China mainland)
 apple,A1474,en,苹果, iPad Air Wi-Fi
 apple,A1475,en,苹果, iPad Air Wi-Fi + Cellular
 apple,A1476,en,苹果, iPad Air Wi-Fi + Cellular (TD-LTE)
@@ -680,6 +692,12 @@ apple,A2904,en,苹果," iPad Air (11-inch, M2) Wi-Fi + Cellular (China mainland)
 apple,A2898,en,苹果," iPad Air (13-inch, M2) Wi-Fi"
 apple,A2899,en,苹果," iPad Air (13-inch, M2) Wi-Fi + Cellular"
 apple,A2900,en,苹果," iPad Air (13-inch, M2) Wi-Fi + Cellular (China mainland)"
+apple,A3266,en,苹果," iPad Air (11-inch, M3) Wi-Fi"
+apple,A3267,en,苹果," iPad Air (11-inch, M3) Wi-Fi + Cellular"
+apple,A3270,en,苹果," iPad Air (11-inch, M3) Wi-Fi + Cellular (China mainland)"
+apple,A3268,en,苹果," iPad Air (13-inch, M3) Wi-Fi"
+apple,A3269,en,苹果," iPad Air (13-inch, M3) Wi-Fi + Cellular"
+apple,A3271,en,苹果," iPad Air (13-inch, M3) Wi-Fi + Cellular (China mainland)"
 apple,A1584,en,苹果, iPad Pro (12.9-inch) Wi-Fi
 apple,A1652,en,苹果, iPad Pro (12.9-inch) Wi-Fi + Cellular
 apple,A1673,en,苹果, iPad Pro (9.7-inch) Wi-Fi
@@ -905,11 +923,14 @@ apple,A2430,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络)
 apple,A2605,cn,苹果, iPad (第 9 代) (无线局域网 + 蜂窝网络)
 apple,A2777,cn,苹果, iPad (第 10 代) (无线局域网 + 蜂窝网络)
 apple,A3162,cn,苹果, iPad (第 10 代) (无线局域网 + 蜂窝网络) (eSIM)
+apple,A3356,cn,苹果, iPad (A16) (无线局域网 + 蜂窝网络)
 apple,A2154,cn,苹果, iPad Air (第 3 代) (无线局域网 + 蜂窝网络) 
 apple,A2325,cn,苹果, iPad Air (第 4 代) (无线局域网 + 蜂窝网络) 
 apple,A2591,cn,苹果, iPad Air (第 5 代) (无线局域网 + 蜂窝网络)
 apple,A2904,cn,苹果," iPad Air (11 英寸, M2) (无线局域网 + 蜂窝网络)"
 apple,A2900,cn,苹果," iPad Air (13 英寸, M2) (无线局域网 + 蜂窝网络)"
+apple,A3270,cn,苹果," iPad Air (11 英寸, M3) (无线局域网 + 蜂窝网络)"
+apple,A3271,cn,苹果," iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络)"
 apple,A1675,cn,苹果, iPad Pro (9.7 英寸) (无线局域网 + 蜂窝网络) 
 apple,A1821,cn,苹果," iPad Pro (12.9 英寸, 第 2 代) (无线局域网 + 蜂窝网络) "
 apple,A1852,cn,苹果, iPad Pro (10.5 英寸) (无线局域网 + 蜂窝网络) 
@@ -4540,6 +4561,8 @@ nothing,A065,cn,Nothing, Nothing Phone (2) Global
 nothing,AIN065,cn,Nothing, Nothing Phone (2) India
 nothing,A142,cn,Nothing, Nothing Phone (2a)
 nothing,A142P,cn,Nothing, Nothing Phone (2a) Plus
+nothing,A059,cn,Nothing, Nothing Phone (3a)
+nothing,A059P,cn,Nothing, Nothing Phone (3a) Plus
 nothing,A015,cn,Nothing, CMF Phone 1
 nubia,NX501,cn,努比亚, nubia Z5
 nubia,NX401,cn,努比亚, nubia Z5 mini
