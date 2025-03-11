@@ -5623,6 +5623,7 @@ realme,RMX3951,en,真我, realme 13 5G
 realme,RMX5000,en,真我, realme 13+ 5G
 realme,RMX3990,en,真我, realme 13 Pro 5G / realme 14 Pro Lite 5G
 realme,RMX3921,en,真我, realme 13 Pro+ 5G
+realme,RMX5070,en,真我, realme 14 5G
 realme,RMX3940,en,真我, realme 14x 5G
 realme,RMX5056,en,真我, realme 14 Pro 5G
 realme,RMX5051,en,真我, realme 14 Pro+ 5G
@@ -5727,8 +5728,10 @@ realme,RMX3870,en,真我, realme P1 5G
 realme,RMX3844,en,真我, realme P1 Pro 5G
 realme,RMX5004,en,真我, realme P1 Speed 5G
 realme,RMX3987,en,真我, realme P2 Pro 5G
+realme,RMX5070,en,真我, realme P3 5G
 realme,RMX3944,en,真我, realme P3x 5G
 realme,RMX5032,en,真我, realme P3 Pro 5G
+realme,RMX5030,en,真我, realme P3 Ultra 5G
 realme,RMX2002,en,真我, realme Narzo Indonesia
 realme,RMX2040,en,真我, realme Narzo 10 India
 realme,RMX2020,en,真我, realme Narzo 10A India
@@ -5764,6 +5767,7 @@ realme,RMX3869,en,真我, realme NARZO 70 5G
 realme,RMX3868,en,真我, realme NARZO 70 Pro 5G
 realme,RMX3998,en,真我, realme NARZO 70x 5G
 realme,RMX5003,en,真我, realme NARZO 70 Turbo 5G
+realme,RMX3944,en,真我, realme NARZO 80x 5G
 realme,RMP2102,en,真我, realme Pad LTE
 realme,RMP2103,en,真我, realme Pad Wi-Fi
 realme,RMP2105,en,真我, realme Pad mini LTE
@@ -6519,7 +6523,7 @@ samsung,SM-A135U,en,三星, Galaxy A13 US Carrier
 samsung,SM-A135U1,en,三星, Galaxy A13 US Unlocked
 samsung,SM-A135M,en,三星, Galaxy A13 Latin America
 samsung,SM-A135N,en,三星, Galaxy A13 South Korea
-samsung,SM-A137F,en,三星, Galaxy A13 Global (Mediatek)
+samsung,SM-A137F,en,三星, Galaxy A13 Global (MediaTek)
 samsung,SM-A136B,en,三星, Galaxy A13 5G Global
 samsung,SM-A136U,en,三星, Galaxy A13 5G US Carrier
 samsung,SM-A136U1,en,三星, Galaxy A13 5G US Unlocked
@@ -6530,11 +6534,11 @@ samsung,SM-A145F,en,三星, Galaxy A14 Global (Exynos)
 samsung,SM-A145FB,en,三星, Galaxy A14 Global (Exynos)
 samsung,SM-A145M,en,三星, Galaxy A14 Latin America
 samsung,SM-A145MB,en,三星, Galaxy A14 Latin America
-samsung,SM-A145P,en,三星, Galaxy A14 MEA (Mediatek)
-samsung,SM-A145R,en,三星, Galaxy A14 EU (Mediatek)
+samsung,SM-A145P,en,三星, Galaxy A14 MEA (MediaTek)
+samsung,SM-A145R,en,三星, Galaxy A14 EU (MediaTek)
 samsung,SM-A146B,en,三星, Galaxy A14 5G Global (Exynos)
 samsung,SM-A146M,en,三星, Galaxy A14 5G Latin America
-samsung,SM-A146P,en,三星, Galaxy A14 5G Global (Mediatek)
+samsung,SM-A146P,en,三星, Galaxy A14 5G Global (MediaTek)
 samsung,SM-A146U,en,三星, Galaxy A14 5G US Carrier
 samsung,SM-A146U1,en,三星, Galaxy A14 5G US Unlocked
 samsung,SM-S146VL,en,三星, Galaxy A14 5G TracFone
@@ -6561,7 +6565,7 @@ samsung,SM-S166V,en,三星, Galaxy A16 5G TracFone
 samsung,SM-A166W,en,三星, Galaxy A16 5G Canada
 samsung,SM-A166M,en,三星, Galaxy A16 5G Latin America
 samsung,SM-A1660,en,三星, Galaxy A16 5G HK & TW
-samsung,SM-A166P,en,三星, Galaxy A16 5G Global (Mediatek)
+samsung,SM-A166P,en,三星, Galaxy A16 5G Global (MediaTek)
 samsung,SM-A260F,en,三星, Galaxy A2 Core Global
 samsung,SM-A260G,en,三星, Galaxy A2 Core India
 samsung,SM-A205F,en,三星, Galaxy A20 Global
@@ -6619,6 +6623,12 @@ samsung,SM-A256U1,en,三星, Galaxy A25 5G US Unlocked
 samsung,SM-S256VL,en,三星, Galaxy A25 5G TracFone
 samsung,SM-A2560,en,三星, Galaxy A25 5G HK
 samsung,SM-A256N,en,三星, Galaxy A25 5G South Korea
+samsung,SM-A253Q,en,三星, Galaxy A25 5G Japan (SIM Free)
+samsung,SM-A253Z,en,三星, Galaxy A25 5G Japan (SoftBank)
+samsung,SM-A266B,en,三星, Galaxy A26 5G Global
+samsung,SM-A266U,en,三星, Galaxy A26 5G US Carrier
+samsung,SM-A266U1,en,三星, Galaxy A26 5G US Unlocked
+samsung,SM-S266V,en,三星, Galaxy A26 5G TracFone
 samsung,SM-A305F,en,三星, Galaxy A30 Global
 samsung,SM-A305FN,en,三星, Galaxy A30 EU
 samsung,SM-A305G,en,三星, Galaxy A30 Latin America
@@ -7930,7 +7940,7 @@ xiaomi,22120RN86H,cn,小米, Redmi 12C 印度版
 xiaomi,22120RN86I,cn,小米, Redmi 12C 印度版
 xiaomi,2212ARNC4L,cn,小米, Redmi 12C 拉美版 / 日本版
 xiaomi,22126RN91Y,cn,小米, Redmi 12C 国际版 (NFC)
-xiaomi,2404ARN45A,cn,小米, Redmi 13 国际版
+xiaomi,2404ARN45A,cn,小米, Redmi 13 国际版 / Redmi 13X 国际版
 xiaomi,2404ARN45I,cn,小米, Redmi 13 印度版
 xiaomi,24049RN28L,cn,小米, Redmi 13 拉美版
 xiaomi,24040RN64Y,cn,小米, Redmi 13 国际版 (NFC)
@@ -8124,6 +8134,7 @@ xiaomi,24117RN76O,cn,小米, Redmi Note 14 国际版 (NFC)
 xiaomi,24094RAD4C,cn,小米, Redmi Note 14 5G 国行版
 xiaomi,24094RAD4I,cn,小米, Redmi Note 14 5G 印度版
 xiaomi,24094RAD4G,cn,小米, Redmi Note 14 5G 国际版
+xiaomi,2502FRA65G,cn,小米, Redmi Note 14S 国际版
 xiaomi,24116RACCG,cn,小米, Redmi Note 14 Pro 国际版
 xiaomi,24090RA29C,cn,小米, Redmi Note 14 Pro 国行版
 xiaomi,24090RA29G,cn,小米, Redmi Note 14 Pro 5G 国际版
@@ -8659,7 +8670,7 @@ xiaomi,22120RN86I,en,小米, Redmi 12C India
 xiaomi,22120RN86C,en,小米, Redmi 12C China
 xiaomi,2212ARNC4L,en,小米, Redmi 12C Latin America / Japan
 xiaomi,22126RN91Y,en,小米, Redmi 12C Global (NFC)
-xiaomi,2404ARN45A,en,小米, Redmi 13 Global
+xiaomi,2404ARN45A,en,小米, Redmi 13 Global / Redmi 13X Global
 xiaomi,2404ARN45I,en,小米, Redmi 13 India
 xiaomi,24049RN28L,en,小米, Redmi 13 Latin America
 xiaomi,24040RN64Y,en,小米, Redmi 13 Global (NFC)
@@ -8853,6 +8864,7 @@ xiaomi,24117RN76O,en,小米, Redmi Note 14 Global (NFC)
 xiaomi,24094RAD4G,en,小米, Redmi Note 14 5G Global
 xiaomi,24094RAD4I,en,小米, Redmi Note 14 5G India
 xiaomi,24094RAD4C,en,小米, Redmi Note 14 5G China
+xiaomi,2502FRA65G,en,小米, Redmi Note 14S Global
 xiaomi,24116RACCG,en,小米, Redmi Note 14 Pro Global
 xiaomi,24090RA29G,en,小米, Redmi Note 14 Pro 5G Global
 xiaomi,24090RA29I,en,小米, Redmi Note 14 Pro 5G India
