@@ -1282,6 +1282,9 @@ google,GZC4K,cn,Google, Pixel 9 Pro XL (Global)
 google,GQ57S,cn,Google, Pixel 9 Pro XL (Japan)
 google,GGH2X,cn,Google, Pixel 9 Pro Fold (Global)
 google,GC15S,cn,Google, Pixel 9 Pro Fold (Japan)
+google,GXQ96,cn,Google, Pixel 9a (US)
+google,GTF7P,cn,Google, Pixel 9a (Global)
+google,G3Y12,cn,Google, Pixel 9a (Japan)
 google,C1502W,cn,Google, Pixel C
 google,GTU8P,cn,Google, Pixel Tablet
 google,GQF4C,cn,Google, Pixel Watch Bluetooth & Wi-Fi
@@ -3055,6 +3058,7 @@ huawei,NOH-NX9,en,华为, HUAWEI Mate 40 Pro 5G Dual SIM
 huawei,CET-LX9,en,华为, HUAWEI Mate 50
 huawei,DCO-LX9,en,华为, HUAWEI Mate 50 Pro
 huawei,ALN-LX9,en,华为, HUAWEI Mate 60 Pro
+huawei,PLR-L29,en,华为, HUAWEI Mate 70 Pro
 huawei,TAH-N29m,en,华为, HUAWEI Mate Xs Dual SIM
 huawei,PAL-LX9,en,华为, HUAWEI Mate Xs 2
 huawei,PAL-L29,en,华为, HUAWEI Mate Xs 2
@@ -8253,6 +8257,10 @@ xiaomi,23013PC75G,cn,小米, POCO F5 Pro 国际版
 xiaomi,24069PC21G,cn,小米, POCO F6 国际版
 xiaomi,24069PC21I,cn,小米, POCO F6 印度版
 xiaomi,23113RKC6G,cn,小米, POCO F6 Pro 国际版
+xiaomi,25053PC47G,cn,小米, POCO F7 国际版
+xiaomi,25053PC47I,cn,小米, POCO F7 印度版
+xiaomi,24117RK2CG,cn,小米, POCO F7 Pro 国际版
+xiaomi,24122RKC7G,cn,小米, POCO F7 Ultra 国际版
 xiaomi,M1912G7BI,cn,小米, POCO X2 印度版
 xiaomi,M2007J20CI,cn,小米, POCO X3 印度版
 xiaomi,M2007J20CG,cn,小米, POCO X3 NFC 国际版
@@ -8966,6 +8974,10 @@ xiaomi,23013PC75G,en,小米, POCO F5 Pro Global
 xiaomi,24069PC21G,en,小米, POCO F6 Global
 xiaomi,24069PC21I,en,小米, POCO F6 India
 xiaomi,23113RKC6G,en,小米, POCO F6 Pro Global
+xiaomi,25053PC47G,en,小米, POCO F7 Global
+xiaomi,25053PC47I,en,小米, POCO F7 India
+xiaomi,24117RK2CG,en,小米, POCO F7 Pro Global
+xiaomi,24122RKC7G,en,小米, POCO F7 Ultra Global
 xiaomi,M1912G7BI,en,小米, POCO X2 India
 xiaomi,M2007J20CI,en,小米, POCO X3 India
 xiaomi,M2007J20CG,en,小米, POCO X3 NFC Global
