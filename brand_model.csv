@@ -2242,6 +2242,8 @@ huawei,HBN-AL00,cn,华为, HUAWEI Pura 70 Pro
 huawei,HBN-AL10,cn,华为, HUAWEI Pura 70 Pro+
 huawei,HBN-AL80,cn,华为, HUAWEI Pura 70 Pro+
 huawei,HBP-AL00,cn,华为, HUAWEI Pura 70 Ultra
+huawei,VDE-AL00,cn,华为, HUAWEI Pura X
+huawei,VDE-AL10,cn,华为, HUAWEI Pura X 典藏版
 huawei,BAL-AL60,cn,华为, HUAWEI Pocket S
 huawei,LEM-AL00,cn,华为, HUAWEI Pocket 2
 huawei,CAZ-AL00,cn,华为, HUAWEI nova 全网通标配版 
@@ -2847,6 +2849,10 @@ huawei,HD86AJMN,cn,华为, 华为智慧屏 S5 Pro 86
 huawei,HD65WATN,cn,华为, 华为智慧屏 S5 Pro New 65
 huawei,HD75WATN,cn,华为, 华为智慧屏 S5 Pro New 75
 huawei,HD86WATN,cn,华为, 华为智慧屏 S5 Pro New 86
+huawei,HD6XAJMS,cn,华为, 华为智慧屏 S6 Pro 65
+huawei,HD7XAJMS,cn,华为, 华为智慧屏 S6 Pro 75
+huawei,HD8XAJMS,cn,华为, 华为智慧屏 S6 Pro 85
+huawei,HD9XAJMS,cn,华为, 华为智慧屏 S6 Pro 98
 huawei,HD55DESA,cn,华为, 华为智慧屏 SE 55 (2GB+16GB)
 huawei,HD55DESZ,cn,华为, 华为智慧屏 SE 55 畅连通话版 1080P (2GB+16GB)
 huawei,HD55DESY,cn,华为, 华为智慧屏 SE 55 畅连通话版 1080P 金属底座 (2GB+16GB)
@@ -2981,6 +2987,9 @@ huawei,ASK-B19,cn,华为, 华为手环 8 标准版
 huawei,ASK-B29,cn,华为, 华为手环 8 NFC 版
 huawei,KIM-B19,cn,华为, 华为手环 9 标准版
 huawei,KIM-B29,cn,华为, 华为手环 9 NFC 版
+huawei,NOR-B19,cn,华为, 华为手环 10 标准版 (增强型聚合纤维表壳)
+huawei,NOR-B29,cn,华为, 华为手环 10 标准版 (铝合金表壳)
+huawei,NOR-B39,cn,华为, 华为手环 10 NFC 版
 huawei,GMN-BX9,cn,华为, 华为手环 B3
 huawei,GRU-B09,cn,华为, 华为手环 B3 青春版
 huawei,JNS-BX9,cn,华为, 华为手环 B5
@@ -5324,6 +5333,8 @@ oppo,CPH2527,en,OPPO, OPPO F23 5G
 oppo,CPH2603,en,OPPO, OPPO F25 Pro 5G
 oppo,CPH2637,en,OPPO, OPPO F27 5G
 oppo,CPH2643,en,OPPO, OPPO F27 Pro+ 5G
+oppo,CPH2721,en,OPPO, OPPO F29 5G
+oppo,CPH2705,en,OPPO, OPPO F29 Pro 5G
 oppo,CPH1835,en,OPPO, OPPO R15
 oppo,CPH1831,en,OPPO, OPPO R15 Pro
 oppo,CPH1833,en,OPPO, OPPO R15 Pro
@@ -5354,6 +5365,7 @@ oppo,CPH1920,en,OPPO, OPPO AX5s
 oppo,CPH1931,en,OPPO, OPPO A5 2020
 oppo,CPH1933,en,OPPO, OPPO A5 2020
 oppo,CPH1943,en,OPPO, OPPO A5 2020
+oppo,CPH2773,en,OPPO, OPPO A5i
 oppo,CPH2711,en,OPPO, OPPO A5 Pro
 oppo,CPH2695,en,OPPO, OPPO A5 Pro 5G
 oppo,CPH1901,en,OPPO, OPPO A7
@@ -5453,6 +5465,7 @@ oppo,OPD2102A,en,OPPO, OPPO Pad Air
 oppo,OPD2202,en,OPPO, OPPO Pad 2
 oppo,OPD2302,en,OPPO, OPPO Pad Neo Wi-Fi
 oppo,OPD2303,en,OPPO, OPPO Pad Neo LTE
+oppo,OPD2406,en,OPPO, OPPO Pad 3
 oppo,OPD2402,en,OPPO, OPPO Pad 3 Pro
 oppo,OB19B1,en,OPPO, OPPO Band / Style
 oppo,OBBE215,en,OPPO, OPPO Band 2 Japan
