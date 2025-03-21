@@ -7009,6 +7009,8 @@ vivo,V2415A,cn,VIVO, vivo X200
 vivo,V2405A,cn,VIVO, vivo X200 Pro
 vivo,V2405DA,cn,VIVO, vivo X200 Pro 卫星通信版
 vivo,V2419A,cn,VIVO, vivo X200 Pro mini
+vivo,V2454A,cn,VIVO, vivo X200 Ultra
+vivo,V2454DA,cn,VIVO, vivo X200 Ultra 卫星通信版
 vivo,V1831A,cn,VIVO, vivo S1 全网通版
 vivo,V1831T,cn,VIVO, vivo S1 移动全网通版
 vivo,V1832A,cn,VIVO, vivo S1 Pro 全网通版
@@ -7142,8 +7144,10 @@ vivo,V2361GA,cn,VIVO, vivo Y200 GT 5G
 vivo,V2353DA,cn,VIVO, vivo Y200t 5G
 vivo,V2435A,cn,VIVO, vivo Y300 5G
 vivo,V2410A,cn,VIVO, vivo Y300 Pro 5G
-vivo,V2444A,cn,VIVO, vivo Y300i
-vivo,V2445EA,cn,VIVO, vivo Y300t
+vivo,V2456A,cn,VIVO, vivo Y300 Pro+ 5G
+vivo,V2444A,cn,VIVO, vivo Y300i 5G
+vivo,V2445EA,cn,VIVO, vivo Y300t 5G
+vivo,V2452GA,cn,VIVO, vivo Y300 GT 5G
 vivo,V2115A,cn,VIVO, vivo T1
 vivo,V2123A,cn,VIVO, vivo T1x
 vivo,V2188A,cn,VIVO, vivo T2x
@@ -7236,6 +7240,8 @@ vivo,V2352A,cn,VIVO, iQOO Z9 Turbo
 vivo,V2352GA,cn,VIVO, iQOO Z9 Turbo 长续航版
 vivo,V2417A,cn,VIVO, iQOO Z9 Turbo+
 vivo,V2353A,cn,VIVO, iQOO Z9x
+vivo,V2452A,cn,VIVO, iQOO Z10 Turbo
+vivo,V2453A,cn,VIVO, iQOO Z10 Turbo Pro
 vivo,V2445A,cn,VIVO, iQOO Z10x
 vivo,V2023A,cn,VIVO, iQOO U1
 vivo,V2065A,cn,VIVO, iQOO U1x
@@ -7255,6 +7261,7 @@ vivo,iPA2451,cn,VIVO, iQOO Pad Air
 vivo,iPA2453,cn,VIVO, iQOO Pad2
 vivo,iPA2475,cn,VIVO, iQOO Pad2 Pro
 vivo,V1930,en,VIVO, vivo X50e 5G
+vivo,V1937,en,VIVO, vivo X50 Lite
 vivo,V2006,en,VIVO, vivo X51 5G
 vivo,V2045,en,VIVO, vivo X60
 vivo,V2046,en,VIVO, vivo X60 Pro
@@ -7276,7 +7283,6 @@ vivo,V2025,en,VIVO, vivo V20
 vivo,V2022,en,VIVO, vivo V20 SE
 vivo,V2023,en,VIVO, vivo V20 SE
 vivo,V2040,en,VIVO, vivo V20 2021
-vivo,V2050,en,VIVO, vivo V21 5G
 vivo,V2061,en,VIVO, vivo V21e
 vivo,V2055,en,VIVO, vivo V21e 5G
 vivo,V2130,en,VIVO, vivo V23 5G
@@ -7296,33 +7302,35 @@ vivo,V2230,en,VIVO, vivo V27 Pro
 vivo,V2237,en,VIVO, vivo V27e
 vivo,V2250,en,VIVO, vivo V29
 vivo,V2251,en,VIVO, vivo V29 Pro
-vivo,V2303,en,VIVO, vivo V29e 5G
-vivo,V2304,en,VIVO, vivo V29e 5G
-vivo,V2317,en,VIVO, vivo V29e 5G
+vivo,V2317,en,VIVO, vivo V29e 5G Global
+vivo,V2303,en,VIVO, vivo V29e 5G India
 vivo,V2244,en,VIVO, vivo V29 Lite 5G
 vivo,V2318,en,VIVO, vivo V30
 vivo,V2319,en,VIVO, vivo Y30 Pro
 vivo,V2339,en,VIVO, vivo V30e
 vivo,V2340,en,VIVO, vivo V30e
 vivo,V2342,en,VIVO, vivo V30 Lite
-vivo,V2314,en,VIVO, vivo V30 Lite 5G
-vivo,V2327,en,VIVO, vivo V30 Lite 5G
-vivo,V2327,en,VIVO, vivo V30 SE
+vivo,V2314,en,VIVO, vivo V30 Lite 5G Global
+vivo,V2327,en,VIVO, vivo V30 Lite 5G (ME)
 vivo,V2349,en,VIVO, vivo V30 SE
 vivo,V2348,en,VIVO, vivo V40
 vivo,V2347,en,VIVO, vivo V40 Pro
 vivo,V2403,en,VIVO, vivo V40e
-vivo,V2417,en,VIVO, vivo V40 Lite 5G
-vivo,V2418,en,VIVO, vivo V40 Lite 5G
+vivo,V2424,en,VIVO, vivo V40 Lite Indonesia
+vivo,V2340,en,VIVO, vivo V40 Lite 5G Global
+vivo,V2341,en,VIVO, vivo V40 Lite 5G Global
+vivo,V2417,en,VIVO, vivo V40 Lite 5G Indonesia
+vivo,V2418,en,VIVO, vivo V40 Lite 5G Indonesia
 vivo,V2342,en,VIVO, vivo V40 SE
 vivo,V2337,en,VIVO, vivo V40 SE 5G
 vivo,V2418,en,VIVO, vivo V40 SE 80W
 vivo,V2427,en,VIVO, vivo V50
 vivo,V2448,en,VIVO, vivo V50
 vivo,V2451,en,VIVO, vivo V50
+vivo,V2504,en,VIVO, vivo V50 Pro
 vivo,V2428,en,VIVO, vivo V50e
 vivo,V2441,en,VIVO, vivo V50 Lite
-vivo,V2453,en,VIVO, vivo V50 Lite
+vivo,V2453,en,VIVO, vivo V50 Lite 5G
 vivo,V2440,en,VIVO, Jovi V50 Lite
 vivo,V1937,en,VIVO, vivo S1 Prime
 vivo,V2153,en,VIVO, vivo T1
@@ -7361,6 +7369,9 @@ vivo,V2026,en,VIVO, vivo Y12s
 vivo,V2026_21,en,VIVO, vivo Y12s
 vivo,V2042,en,VIVO, vivo Y12s
 vivo,V2134,en,VIVO, vivo Y15A
+vivo,V2120,en,VIVO, vivo Y15s
+vivo,V2125,en,VIVO, vivo Y15s
+vivo,V2139,en,VIVO, vivo Y15s
 vivo,V2310,en,VIVO, vivo Y17s
 vivo,V2331,en,VIVO, vivo Y17s
 vivo,V2333,en,VIVO, vivo Y18
@@ -7380,7 +7391,7 @@ vivo,V2038,en,VIVO, vivo Y20s [G]
 vivo,V2129,en,VIVO, vivo Y20T
 vivo,V2043,en,VIVO, vivo Y20 2021
 vivo,V2043_21,en,VIVO, vivo Y20 2021
-vivo,V2065,en,VIVO, vivo Y20g 2021
+vivo,V2065,en,VIVO, vivo Y20G 2021
 vivo,V2026,en,VIVO, vivo Y20i 2021
 vivo,V2111,en,VIVO, vivo Y21
 vivo,V2149,en,VIVO, vivo Y21A
@@ -7433,8 +7444,8 @@ vivo,V2154,en,VIVO, vivo Y55
 vivo,V2127,en,VIVO, vivo Y55 5G
 vivo,V2355,en,VIVO, vivo Y58 5G
 vivo,V2443,en,VIVO, vivo Y59 5G
-vivo,V2041,en,VIVO, vivo Y72
-vivo,V2060,en,VIVO, vivo Y72 5G
+vivo,V2041,en,VIVO, vivo Y72 5G Global
+vivo,V2060,en,VIVO, vivo Y72 5G India
 vivo,V2059,en,VIVO, vivo Y73
 vivo,V2059-EG,en,VIVO, vivo Y73
 vivo,V2117,en,VIVO, vivo Y75
@@ -7443,6 +7454,8 @@ vivo,V2124,en,VIVO, vivo Y76 5G
 vivo,V2169,en,VIVO, vivo Y77 5G
 vivo,V2244,en,VIVO, vivo Y78 5G
 vivo,V2222,en,VIVO, vivo Y100A 5G
+vivo,V2424,en,VIVO, vivo Y200
+vivo,V2425,en,VIVO, vivo Y200
 vivo,V2307,en,VIVO, vivo Y200 5G
 vivo,V2336,en,VIVO, vivo Y200e 5G
 vivo,V2416,en,VIVO, vivo Y300 5G
@@ -7450,28 +7463,29 @@ vivo,V2422,en,VIVO, vivo Y300+ 5G
 vivo,V2402,en,VIVO, vivo Y300 Pro 5G
 vivo,I1927,en,VIVO, iQOO 3 4G
 vivo,I1928,en,VIVO, iQOO 3 5G
-vivo,I2009,en,VIVO, iQOO 7
-vivo,I2012,en,VIVO, iQOO 7
+vivo,I2009,en,VIVO, iQOO 7 Global
+vivo,I2012,en,VIVO, iQOO 7 India
 vivo,I2017,en,VIVO, iQOO 9
-vivo,I2201,en,VIVO, iQOO 9T
 vivo,I2022,en,VIVO, iQOO 9 Pro
 vivo,I2019,en,VIVO, iQOO 9 SE
+vivo,I2201,en,VIVO, iQOO 9T
 vivo,I2212,en,VIVO, iQOO 11
 vivo,I2220,en,VIVO, iQOO 12
 vivo,I2401,en,VIVO, iQOO 13
 vivo,I2202,en,VIVO, iQOO Neo6
 vivo,I2214,en,VIVO, iQOO Neo7
 vivo,I2217,en,VIVO, iQOO Neo7 Pro
-vivo,I2303,en,VIVO, iQOO Neo9
 vivo,I2304,en,VIVO, iQOO Neo9 Pro
 vivo,I2221,en,VIVO, iQOO Neo10R
 vivo,I2011,en,VIVO, iQOO Z3 5G
 vivo,I2018,en,VIVO, iQOO Z5
-vivo,I2126,en,VIVO, iQOO Z6 Pro
+vivo,I2127,en,VIVO, iQOO Z6 5G
+vivo,I2203,en,VIVO, iQOO Z6 44W
+vivo,I2206,en,VIVO, iQOO Z6 44W
+vivo,I2126,en,VIVO, iQOO Z6 Pro 5G
 vivo,I2208,en,VIVO, iQOO Z6 Lite 5G
-vivo,I2205,en,VIVO, iQOO Z6 Pro SE
-vivo,I2207,en,VIVO, iQOO Z7 5G
-vivo,I2213,en,VIVO, iQOO Z7 5G
+vivo,I2213,en,VIVO, iQOO Z7 5G Global
+vivo,I2207,en,VIVO, iQOO Z7 5G India
 vivo,I2223,en,VIVO, iQOO Z7s 5G
 vivo,I2216,en,VIVO, iQOO Z7x 5G
 vivo,I2301,en,VIVO, iQOO Z7 Pro 5G
@@ -7479,6 +7493,7 @@ vivo,I2219,en,VIVO, iQOO Z9x 5G
 vivo,I2306,en,VIVO, iQOO Z9 Lite 5G
 vivo,I2403,en,VIVO, iQOO Z9s 5G
 vivo,I2305,en,VIVO, iQOO Z9s Pro 5G
+vivo,I2407,en,VIVO, iQOO Z10 5G
 vivo,I2404,en,VIVO, iQOO Z10x 5G
 xiaomi-wear,XMSH01HM,cn,小米, 小米手环
 xiaomi-wear,XMSH02HM,cn,小米, 小米手环 光感版
