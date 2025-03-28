@@ -1599,6 +1599,7 @@ honor,WDY-AN00,cn,荣耀, 荣耀畅玩 40 5G / 荣耀畅玩 40C 5G / 荣耀畅�
 honor,RKY-AN00,cn,荣耀, 荣耀畅玩 40 Plus 5G
 honor,JDY-AN00,cn,荣耀, 荣耀畅玩 50 5G / 荣耀畅玩 50m 5G
 honor,CLK-AN00,cn,荣耀, 荣耀畅玩 50 Plus 5G
+honor,NIC-AN00,cn,荣耀, 荣耀畅玩 60 5G
 honor,ALT-AN00,cn,荣耀, 荣耀畅玩 60 Plus 5G
 honor,S8-701w,cn,荣耀, 荣耀平板 Wi-Fi 版
 honor,S8-701u,cn,荣耀, 荣耀平板 3G 版
@@ -2082,6 +2083,7 @@ honor,ROL-W009,en,荣耀, HONOR Pad V9
 honor,ELN-W09,en,荣耀, HONOR Pad X9 Wi-Fi
 honor,ELN-L03,en,荣耀, HONOR Pad X9 LTE
 honor,ELN-L09,en,荣耀, HONOR Pad X9 LTE
+honor,ELN2-W29,en,荣耀, HONOR Pad X9a Wi-Fi
 honor,ROD2-W09,en,荣耀, HONOR MagicPad2
 huawei,MT1-T00,cn,华为, 华为 Ascend Mate 移动版
 huawei,MT1-U06,cn,华为, 华为 Ascend Mate 联通版
@@ -9163,7 +9165,8 @@ zhixuan,GAR-AN60,cn,华为智选, Hi 畅享 60s 5G
 zhixuan,LGN-AN00,cn,华为智选, Hi 畅享 60 Pro 5G
 zhixuan,MKY-AN20,cn,华为智选, Hi 畅享 70 5G / Hi 畅享 70m 5G
 zhixuan,BAL-AN20,cn,华为智选, Hi 畅享 70 Pro 5G
-zhixuan,JEY-AN00,cn,华为智选, Hi 畅享 70 Plus
+zhixuan,JEY-AN00,cn,华为智选, Hi 畅享 70 Plus 5G
+zhixuan,JLG-AN00,cn,华为智选, Hi 畅享 80S 5G
 zhixuan,BRO-W00,cn,华为智选, Hi MatePad
 zte,A2017,cn,中兴, 中兴天机 7
 zte,A2018,cn,中兴, 中兴天机 7S
