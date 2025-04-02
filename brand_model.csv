@@ -7762,6 +7762,7 @@ xiaomi,25019PNF3C,cn,小米, Xiaomi 15 Ultra 国行版
 xiaomi,25010PN30C,cn,小米, Xiaomi 15 Ultra 双卫星版 国行版
 xiaomi,25010PN30G,cn,小米, Xiaomi 15 Ultra 国际版
 xiaomi,25010PN30I,cn,小米, Xiaomi 15 Ultra 印度版
+xiaomi,25042PN24C,cn,小米, Xiaomi 15S Pro
 xiaomi,2014616,cn,小米, 小米 Note 双网通版
 xiaomi,2014619,cn,小米, 小米 Note 全网通版
 xiaomi,2014618,cn,小米, 小米 Note 移动合约版
@@ -7991,7 +7992,7 @@ xiaomi,22120RN86H,cn,小米, Redmi 12C 印度版
 xiaomi,22120RN86I,cn,小米, Redmi 12C 印度版
 xiaomi,2212ARNC4L,cn,小米, Redmi 12C 拉美版 / 日本版
 xiaomi,22126RN91Y,cn,小米, Redmi 12C 国际版 (NFC)
-xiaomi,2404ARN45A,cn,小米, Redmi 13 国际版 / Redmi 13X 国际版
+xiaomi,2404ARN45A,cn,小米, Redmi 13 国际版 / REDMI 13x 国际版
 xiaomi,2404ARN45I,cn,小米, Redmi 13 印度版
 xiaomi,24049RN28L,cn,小米, Redmi 13 拉美版
 xiaomi,24040RN64Y,cn,小米, Redmi 13 国际版 (NFC)
@@ -8271,6 +8272,11 @@ xiaomi,24048RN6CI,cn,小米, Redmi A3x 印度版
 xiaomi,24044RN32L,cn,小米, Redmi A3x 拉美版
 xiaomi,2409BRN2CG,cn,小米, Redmi A3 Pro 国际版
 xiaomi,24116RNC1I,cn,小米, Redmi A4 5G 印度版
+xiaomi,25028RN03G,cn,小米, REDMI A5 国际版
+xiaomi,25028RN03A,cn,小米, REDMI A5 国际版
+xiaomi,25028RN03Y,cn,小米, REDMI A5 国际版
+xiaomi,25028RN03I,cn,小米, REDMI A5 印度版
+xiaomi,25028RN03L,cn,小米, REDMI A5 拉美版
 xiaomi,22081283C,cn,小米, Redmi Pad 国行版
 xiaomi,22081283G,cn,小米, Redmi Pad 国际版
 xiaomi,23073RPBFC,cn,小米, Redmi Pad SE 国行版
@@ -8368,6 +8374,10 @@ xiaomi,2312BPC51X,cn,小米, POCO C61 国际版
 xiaomi,2312BPC51H,cn,小米, POCO C61 印度版
 xiaomi,2310FPCA4G,cn,小米, POCO C65 国际版
 xiaomi,2310FPCA4I,cn,小米, POCO C65 印度版
+xiaomi,25028PC03G,cn,小米, POCO C71 国际版
+xiaomi,25028PC03Y,cn,小米, POCO C71 国际版
+xiaomi,25028PC03I,cn,小米, POCO C71 印度版
+xiaomi,25028PC03L,cn,小米, POCO C71 拉美版
 xiaomi,2410FPCC5G,cn,小米, POCO C75 国际版
 xiaomi,2410FPCC5I,cn,小米, POCO C75 印度版
 xiaomi,24116PCC1I,cn,小米, POCO C75 5G 印度版
@@ -8519,6 +8529,7 @@ xiaomi,25010PN30G,en,小米, Xiaomi 15 Ultra Global
 xiaomi,25010PN30I,en,小米, Xiaomi 15 Ultra India
 xiaomi,25019PNF3C,en,小米, Xiaomi 15 Ultra China (Tiantong satellite)
 xiaomi,25010PN30C,en,小米, Xiaomi 15 Ultra China (Tiantong & Beidou satellites)
+xiaomi,25042PN24C,en,小米, Xiaomi 15S Pro China
 xiaomi,2015011,en,小米, Mi Note Global
 xiaomi,2014616,en,小米, Mi Note China (Dual-network)
 xiaomi,2014619,en,小米, Mi Note China (Full-network)
@@ -8725,7 +8736,7 @@ xiaomi,22120RN86I,en,小米, Redmi 12C India
 xiaomi,22120RN86C,en,小米, Redmi 12C China
 xiaomi,2212ARNC4L,en,小米, Redmi 12C Latin America / Japan
 xiaomi,22126RN91Y,en,小米, Redmi 12C Global (NFC)
-xiaomi,2404ARN45A,en,小米, Redmi 13 Global / Redmi 13X Global
+xiaomi,2404ARN45A,en,小米, Redmi 13 Global / REDMI 13x Global
 xiaomi,2404ARN45I,en,小米, Redmi 13 India
 xiaomi,24049RN28L,en,小米, Redmi 13 Latin America
 xiaomi,24040RN64Y,en,小米, Redmi 13 Global (NFC)
@@ -9004,6 +9015,11 @@ xiaomi,24048RN6CI,en,小米, Redmi A3x India
 xiaomi,24044RN32L,en,小米, Redmi A3x Latin America
 xiaomi,2409BRN2CG,en,小米, Redmi A3 Pro Global
 xiaomi,24116RNC1I,en,小米, Redmi A4 5G India
+xiaomi,25028RN03G,en,小米, REDMI A5 Global
+xiaomi,25028RN03A,en,小米, REDMI A5 Global
+xiaomi,25028RN03Y,en,小米, REDMI A5 Global
+xiaomi,25028RN03I,en,小米, REDMI A5 India
+xiaomi,25028RN03L,en,小米, REDMI A5 Latin America
 xiaomi,M1805E10A,en,小米, POCO F1
 xiaomi,M2004J11G,en,小米, POCO F2 Pro Global
 xiaomi,M2012K11AG,en,小米, POCO F3 Global
@@ -9085,6 +9101,10 @@ xiaomi,2312BPC51X,en,小米, POCO C61 Global
 xiaomi,2312BPC51H,en,小米, POCO C61 India
 xiaomi,2310FPCA4G,en,小米, POCO C65 Global
 xiaomi,2310FPCA4I,en,小米, POCO C65 India
+xiaomi,25028PC03G,en,小米, POCO C71 Global
+xiaomi,25028PC03Y,en,小米, POCO C71 Global
+xiaomi,25028PC03I,en,小米, POCO C71 India
+xiaomi,25028PC03L,en,小米, POCO C71 Latin America
 xiaomi,2410FPCC5G,en,小米, POCO C75 Global
 xiaomi,2410FPCC5I,en,小米, POCO C75 India
 xiaomi,24116PCC1I,en,小米, POCO C75 5G India
