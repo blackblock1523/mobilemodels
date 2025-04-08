@@ -2439,6 +2439,8 @@ huawei,CTR-AL20,cn,华为, 华为畅享 70 Pro
 huawei,MGA-AL40,cn,华为, 华为畅享 70z
 huawei,GFY-AL00,cn,华为, 华为畅享 70S
 huawei,BRE-AL80,cn,华为, 华为畅享 70X
+huawei,BRE-AL00a,cn,华为, 华为畅享 70X 活力版 (128GB)
+huawei,BRE-AL00b,cn,华为, 华为畅享 70X 活力版 (256GB/512GB)
 huawei,S8-301W,cn,华为, 华为 MediaPad M1 Wi-Fi 版
 huawei,S8-301U,cn,华为, 华为 MediaPad M1 3G 版
 huawei,S8-303L,cn,华为, 华为 MediaPad M1 LTE 版
@@ -2894,6 +2896,10 @@ huawei,HD75KUNL,cn,华为, 华为 Vision 智慧屏 4 SE 75
 huawei,HD85KUNL,cn,华为, 华为 Vision 智慧屏 4 SE 85
 huawei,HD75ARQD,cn,华为, 华为 Vision 智慧屏 4 Pro 75
 huawei,HD85ARQD,cn,华为, 华为 Vision 智慧屏 4 Pro 85
+huawei,HD6XAJMN,cn,华为, 华为 Vision 智慧屏 5 65
+huawei,HD7XAJMN,cn,华为, 华为 Vision 智慧屏 5 75
+huawei,HD8XAJMN,cn,华为, 华为 Vision 智慧屏 5 85
+huawei,HD9XAJMN,cn,华为, 华为 Vision 智慧屏 5 98
 huawei,HD55DESB,cn,华为, 华为智慧屏 B3-500
 huawei,HD65DESB,cn,华为, 华为智慧屏 B3-600
 huawei,HDB325A7,cn,华为, 华为智慧屏 B3 55
@@ -4201,7 +4207,9 @@ mitv,L70RB-RA,cn,小米电视, Redmi 智能电视 A70 2025
 mitv,L75MA-RA,cn,小米电视, Redmi 智能电视 A75 2025
 mitv,L32RA-RAE,cn,小米电视, REDMI 电视 A32 2025 节能版 (一级能效)
 mitv,L43RA-RAE,cn,小米电视, REDMI 电视 A43 2025 节能版 (一级能效)
+mitv,L55RB-RAE,cn,小米电视, REDMI 电视 A55 2025 节能版 (一级能效)
 mitv,L65RB-RAE,cn,小米电视, REDMI 电视 A65 2025 节能版 (一级能效)
+mitv,L70RB-RAE,cn,小米电视, REDMI 电视 A70 2025 节能版 (一级能效)
 mitv,L75MA-RAE,cn,小米电视, REDMI 电视 A75 2025 节能版 (一级能效)
 mitv,L43RB-AP,cn,小米电视, Redmi 智能电视 A Pro 43
 mitv,L50RB-AP,cn,小米电视, Redmi 智能电视 A Pro 50 节能版 (二级能效)
@@ -4685,6 +4693,7 @@ nubia,NX729S,cn,努比亚, 红魔 8S Pro / 红魔 8S Pro+
 nubia,NX769J,cn,努比亚, 红魔 9 Pro / 红魔 9 Pro+
 nubia,NX769J,cn,努比亚, 红魔 9S Pro / 红魔 9S Pro+
 nubia,NX789J,cn,努比亚, 红魔 10 Pro / 红魔 10 Pro+
+nubia,NX779J,cn,努比亚, 红魔 10 Air
 nubia,NP01J,cn,努比亚, 红魔电竞平板 5G
 nubia,NP03J,cn,努比亚, 红魔电竞平板 Pro
 nubia,NP02J,cn,努比亚, 红魔平板 · 3D 探索版 5G
@@ -4800,6 +4809,7 @@ oneplus,CPH2645,cn,一加, OnePlus 13R 欧洲版 / 国际版
 oneplus,CPH2647,cn,一加, OnePlus 13R 北美版
 oneplus,CPH2691,cn,一加, OnePlus 13R 印度版
 oneplus,PKR110,cn,一加, OnePlus Ace 5 Pro 国行版
+oneplus,PKX110,cn,一加, OnePlus 13T 国行版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲版 / 国际版
 oneplus,DN2101,cn,一加, OnePlus Nord 2 印度版
@@ -4964,6 +4974,7 @@ oneplus,CPH2645,en,一加, OnePlus 13R Europe / Global
 oneplus,CPH2647,en,一加, OnePlus 13R North America
 oneplus,CPH2691,en,一加, OnePlus 13R India
 oneplus,PKR110,en,一加, OnePlus Ace 5 Pro China
+oneplus,PKX110,en,一加, OnePlus 13T China
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord Europe / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 India
@@ -7272,6 +7283,8 @@ vivo,PA2373,cn,VIVO, vivo Pad2
 vivo,PA2353,cn,VIVO, vivo Pad Air
 vivo,PA2455,cn,VIVO, vivo Pad3
 vivo,PA2473,cn,VIVO, vivo Pad3 Pro
+vivo,PA2573,cn,VIVO, vivo Pad5 Pro
+vivo,PA2511,cn,VIVO, vivo Pad SE
 vivo,iPA2375,cn,VIVO, iQOO Pad
 vivo,iPA2451,cn,VIVO, iQOO Pad Air
 vivo,iPA2453,cn,VIVO, iQOO Pad2
@@ -7616,6 +7629,7 @@ xiaomi-wear,M2344E1,cn,小米, Redmi Buds 6 活力版
 xiaomi-wear,M2349E1,cn,小米, Redmi Buds 6 青春版
 xiaomi-wear,M2420E1,cn,小米, Redmi Buds 6 Play 国际版
 xiaomi-wear,M2411E1,cn,小米, REDMI Buds SE
+xiaomi-wear,M2455E1,cn,小米, REDMI Buds 7S
 xiaomi-wear,TWSEJ01ZM,cn,小米, POCO Buds Pro Genshin Impact Edition 国际版
 xiaomi-wear,M2237E1,cn,小米, POCO Pods 印度版
 xiaomi-wear,M2350E1,cn,小米, POCO Buds X1 印度版
