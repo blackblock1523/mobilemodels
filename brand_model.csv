@@ -2441,6 +2441,7 @@ huawei,GFY-AL00,cn,华为, 华为畅享 70S
 huawei,BRE-AL80,cn,华为, 华为畅享 70X
 huawei,BRE-AL00a,cn,华为, 华为畅享 70X 活力版 (128GB)
 huawei,BRE-AL00b,cn,华为, 华为畅享 70X 活力版 (256GB/512GB)
+huawei,JUY-AL00,cn,华为, 华为畅享 80
 huawei,S8-301W,cn,华为, 华为 MediaPad M1 Wi-Fi 版
 huawei,S8-301U,cn,华为, 华为 MediaPad M1 3G 版
 huawei,S8-303L,cn,华为, 华为 MediaPad M1 LTE 版
@@ -6673,10 +6674,13 @@ samsung,SM-A2560,en,三星, Galaxy A25 5G HK
 samsung,SM-A256N,en,三星, Galaxy A25 5G South Korea
 samsung,SM-A253Q,en,三星, Galaxy A25 5G Japan (SIM Free)
 samsung,SM-A253Z,en,三星, Galaxy A25 5G Japan (SoftBank)
+samsung,SCG33,en,三星, Galaxy A25 5G Japan (au)
+samsung,SC-53F,en,三星, Galaxy A25 5G Japan (NTT Docomo)
 samsung,SM-A266B,en,三星, Galaxy A26 5G Global
 samsung,SM-A266U,en,三星, Galaxy A26 5G US Carrier
 samsung,SM-A266U1,en,三星, Galaxy A26 5G US Unlocked
 samsung,SM-S266V,en,三星, Galaxy A26 5G TracFone
+samsung,SM-A266M,en,三星, Galaxy A26 5G Latin America
 samsung,SM-A305F,en,三星, Galaxy A30 Global
 samsung,SM-A305FN,en,三星, Galaxy A30 EU
 samsung,SM-A305G,en,三星, Galaxy A30 Latin America
@@ -6906,6 +6910,7 @@ samsung,SM-M556B,en,三星, Galaxy M55 5G India
 samsung,SM-M556E,en,三星, Galaxy M55 5G Global
 samsung,SM-M558B,en,三星, Galaxy M55s 5G
 samsung,SM-C5560,en,三星, Galaxy C55 5G
+samsung,SM-M566B,en,三星, Galaxy M56 5G
 samsung,SM-M625F,en,三星, Galaxy M62
 samsung,SM-E025F,en,三星, Galaxy F02s
 samsung,SM-E045F,en,三星, Galaxy F04
@@ -6925,6 +6930,7 @@ samsung,SM-E426B,en,三星, Galaxy F42 5G
 samsung,SM-E5260,en,三星, Galaxy F52 5G
 samsung,SM-E546B,en,三星, Galaxy F54 5G
 samsung,SM-E556B,en,三星, Galaxy F55 5G
+samsung,SM-E566B,en,三星, Galaxy F56 5G
 samsung,SM-E625F,en,三星, Galaxy F62
 smartisan,SM701,cn,锤子, Smartisan T1 3G 版
 smartisan,SM705,cn,锤子, Smartisan T1 4G 版
@@ -7036,6 +7042,7 @@ vivo,V2415A,cn,VIVO, vivo X200
 vivo,V2405A,cn,VIVO, vivo X200 Pro
 vivo,V2405DA,cn,VIVO, vivo X200 Pro 卫星通信版
 vivo,V2419A,cn,VIVO, vivo X200 Pro mini
+vivo,V2458A,cn,VIVO, vivo X200s
 vivo,V2454A,cn,VIVO, vivo X200 Ultra
 vivo,V2454DA,cn,VIVO, vivo X200 Ultra 卫星通信版
 vivo,V1831A,cn,VIVO, vivo S1 全网通版
