@@ -1443,6 +1443,7 @@ honor,YOK-AN10,cn,荣耀, 荣耀 V40 5G
 honor,ALA-AN70,cn,荣耀, 荣耀 V40 轻奢版 5G
 honor,VCA-AN00,cn,荣耀, 荣耀 V Purse
 honor,AMG-AN00,cn,荣耀, 荣耀 GT
+honor,PPG-AN00,cn,荣耀, 荣耀 GT Pro
 honor,G750-T00,cn,荣耀, 荣耀 3X 双 3G 版
 honor,G750-U00,cn,荣耀, 荣耀 3X 联通版
 honor,G750-T20,cn,荣耀, 荣耀 3X Pro
@@ -1501,6 +1502,7 @@ honor,BRC-AN00,cn,荣耀, 荣耀 X60
 honor,BRP-AN00,cn,荣耀, 荣耀 X60 Pro
 honor,BRP-AN80,cn,荣耀, 荣耀 X60 Pro 卫星版
 honor,LYN-AN00,cn,荣耀, 荣耀 X60i
+honor,AGI-AN00,cn,荣耀, 荣耀 X60 GT
 honor,JMM-AL00,cn,荣耀, 荣耀 V9 Play 全网通标配版
 honor,JMM-AL10,cn,荣耀, 荣耀 V9 Play 全网通高配版
 honor,JMM-TL00,cn,荣耀, 荣耀 V9 Play 移动定制标配版
@@ -1531,6 +1533,8 @@ honor,LLY-AN00,cn,荣耀, 荣耀 Play8T Pro 5G
 honor,ALT-AN00,cn,荣耀, 荣耀 Play9T 5G
 honor,LYN-AN00,cn,荣耀, 荣耀 Play9T Pro 5G
 honor,JDY-AN00,cn,荣耀, 荣耀 Play9C 5G
+honor,DVD-AN00,cn,荣耀, 荣耀 Power
+honor,DVD-AN80,cn,荣耀, 荣耀 Power 卫星版
 honor,EDI-AL10,cn,荣耀, 荣耀 Note8 全网通版
 honor,EDI-DL00,cn,荣耀, 荣耀 Note8 移动/联通版
 honor,RVL-AL09,cn,荣耀, 荣耀 Note10
@@ -1652,6 +1656,7 @@ honor,NDL-AL00,cn,荣耀, 荣耀平板 X9 11 英寸 LTE 版
 honor,ROL-W00,cn,荣耀, 荣耀平板 V9 11.5 英寸 Wi-Fi 版
 honor,ROL-W10,cn,荣耀, 荣耀平板 V9 柔光版 11.5 英寸 Wi-Fi 版
 honor,ELN2-W09,cn,荣耀, 荣耀平板 X9 Pro 11.5 英寸 Wi-Fi 版
+honor,ROL-W60,cn,荣耀, 荣耀平板 GT 11.5 英寸 Wi-Fi 版
 honor,HDN-W09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
 honor,HDN-L09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 LTE 版
 honor,HDL-W09,cn,荣耀, 荣耀 Waterplay 8 英寸 Wi-Fi 版
@@ -1777,6 +1782,7 @@ honor,FRI-G56,cn,荣耀, 荣耀笔记本 X14 2024 i5 (16GB+512GB)
 honor,FRI-G561,cn,荣耀, 荣耀笔记本 X14 2024 i5 (16GB+1TB)
 honor,FRI-H56,cn,荣耀, 荣耀笔记本 X14 2024 R5 (16GB+512GB)
 honor,FRG-X,cn,荣耀, 荣耀笔记本 X14 2025
+honor,GDG-X,cn,荣耀, 荣耀笔记本 X14 2025 战斗版
 honor,FMI-76,cn,荣耀, 荣耀笔记本 X14 Plus 2024 R7 (16GB+512GB)
 honor,FMI-721,cn,荣耀, 荣耀笔记本 X14 Plus 2024 R7 (32GB+1TB)
 honor,FRB-X,cn,荣耀, 荣耀笔记本 X14 Plus 2025
@@ -1867,6 +1873,8 @@ honor,FLA-B19,cn,荣耀, 荣耀手环 7 标准版
 honor,FLA-B39,cn,荣耀, 荣耀手环 7 NFC 版
 honor,RHE-B19,cn,荣耀, 荣耀手环 9 标准版
 honor,RHE-B39,cn,荣耀, 荣耀手环 9 NFC 版
+honor,VNE-B19,cn,荣耀, 荣耀手环 10 标准版
+honor,VNE-B39,cn,荣耀, 荣耀手环 10 NFC 版
 honor,CGN-A00,cn,荣耀, 荣耀观影眼镜
 honor,U8860,cn,荣耀, Honor 联通版
 honor,C8860E,cn,荣耀, Honor 电信版
@@ -2902,6 +2910,10 @@ huawei,HD6XAJMN,cn,华为, 华为 Vision 智慧屏 5 65
 huawei,HD7XAJMN,cn,华为, 华为 Vision 智慧屏 5 75
 huawei,HD8XAJMN,cn,华为, 华为 Vision 智慧屏 5 85
 huawei,HD9XAJMN,cn,华为, 华为 Vision 智慧屏 5 98
+huawei,HD55KULU,cn,华为, 华为 Vision 智慧屏 5 SE 55
+huawei,HD65KULU,cn,华为, 华为 Vision 智慧屏 5 SE 65
+huawei,HD75KULU,cn,华为, 华为 Vision 智慧屏 5 SE 75
+huawei,HD85KULU,cn,华为, 华为 Vision 智慧屏 5 SE 85
 huawei,HD55DESB,cn,华为, 华为智慧屏 B3-500
 huawei,HD65DESB,cn,华为, 华为智慧屏 B3-600
 huawei,HDB325A7,cn,华为, 华为智慧屏 B3 55
@@ -4812,6 +4824,7 @@ oneplus,CPH2647,cn,一加, OnePlus 13R 北美版
 oneplus,CPH2691,cn,一加, OnePlus 13R 印度版
 oneplus,PKR110,cn,一加, OnePlus Ace 5 Pro 国行版
 oneplus,PKX110,cn,一加, OnePlus 13T 国行版
+oneplus,CPH2723,cn,一加, OnePlus 13T 国际版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲版 / 国际版
 oneplus,DN2101,cn,一加, OnePlus Nord 2 印度版
@@ -4849,21 +4862,21 @@ oneplus,DE2117,cn,一加, OnePlus Nord N200 北美版
 oneplus,DE2118,cn,一加, OnePlus Nord N200 T-Mobile 版
 oneplus,CPH2389,cn,一加, OnePlus Nord N300
 oneplus,CPH2551,cn,一加, OnePlus Open
-oneplus,OPD2203,cn,一加, OnePlus Pad (国际)
+oneplus,OPD2203,cn,一加, OnePlus Pad (2023)
 oneplus,OPD2304,cn,一加, OnePlus Pad Go LTE
 oneplus,OPD2305,cn,一加, OnePlus Pad Go Wi-Fi
-oneplus,OPD2407,cn,一加, OnePlus Pad (国行)
+oneplus,OPD2407,cn,一加, OnePlus Pad (2024)
 oneplus,OPD2404,cn,一加, OnePlus Pad Pro
 oneplus,OPD2403,cn,一加, OnePlus Pad 2
 oneplus,W101IN,cn,一加, OnePlus Band 印度版
 oneplus,OPBBE221,cn,一加, OnePlus Nord Watch 
 oneplus,W301CN,cn,一加, OnePlus Watch 国行版 / Cyberpunk 2077 限定版
 oneplus,W501CN,cn,一加, OnePlus Watch 钴合金限定版 (国行)
-oneplus,W301GB,cn,一加, OnePlus Watch 国际版 / 钴合金限定版 (国际)
+oneplus,W301GB,cn,一加, OnePlus Watch 国际版 / 钴合金限定版 (国际) / 哈利波特限定版
 oneplus,OPWW234,cn,一加, OnePlus Watch 2 (国行)
 oneplus,OPWWE234,cn,一加, OnePlus Watch 2R
-oneplus,OPWWE231,cn,一加, OnePlus Watch 2
-oneplus,OPWWE231,cn,一加, OnePlus Watch 2 国际版
+oneplus,OPWWE231,cn,一加, OnePlus Watch 2 (国际)
+oneplus,OPWWE251,cn,一加, OnePlus Watch 3 (国际)
 oneplus,A0001,en,一加, OnePlus One China / China Mobile / Global
 oneplus,A1001,en,一加, OnePlus One China Unicom
 oneplus,A2001,en,一加, OnePlus 2 China
@@ -4977,6 +4990,7 @@ oneplus,CPH2647,en,一加, OnePlus 13R North America
 oneplus,CPH2691,en,一加, OnePlus 13R India
 oneplus,PKR110,en,一加, OnePlus Ace 5 Pro China
 oneplus,PKX110,en,一加, OnePlus 13T China
+oneplus,CPH2723,en,一加, OnePlus 13T Global
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord Europe / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 India
@@ -5006,26 +5020,29 @@ oneplus,BE2011,en,一加, OnePlus Nord N100 North America
 oneplus,BE2012,en,一加, OnePlus Nord N100 T-Mobile
 oneplus,BE2013,en,一加, OnePlus Nord N100 Global
 oneplus,BE2015,en,一加, OnePlus Nord N100 Metro
+oneplus,GN2200,en,一加, OnePlus Nord N20
+oneplus,CPH2459,en,一加, OnePlus Nord N20
 oneplus,CPH2469,en,一加, OnePlus Nord 20 SE
 oneplus,CPH2605,en,一加, OnePlus Nord N30 SE Europe
 oneplus,DE2117,en,一加, OnePlus Nord N200 North America
 oneplus,DE2118,en,一加, OnePlus Nord N200 T-Mobile
 oneplus,CPH2389,en,一加, OnePlus Nord N300
 oneplus,CPH2551,en,一加, OnePlus Open
-oneplus,OPD2203,en,一加, OnePlus Pad (Global)
+oneplus,OPD2203,en,一加, OnePlus Pad (2023)
 oneplus,OPD2304,en,一加, OnePlus Pad Go LTE
 oneplus,OPD2305,en,一加, OnePlus Pad Go Wi-Fi
-oneplus,OPD2407,en,一加, OnePlus Pad (China)
+oneplus,OPD2407,en,一加, OnePlus Pad (2024)
 oneplus,OPD2404,en,一加, OnePlus Pad Pro
 oneplus,OPD2403,en,一加, OnePlus Pad 2
 oneplus,W101IN,en,一加, OnePlus Band India
 oneplus,OPBBE221,en,一加, OnePlus Nord Watch
 oneplus,W301CN,en,一加, OnePlus Watch China / Cyberpunk 2077 Limited Edition
 oneplus,W501CN,en,一加, OnePlus Watch Cobalt Limited Edition (China)
-oneplus,W301GB,en,一加, OnePlus Watch Global / Cobalt Limited Edition (Global)
-oneplus,OPWW234,en,一加, OnePlus Watch 2 (CN)
+oneplus,W301GB,en,一加, OnePlus Watch Global / Cobalt Limited Edition (Global) / Harry Potter Limited Edition
+oneplus,OPWW234,en,一加, OnePlus Watch 2 (China)
 oneplus,OPWWE234,en,一加, OnePlus Watch 2R
-oneplus,OPWWE231,en,一加, OnePlus Watch 2
+oneplus,OPWWE231,en,一加, OnePlus Watch 2 (Global)
+oneplus,OPWWE251,en,一加, OnePlus Watch 3 (Global)
 oppo,PAFM00,cn,OPPO, OPPO Find X 标准版 全网通版
 oppo,PAFT00,cn,OPPO, OPPO Find X 标准版 移动版
 oppo,PAHM00,cn,OPPO, OPPO Find X 超级闪充版/兰博基尼版 全网通版
@@ -5206,6 +5223,7 @@ oppo,PHF110,cn,OPPO, OPPO K11x
 oppo,PJR110,cn,OPPO, OPPO K12
 oppo,PKS110,cn,OPPO, OPPO K12 Plus
 oppo,PJT110,cn,OPPO, OPPO K12x
+oppo,PLD110,cn,OPPO, OPPO K12s
 oppo,OPD2101,cn,OPPO, OPPO Pad
 oppo,OPD2102,cn,OPPO, OPPO Pad Air
 oppo,OPD2201,cn,OPPO, OPPO Pad 2
@@ -5230,9 +5248,9 @@ oppo,OWW202,cn,OPPO, OPPO Watch 2 42mm 蓝牙版
 oppo,OW20W1,cn,OPPO, OPPO Watch 2 46mm eSIM 版 / 李宁限定版
 oppo,OW20W2,cn,OPPO, OPPO Watch 2 42mm eSIM 版 / 名侦探柯南限定版
 oppo,OW20W3,cn,OPPO, OPPO Watch 2 46mm ECG
+oppo,OWW213,cn,OPPO, OPPO Watch SE
 oppo,OWW212,cn,OPPO, OPPO Watch 3
 oppo,OWW211,cn,OPPO, OPPO Watch 3 Pro
-oppo,OWW213,cn,OPPO, OPPO Watch SE
 oppo,OWW221,cn,OPPO, OPPO Watch 4 Pro
 oppo,OWW231,cn,OPPO, OPPO Watch X
 oppo,OWW251,cn,OPPO, OPPO Watch X2
@@ -5494,10 +5512,11 @@ oppo,OPD2402,en,OPPO, OPPO Pad 3 Pro
 oppo,OB19B1,en,OPPO, OPPO Band / Style
 oppo,OBBE215,en,OPPO, OPPO Band 2 Japan
 oppo,OWWE201,en,OPPO, OPPO Watch Free
-oppo,OW19W6,en,OPPO, OPPO Watch 41mm Wi-Fi
-oppo,OW19W8,en,OPPO, OPPO Watch 46mm Wi-Fi
+oppo,OW19W6,en,OPPO, OPPO Watch 41mm
+oppo,OW19W8,en,OPPO, OPPO Watch 46mm
 oppo,OW19W12,en,OPPO, OPPO Watch 46mm LTE
 oppo,OWWE231,en,OPPO, OPPO Watch X
+oppo,OWWE251,en,OPPO, OPPO Watch X2
 realme,RMX1901,cn,真我, 真我 X
 realme,RMX1851,cn,真我, 真我 X 青春版
 realme,RMX1991,cn,真我, 真我 X2
@@ -6080,6 +6099,10 @@ samsung,SM-X616C,cn,三星, Galaxy Tab S9 FE+ 5G
 samsung,SM-X820,cn,三星, Galaxy Tab S10+ WLAN
 samsung,SM-X920,cn,三星, Galaxy Tab S10 Ultra WLAN
 samsung,SM-X926C,cn,三星, Galaxy Tab S10 Ultra 5G
+samsung,SM-X520,cn,三星, Galaxy Tab S10 FE WLAN
+samsung,SM-X526C,cn,三星, Galaxy Tab S10 FE 5G
+samsung,SM-X620,cn,三星, Galaxy Tab S10 FE+ WLAN
+samsung,SM-X626C,cn,三星, Galaxy Tab S10 FE+ 5G
 samsung,SM-T350,cn,三星, Galaxy Tab A 8.0 WLAN
 samsung,SM-T355C,cn,三星, Galaxy Tab A 8.0 LTE
 samsung,SM-T550,cn,三星, Galaxy Tab A 9.7 WLAN
@@ -7386,6 +7409,7 @@ vivo,V2338,en,VIVO, vivo T3x 5G
 vivo,V2404,en,VIVO, vivo T3 Pro 5G
 vivo,V2356,en,VIVO, vivo T3 Lite 5G
 vivo,V2426,en,VIVO, vivo T3 Ultra 5G
+vivo,V2502,en,VIVO, vivo T4 5G
 vivo,V2437,en,VIVO, vivo T4x 5G
 vivo,V2044,en,VIVO, vivo Y3s
 vivo,V2118,en,VIVO, vivo Y01
@@ -7420,6 +7444,8 @@ vivo,V2350,en,VIVO, vivo Y18e
 vivo,V2414,en,VIVO, vivo Y18i
 vivo,V2419,en,VIVO, vivo Y19s
 vivo,V2423,en,VIVO, vivo Y19s
+vivo,V2425,en,VIVO, Jovi Y19s
+vivo,V2454,en,VIVO, Jovi Y19s
 vivo,V2431,en,VIVO, vivo Y19e
 vivo,V2027,en,VIVO, vivo Y20
 vivo,V2037,en,VIVO, vivo Y20G
@@ -7455,6 +7481,7 @@ vivo,V2351,en,VIVO, vivo Y28s 5G
 vivo,V2407,en,VIVO, vivo Y28e 5G
 vivo,V2434,en,VIVO, vivo Y29
 vivo,V2435,en,VIVO, vivo Y29
+vivo,V2445,en,VIVO, Jovi Y29
 vivo,V2420,en,VIVO, vivo Y29 5G
 vivo,V2446,en,VIVO, vivo Y29s 5G
 vivo,V2160,en,VIVO, vivo Y30 5G
