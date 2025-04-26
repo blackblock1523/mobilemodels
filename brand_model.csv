@@ -1503,6 +1503,7 @@ honor,BRP-AN00,cn,荣耀, 荣耀 X60 Pro
 honor,BRP-AN80,cn,荣耀, 荣耀 X60 Pro 卫星版
 honor,LYN-AN00,cn,荣耀, 荣耀 X60i
 honor,AGI-AN00,cn,荣耀, 荣耀 X60 GT
+honor,ABR-AN00,cn,荣耀, 荣耀 X70i
 honor,JMM-AL00,cn,荣耀, 荣耀 V9 Play 全网通标配版
 honor,JMM-AL10,cn,荣耀, 荣耀 V9 Play 全网通高配版
 honor,JMM-TL00,cn,荣耀, 荣耀 V9 Play 移动定制标配版
@@ -4221,6 +4222,7 @@ mitv,L70RB-RA,cn,小米电视, Redmi 智能电视 A70 2025
 mitv,L75MA-RA,cn,小米电视, Redmi 智能电视 A75 2025
 mitv,L32RA-RAE,cn,小米电视, REDMI 电视 A32 2025 节能版 (一级能效)
 mitv,L43RA-RAE,cn,小米电视, REDMI 电视 A43 2025 节能版 (一级能效)
+mitv,L50RB-RAE,cn,小米电视, REDMI 电视 A50 2025 节能版 (二级能效)
 mitv,L55RB-RAE,cn,小米电视, REDMI 电视 A55 2025 节能版 (一级能效)
 mitv,L65RB-RAE,cn,小米电视, REDMI 电视 A65 2025 节能版 (一级能效)
 mitv,L70RB-RAE,cn,小米电视, REDMI 电视 A70 2025 节能版 (一级能效)
@@ -4230,7 +4232,7 @@ mitv,L50RB-AP,cn,小米电视, Redmi 智能电视 A Pro 50 节能版 (二级能�
 mitv,L55RB-AP,cn,小米电视, Redmi 智能电视 A Pro 55 节能版 (二级能效)
 mitv,L65RB-AP,cn,小米电视, Redmi 智能电视 A Pro 65 节能版 (二级能效)
 mitv,L70RB-AP,cn,小米电视, Redmi 智能电视 A Pro 70 节能版 (二级能效)
-mitv,L75RB-AP,cn,小米电视, Redmi 智能电视 A Pro 75 节能版 (二级能效)
+mitv,L75RB-AP,cn,小米电视, Redmi 智能电视 A Pro 75 节能版 (一级能效)
 mitv,L43RB-APE,cn,小米电视, REDMI 智能电视 A Pro 43 2025 节能版 (二级能效)
 mitv,L50RB-APE,cn,小米电视, REDMI 智能电视 A Pro 50 2025 节能版 (二级能效)
 mitv,L55RB-APE,cn,小米电视, REDMI 智能电视 A Pro 55 2025 节能版 (二级能效)
@@ -4258,6 +4260,10 @@ mitv,L55RB-RX,cn,小米电视, Redmi 智能电视 X55 2025
 mitv,L65RB-RX,cn,小米电视, Redmi 智能电视 X65 2025
 mitv,L75RB-RX,cn,小米电视, Redmi 智能电视 X75 2025
 mitv,L85RB-RX,cn,小米电视, Redmi 智能电视 X85 2025
+mitv,L55RB-RXE,cn,小米电视, REDMI 电视 X55 2025 节能版 (二级能效)
+mitv,L65RB-RXE,cn,小米电视, REDMI 电视 X65 2025 节能版 (二级能效)
+mitv,L75RB-RXE,cn,小米电视, REDMI 电视 X75 2025 节能版 (一级能效)
+mitv,L85RB-RXE,cn,小米电视, REDMI 电视 X85 2025 节能版 (一级能效)
 mitv,L65R9-XP,cn,小米电视, Redmi 智能电视 X Pro 65
 mitv,L75R9-XP,cn,小米电视, Redmi 智能电视 X Pro 75
 mitv,L85RA-RX,cn,小米电视, Redmi 智能电视 MAX 85 英寸
@@ -4688,6 +4694,7 @@ nubia,A403ZT,cn,努比亚, nubia S 5G SoftBank
 nubia,LPD-20W,cn,努比亚, nubia Pad 3D
 nubia,NP02J,cn,努比亚, nubia Pad 3D II
 nubia,K99J,cn,努比亚, nubia Pad SE
+nubia,NT01,cn,努比亚, nubia Pad Pro
 nubia,NX609J,cn,努比亚, 红魔电竞游戏手机
 nubia,NX619J,cn,努比亚, 红魔 Mars 电竞手机
 nubia,NX629J,cn,努比亚, 红魔 3
@@ -5503,6 +5510,7 @@ oppo,CPH1955,en,OPPO, OPPO K3
 oppo,CPH2373,en,OPPO, OPPO K10
 oppo,CPH2237,en,OPPO, OPPO K10 5G
 oppo,CPH2667,en,OPPO, OPPO K12x 5G
+oppo,CPH2729,en,OPPO, OPPO K13 5G
 oppo,OPD2102A,en,OPPO, OPPO Pad Air
 oppo,OPD2202,en,OPPO, OPPO Pad 2
 oppo,OPD2302,en,OPPO, OPPO Pad Neo Wi-Fi
@@ -5693,6 +5701,7 @@ realme,RMX3990,en,真我, realme 13 Pro 5G / realme 14 Pro Lite 5G
 realme,RMX3921,en,真我, realme 13 Pro+ 5G
 realme,RMX5070,en,真我, realme 14 5G
 realme,RMX3940,en,真我, realme 14x 5G
+realme,RMX5079,en,真我, realme 14T 5G
 realme,RMX5056,en,真我, realme 14 Pro 5G
 realme,RMX5051,en,真我, realme 14 Pro+ 5G
 realme,RMX1901,en,真我, realme X
@@ -7631,6 +7640,7 @@ xiaomi-wear,M2427W1,cn,小米, REDMI Watch 5 蓝牙版
 xiaomi-wear,M2428W1,cn,小米, REDMI Watch 5 eSIM 版
 xiaomi-wear,M2351W1,cn,小米, Redmi Watch 5 Active 印度版
 xiaomi-wear,M2352W1,cn,小米, Redmi Watch 5 Lite 印度版
+xiaomi-wear,M2460W1,cn,小米, Redmi Watch Move 印度版
 xiaomi-wear,M2131W1,cn,小米, POCO Watch
 xiaomi-wear,M2111E1,cn,小米, Xiaomi 真无线降噪耳机 3
 xiaomi-wear,M2103E1,cn,小米, Xiaomi 真无线降噪耳机 3 Pro
@@ -8045,7 +8055,7 @@ xiaomi,2212ARNC4L,cn,小米, Redmi 12C 拉美版 / 日本版
 xiaomi,22126RN91Y,cn,小米, Redmi 12C 国际版 (NFC)
 xiaomi,2404ARN45A,cn,小米, Redmi 13 国际版 / REDMI 13x 国际版
 xiaomi,2404ARN45I,cn,小米, Redmi 13 印度版
-xiaomi,24049RN28L,cn,小米, Redmi 13 拉美版
+xiaomi,24049RN28L,cn,小米, Redmi 13 拉美版 / REDMI 13x 拉美版
 xiaomi,24040RN64Y,cn,小米, Redmi 13 国际版 (NFC)
 xiaomi,2406ERN9CI,cn,小米, Redmi 13 5G 印度版
 xiaomi,23106RN0DA,cn,小米, Redmi 13C 国际版
@@ -8250,6 +8260,7 @@ xiaomi,M2004J7BC,cn,小米, Redmi 10X Pro 5G
 xiaomi,M2003J15SC,cn,小米, Redmi 10X 4G
 xiaomi,24069RA21C,cn,小米, Redmi Turbo 3
 xiaomi,24129RT7CC,cn,小米, REDMI Turbo 4
+xiaomi,25053RT47C,cn,小米, REDMI Turbo 4 Pro
 xiaomi,M1903F10A,cn,小米, Redmi K20 全网通版
 xiaomi,M1903F10C,cn,小米, Redmi K20 运营商全网通版
 xiaomi,M1903F10I,cn,小米, Redmi K20 印度版
@@ -8789,7 +8800,7 @@ xiaomi,2212ARNC4L,en,小米, Redmi 12C Latin America / Japan
 xiaomi,22126RN91Y,en,小米, Redmi 12C Global (NFC)
 xiaomi,2404ARN45A,en,小米, Redmi 13 Global / REDMI 13x Global
 xiaomi,2404ARN45I,en,小米, Redmi 13 India
-xiaomi,24049RN28L,en,小米, Redmi 13 Latin America
+xiaomi,24049RN28L,en,小米, Redmi 13 Latin America / REDMI 13x Latin America
 xiaomi,24040RN64Y,en,小米, Redmi 13 Global (NFC)
 xiaomi,2406ERN9CI,en,小米, Redmi 13 5G India
 xiaomi,23106RN0DA,en,小米, Redmi 13C Global
@@ -8994,6 +9005,7 @@ xiaomi,M2004J7BC,en,小米, Redmi 10X Pro 5G China
 xiaomi,M2003J15SC,en,小米, Redmi 10X 4G China
 xiaomi,24069RA21C,en,小米, Redmi Turbo 3 China
 xiaomi,24129RT7CC,en,小米, REDMI Turbo 4 China
+xiaomi,25053RT47C,en,小米, REDMI Turbo 4 Pro China
 xiaomi,M1903F10A,en,小米, Redmi K20 China
 xiaomi,M1903F10C,en,小米, Redmi K20 Chinese Carrier Version
 xiaomi,M1903F10I,en,小米, Redmi K20 India
@@ -9240,7 +9252,7 @@ zhixuan,LGN-AN00,cn,华为智选, Hi 畅享 60 Pro 5G
 zhixuan,MKY-AN20,cn,华为智选, Hi 畅享 70 5G / Hi 畅享 70m 5G
 zhixuan,BAL-AN20,cn,华为智选, Hi 畅享 70 Pro 5G
 zhixuan,JEY-AN00,cn,华为智选, Hi 畅享 70 Plus 5G
-zhixuan,JLG-AN00,cn,华为智选, Hi 畅享 80S 5G
+zhixuan,JLG-AN00,cn,华为智选, Hi 畅享 80 5G / Hi 畅享 80S 5G
 zhixuan,BRO-W00,cn,华为智选, Hi MatePad
 zte,A2017,cn,中兴, 中兴天机 7
 zte,A2018,cn,中兴, 中兴天机 7S
