@@ -4589,6 +4589,11 @@ motorola,XT2453-2,cn,摩托罗拉, moto razr 50
 motorola,XT2451-4,cn,摩托罗拉, moto razr 50 Ultra
 motorola,XT2435-3,cn,摩托罗拉, moto g55
 motorola,XT2437-4,cn,摩托罗拉, moto g75
+motorola,XT2505-4,cn,摩托罗拉, moto edge 60
+motorola,XT2503-3,cn,摩托罗拉, moto edge 60s
+motorola,XT2507-5,cn,摩托罗拉, moto edge 60 Pro
+motorola,XT2553-2,cn,摩托罗拉, moto razr 60
+motorola,XT2551-3,cn,摩托罗拉, moto razr 60 Ultra
 nokia,TA-1000,cn,诺基亚, Nokia 6
 nokia,TA-1054,cn,诺基亚, Nokia 6 (第二代)
 nokia,TA-1041,cn,诺基亚, Nokia 7
@@ -5702,6 +5707,7 @@ realme,RMX3990,en,真我, realme 13 Pro 5G / realme 14 Pro Lite 5G
 realme,RMX3921,en,真我, realme 13 Pro+ 5G
 realme,RMX5070,en,真我, realme 14 5G
 realme,RMX3940,en,真我, realme 14x 5G
+realme,RMX5078,en,真我, realme 14T 5G
 realme,RMX5079,en,真我, realme 14T 5G
 realme,RMX5056,en,真我, realme 14 Pro 5G
 realme,RMX5051,en,真我, realme 14 Pro+ 5G
@@ -5734,6 +5740,8 @@ realme,RMX3371,en,真我, realme GT NEO 3T
 realme,RMX3709,en,真我, realme GT 3 240W
 realme,RMX3851,en,真我, realme GT 6
 realme,RMX3853,en,真我, realme GT 6T
+realme,RMX5061,en,真我, realme GT 7
+realme,RMX5085,en,真我, realme GT 7T
 realme,RMX5011,en,真我, realme GT 7 Pro
 realme,RMX1805,en,真我, realme C1
 realme,RMX1941,en,真我, realme C2
