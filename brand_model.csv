@@ -3438,6 +3438,7 @@ lenovo,Lenovo,cn,联想, 小新 Pad
 lenovo,TB-J606F,cn,联想, 小新 Pad
 lenovo,TB128FU,cn,联想, 小新 Pad 2022
 lenovo,TB331FC,cn,联想, 小新 Pad 2024
+lenovo,TB335FC,cn,联想, 小新平板 11
 lenovo,Lenovo,cn,联想, 小新 Pad Plus
 lenovo,TB-J607F,cn,联想, 小新 Pad Plus
 lenovo,Lenovo,cn,联想, 小新 Pad Plus 5G
@@ -3483,6 +3484,7 @@ lenovo,Lenovo,cn,联想, 拯救者平板 Y700 (2022)
 lenovo,TB-9707F,cn,联想, 拯救者平板 Y700 (2022)
 lenovo,TB320FC,cn,联想, 拯救者平板 Y700 2023
 lenovo,TB321FU,cn,联想, 拯救者平板 Y700 2025
+lenovo,TB322FC,cn,联想, 拯救者平板 Y700 四代
 lenovo,TB570FU,cn,联想, 拯救者平板 Y900
 lenovo,TB570ZU,cn,联想, 拯救者平板 Y900
 lenovo,Lenovo,cn,联想, 联想天骄平板电脑
@@ -3566,6 +3568,8 @@ lenovo,TB240FC,cn,联想, 联想启天 K12 12.7 英寸 Wi-Fi 版
 lenovo,SP523FC,cn,联想, 联想启天 SmartPaper 10.3 英寸 Wi-Fi 版
 lenovo,TB310FU,cn,联想, 联想昭阳 K9 9 英寸 Wi-Fi 版
 lenovo,TB310XC,cn,联想, 联想昭阳 K9 9 英寸 LTE 版
+lenovo,TB305FU,cn,联想, 联想昭阳 K9 8.7 英寸 Wi-Fi 版
+lenovo,TB305XC,cn,联想, 联想昭阳 K9 8.7 英寸 LTE 版
 lenovo,TB330FU,cn,联想, 联想昭阳 K10 10.95 英寸 Wi-Fi 版
 lenovo,TB330XC,cn,联想, 联想昭阳 K10 10.95 英寸 LTE 版
 lenovo,TB360ZU,cn,联想, 联想昭阳 K10 10.61 英寸 5G 版
@@ -3576,6 +3580,7 @@ lenovo,TB352XC,cn,联想, 联想昭阳 K11 11.5 英寸 LTE 版
 lenovo,TB240FC,cn,联想, 联想昭阳 K12 12.7 英寸 Wi-Fi 版
 lenovo,TB373FU,cn,联想, 联想昭阳 K12 (二代) 12.7 英寸 Wi-Fi 版
 lenovo,TB373ZC,cn,联想, 联想昭阳 K12 (二代) 12.7 英寸 5G 版
+lenovo,TB-X802F,cn,联想, 联想昭阳 G11 10.95 英寸 Wi-Fi 版
 lenovo,Lenovo,cn,联想, Lenovo Tab K11 11 英寸 Wi-Fi 版
 lenovo,TB-J606F,cn,联想, Lenovo Tab K11 11 英寸 Wi-Fi 版
 lenovo,Lenovo,cn,联想, Lenovo Tab K11 11 英寸 LTE 版
