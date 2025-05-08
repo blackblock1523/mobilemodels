@@ -3722,6 +3722,8 @@ meizu,M822Q,cn,魅族, 魅族 Note8 公开版
 meizu,M822H,cn,魅族, 魅族 Note8 国际版
 meizu,M923Q,cn,魅族, 魅族 Note9 公开版
 meizu,M923H,cn,魅族, 魅族 Note9 国际版
+meizu,M521Q,cn,魅族, 魅族 Note 16
+meizu,M531Q,cn,魅族, 魅族 Note 16 Pro
 meizu,M411H,cn,魅族, 魅族 Note 21 国际版
 meizu,M411L,cn,魅族, 魅族 Note 21 国际版
 meizu,M412H,cn,魅族, 魅族 Note 21 Pro 国际版
@@ -3940,6 +3942,8 @@ meizu,M822H,en,魅族, MEIZU Note 8 Global
 meizu,M822Q,en,魅族, MEIZU Note 8 China
 meizu,M923H,en,魅族, MEIZU Note 9 Global
 meizu,M923Q,en,魅族, MEIZU Note 9 China
+meizu,M521Q,en,魅族, MEIZU Note 16
+meizu,M531Q,en,魅族, MEIZU Note 16 Pro
 meizu,M411H,en,魅族, MEIZU Note 21 Global
 meizu,M411L,en,魅族, MEIZU Note 21 Global
 meizu,M412H,en,魅族, MEIZU Note 21 Pro Global
@@ -4600,6 +4604,7 @@ motorola,XT2505-4,cn,摩托罗拉, moto edge 60
 motorola,XT2503-3,cn,摩托罗拉, moto edge 60s
 motorola,XT2507-5,cn,摩托罗拉, moto edge 60 Pro
 motorola,XT2553-2,cn,摩托罗拉, moto razr 60
+motorola,XT2557-1,cn,摩托罗拉, moto razr 60 Pro
 motorola,XT2551-3,cn,摩托罗拉, moto razr 60 Ultra
 nokia,TA-1000,cn,诺基亚, Nokia 6
 nokia,TA-1054,cn,诺基亚, Nokia 6 (第二代)
@@ -5146,6 +5151,8 @@ oppo,PJV110,cn,OPPO, OPPO Reno12
 oppo,PJW110,cn,OPPO, OPPO Reno12 Pro
 oppo,PKM110,cn,OPPO, OPPO Reno13
 oppo,PKK110,cn,OPPO, OPPO Reno13 Pro
+oppo,PLA110,cn,OPPO, OPPO Reno14
+oppo,PKZ110,cn,OPPO, OPPO Reno14 Pro
 oppo,PCLM10,cn,OPPO, OPPO Reno Ace
 oppo,PDHM00,cn,OPPO, OPPO Ace2
 oppo,PACM00,cn,OPPO, OPPO R15 全网通版
@@ -5252,6 +5259,7 @@ oppo,OPD2301,cn,OPPO, OPPO Pad Air2
 oppo,OPD2405,cn,OPPO, OPPO Pad 3
 oppo,OPD2401,cn,OPPO, OPPO Pad 3 Pro
 oppo,OPD2409,cn,OPPO, OPPO Pad 4 Pro
+oppo,OPD2417,cn,OPPO, OPPO Pad SE
 oppo,OB19B1,cn,OPPO, OPPO Band 标准版 / 名侦探柯南限定版
 oppo,OB19B3,cn,OPPO, OPPO Band NFC 版
 oppo,OB19O0,cn,OPPO, OPPO Band 时尚版
@@ -5579,6 +5587,7 @@ realme,RMX3700,cn,真我, 真我 GT Neo5 SE
 realme,RMX3852,cn,真我, 真我 GT Neo6
 realme,RMX3850,cn,真我, 真我 GT Neo6 SE
 realme,RMX5060,cn,真我, 真我 Neo7
+realme,RMX5062,cn,真我, 真我 Neo7 Turbo
 realme,RMX5080,cn,真我, 真我 Neo7 SE
 realme,RMX5071,cn,真我, 真我 Neo7x
 realme,RMX1971,cn,真我, 真我 Q
@@ -7312,6 +7321,7 @@ vivo,V2339FA,cn,VIVO, iQOO Neo9S Pro
 vivo,V2403A,cn,VIVO, iQOO Neo9S Pro+
 vivo,V2425A,cn,VIVO, iQOO Neo10
 vivo,V2426A,cn,VIVO, iQOO Neo10 Pro
+vivo,V2463A,cn,VIVO, iQOO Neo10 Pro+
 vivo,V1986A,cn,VIVO, iQOO Z1
 vivo,V2012A,cn,VIVO, iQOO Z1x
 vivo,V2073A,cn,VIVO, iQOO Z3
