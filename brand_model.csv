@@ -4336,6 +4336,8 @@ mitv,L32MA-AIN,en,小米电视, Xiaomi Smart TV A 32 2024 Edition
 mitv,L40M8-5AIN,en,小米电视, Xiaomi Smart TV A 40
 mitv,L43M8-5AIN,en,小米电视, Xiaomi Smart TV A 43
 mitv,L43MA-AFIN,en,小米电视, Xiaomi Smart TV A 43 2024 Edition
+mitv,L32MB-APIN,en,小米电视, Xiaomi QLED TV A Pro 32
+mitv,L43MA-AUIN,en,小米电视, Xiaomi Smart TV A Pro 4K 43
 mitv,L43M7-A2IN,en,小米电视, Xiaomi Smart TV X 43
 mitv,L43M8-A2IN,en,小米电视, Xiaomi Smart TV X 43 2023 Edition
 mitv,L43MA-AUIN,en,小米电视, Xiaomi Smart TV X 43 2023 Edition
@@ -4346,14 +4348,24 @@ mitv,L55M7-A2IN,en,小米电视, Xiaomi Smart TV X 55
 mitv,L55M8-A2IN,en,小米电视, Xiaomi Smart TV X 55 2023 Edition
 mitv,L55MA-AIN,en,小米电视, Xiaomi Smart TV X 55 2024 Edition
 mitv,L65M8-A2IN,en,小米电视, Xiaomi Smart TV X 65 2023 Edition
+mitv,L43MB-AIN,en,小米电视, Xiaomi 4K TV X 43
+mitv,L50MB-AIN,en,小米电视, Xiaomi 4K TV X 50
+mitv,L55MB-AIN,en,小米电视, Xiaomi 4K TV X 55
+mitv,L55M6-EQG,en,小米电视, Mi QLED TV Q1 4K 55
+mitv,L75M6-ESG,en,小米电视, Mi QLED TV Q1 75
 mitv,L43M8-5XIN,en,小米电视, Xiaomi Smart TV X Pro 43
 mitv,L43MA-SIN,en,小米电视, Xiaomi Smart TV X Pro QLED Series 43
 mitv,L50M8-5XIN,en,小米电视, Xiaomi Smart TV X Pro 50
 mitv,L55M8-5XIN,en,小米电视, Xiaomi Smart TV X Pro 55
 mitv,L55MA-SIN,en,小米电视, Xiaomi Smart TV X Pro QLED Series 55
 mitv,L65MA-SIN,en,小米电视, Xiaomi Smart TV X Pro QLED Series 65
-mitv,L55M6-EQG,en,小米电视, Mi QLED TV Q1 4K 55
-mitv,L75M6-ESG,en,小米电视, Mi QLED TV Q1 75
+mitv,L43MB-APIN,en,小米电视, Xiaomi QLED TV X Pro 43 2025 Edition
+mitv,L55MB-APIN,en,小米电视, Xiaomi QLED TV X Pro 55 2025 Edition
+mitv,L65MB-APIN,en,小米电视, Xiaomi QLED TV X Pro 65 2025 Edition
+mitv,L43MB-FIN,en,小米电视, Xiaomi 4K TV FX 43
+mitv,L55MB-FIN,en,小米电视, Xiaomi 4K TV FX 55
+mitv,L43MB-FPIN,en,小米电视, Xiaomi QLED TV FX Pro 43
+mitv,L55MB-FPIN,en,小米电视, Xiaomi QLED TV FX Pro 55
 mitv,O55M7-Z2IN,en,小米电视, Xiaomi OLED Vision TV 55
 mitv,L32M6-RA,en,小米电视, Redmi Smart TV 32
 mitv,L32M7-RA,en,小米电视, Redmi Smart TV 32
@@ -4418,6 +4430,7 @@ mitv,L58M7-EASEA,en,小米电视, Xiaomi TV A2 58
 mitv,L32M7-EAID,en,小米电视, Xiaomi TV A2 32
 mitv,L43M7-EAID,en,小米电视, Xiaomi TV A2 UHD 43
 mitv,L55M7-EAID,en,小米电视, Xiaomi TV A2 55
+mitv,L43M7-ETI,en,小米电视, Xiaomi TV A2 FHD 43
 mitv,L32M7-EAVN,en,小米电视, Xiaomi TV A2 32
 mitv,L43M7-ETH,en,小米电视, Xiaomi TV A2 FHD 43
 mitv,L43M7-EATWN,en,小米电视, Xiaomi 智慧顯示器 A2 43 型
@@ -4431,13 +4444,19 @@ mitv,L50M7-FVEU,en,小米电视, Xiaomi Fire TV F2 50
 mitv,L55M7-FVEU,en,小米电视, Xiaomi Fire TV F2 55
 mitv,L32M8-P2EU,en,小米电视, Xiaomi TV A 32
 mitv,L43M8-P2EU,en,小米电视, Xiaomi TV A FHD 43
-mitv,L43MA-AUEU,en,小米电视, Xiaomi TV A 43 2025
 mitv,L50M8-P2EU,en,小米电视, Xiaomi TV A 50
-mitv,L50MA-AEU,en,小米电视, Xiaomi TV A 50 2025
 mitv,L55M8-P2EU,en,小米电视, Xiaomi TV A 55
+mitv,L32M8-A2RU,en,小米电视, Xiaomi TV A 32
+mitv,L32M8-P2SEA,en,小米电视, Xiaomi TV A 32
+mitv,L43M8-P2SEA,en,小米电视, Xiaomi TV A FHD 43
+mitv,L55M8-P2SEA,en,小米电视, Xiaomi TV A 55
+mitv,L32M8-P2ID,en,小米电视, Xiaomi TV A 32
+mitv,L43M8-P2ID,en,小米电视, Xiaomi TV A FHD 43
+mitv,L55M8-P2ID,en,小米电视, Xiaomi TV A 55
+mitv,L43MA-AUEU,en,小米电视, Xiaomi TV A 43 2025
+mitv,L50MA-AEU,en,小米电视, Xiaomi TV A 50 2025
 mitv,L55MA-AEU,en,小米电视, Xiaomi TV A 55 2025
 mitv,L65MA-AEU,en,小米电视, Xiaomi TV A 65 2025
-mitv,L32M8-A2RU,en,小米电视, Xiaomi TV A 32
 mitv,L43MA-AFRU,en,小米电视, Xiaomi TV A FHD 43 2025
 mitv,L43MA-AURU,en,小米电视, Xiaomi TV A 43 2025
 mitv,L50MA-ARU,en,小米电视, Xiaomi TV A 50 2025
@@ -4446,16 +4465,11 @@ mitv,L65MA-ARU,en,小米电视, Xiaomi TV A 65 2025
 mitv,L43MA-AFTWN,en,小米电视, Xiaomi TV A FHD 43 2025
 mitv,L55MA-ATWN,en,小米电视, Xiaomi TV A 55 2025
 mitv,L65MA-ATWN,en,小米电视, Xiaomi TV A 65 2025
-mitv,L32M8-P2SEA,en,小米电视, Xiaomi TV A 32
-mitv,L43M8-P2SEA,en,小米电视, Xiaomi TV A FHD 43
+mitv,L50MA-AKR,en,小米电视, Xiaomi TV A 50 2025
 mitv,L43MA-AFSEA,en,小米电视, Xiaomi TV A FHD 43 2025
 mitv,L43MA-ASEA,en,小米电视, Xiaomi TV A UHD 43 2025
-mitv,L55M8-P2SEA,en,小米电视, Xiaomi TV A 55
 mitv,L55MA-ASEA,en,小米电视, Xiaomi TV A 55 2025
-mitv,L32M8-P2ID,en,小米电视, Xiaomi TV A 32
-mitv,L43M8-P2ID,en,小米电视, Xiaomi TV A FHD 43
 mitv,L43MA-AFID,en,小米电视, Xiaomi TV A FHD 43 2025
-mitv,L55M8-P2ID,en,小米电视, Xiaomi TV A 55
 mitv,L55MA-AID,en,小米电视, Xiaomi TV A 55 2025
 mitv,L43MA-AFME,en,小米电视, Xiaomi TV A FHD 43 2025
 mitv,L43MA-AME,en,小米电视, Xiaomi TV A UHD 43 2025
@@ -4465,15 +4479,27 @@ mitv,L43MA-APH,en,小米电视, Xiaomi TV A UHD 43 2025
 mitv,L50MA-APH,en,小米电视, Xiaomi TV A 50 2025
 mitv,L55MA-APH,en,小米电视, Xiaomi TV A 55 2025
 mitv,L65MA-APH,en,小米电视, Xiaomi TV A 65 2025
+mitv,L32MB-AEA,en,小米电视, Xiaomi TV A 32 2026
+mitv,L43MB-AFEA,en,小米电视, Xiaomi TV A FHD 43 2026
+mitv,L43MB-AFSEA,en,小米电视, Xiaomi TV A FHD 43 2026
+mitv,L43MB-AUSEA,en,小米电视, Xiaomi TV A UHD 43 2026
+mitv,L55MB-ASEA,en,小米电视, Xiaomi TV A 55 2026
+mitv,L65MB-ASEA,en,小米电视, Xiaomi TV A 65 2026
 mitv,L32M8-A2EU,en,小米电视, Xiaomi TV A Pro 32
+mitv,L32MB-APEU,en,小米电视, Xiaomi TV A Pro 32 2026
 mitv,L43M8-A2EU,en,小米电视, Xiaomi TV A Pro 43
 mitv,L43MA-SEU,en,小米电视, Xiaomi TV A Pro 43 2025
+mitv,L43MB-APEU,en,小米电视, Xiaomi TV A Pro 43 2026
 mitv,L50M8-A2EU,en,小米电视, Xiaomi TV A Pro 50
+mitv,L50MB-APEU,en,小米电视, Xiaomi TV A Pro 50 2026
 mitv,L55M8-A2EU,en,小米电视, Xiaomi TV A Pro 55
 mitv,L55MA-SEU,en,小米电视, Xiaomi TV A Pro 55 2025
+mitv,L55MB-APEU,en,小米电视, Xiaomi TV A Pro 55 2026
 mitv,L65M8-A2EU,en,小米电视, Xiaomi TV A Pro 65
 mitv,L65MA-SEU,en,小米电视, Xiaomi TV A Pro 65 2025
+mitv,L65MB-APEU,en,小米电视, Xiaomi TV A Pro 65 2026
 mitv,L75MA-SEU,en,小米电视, Xiaomi TV A Pro 75 2025
+mitv,L75MB-APEU,en,小米电视, Xiaomi TV A Pro 75 2026
 mitv,L43MA-SRU,en,小米电视, Xiaomi TV A Pro 43 2025
 mitv,L55MA-SRU,en,小米电视, Xiaomi TV A Pro 55 2025
 mitv,L65MA-SRU,en,小米电视, Xiaomi TV A Pro 65 2025
@@ -4481,11 +4507,15 @@ mitv,L75MA-SRU,en,小米电视, Xiaomi TV A Pro 75 2025
 mitv,L32M8-A2TWN,en,小米电视, Xiaomi TV A Pro 32
 mitv,L43M8-A2TWN,en,小米电视, Xiaomi TV A Pro 43
 mitv,L43MA-STWN,en,小米电视, Xiaomi TV A Pro 43 2025
+mitv,L43MB-APTWN,en,小米电视, Xiaomi TV A Pro 43 2026
 mitv,L55M8-A2TWN,en,小米电视, Xiaomi TV A Pro 55
 mitv,L55MA-STWN,en,小米电视, Xiaomi TV A Pro 55 2025
+mitv,L55MB-APTWN,en,小米电视, Xiaomi TV A Pro 55 2026
 mitv,L65M8-A2TWN,en,小米电视, Xiaomi TV A Pro 65
 mitv,L65MA-STWN,en,小米电视, Xiaomi TV A Pro 65 2025
+mitv,L65MB-APTWN,en,小米电视, Xiaomi TV A Pro 65 2026
 mitv,L75MA-STWN,en,小米电视, Xiaomi TV A Pro 75 2025
+mitv,L75MB-APTWN,en,小米电视, Xiaomi TV A Pro 75 2026
 mitv,L32M8A2T,en,小米电视, Xiaomi TV A Pro 32
 mitv,L43M8A2T,en,小米电视, Xiaomi TV A Pro 43
 mitv,L55M8A2T,en,小米电视, Xiaomi TV A Pro 55
@@ -4493,18 +4523,26 @@ mitv,L65M8A2T,en,小米电视, Xiaomi TV A Pro 65
 mitv,L50M8-A2KR,en,小米电视, Xiaomi TV A Pro 50
 mitv,L55M8-A2KR,en,小米电视, Xiaomi TV A Pro 55
 mitv,L65M8-A2KR,en,小米电视, Xiaomi TV A Pro 65
+mitv,L32MB-APSEA,en,小米电视, Xiaomi TV A Pro 32 2026
 mitv,L43M8-A2SEA,en,小米电视, Xiaomi TV A Pro 43
 mitv,L43MA-SSEA,en,小米电视, Xiaomi TV A Pro 43 2025
+mitv,L43MB-APSEA,en,小米电视, Xiaomi TV A Pro 43 2026
 mitv,L55M8-A2SEA,en,小米电视, Xiaomi TV A Pro 55
 mitv,L55MA-SSEA,en,小米电视, Xiaomi TV A Pro 55 2025
+mitv,L55MB-APSEA,en,小米电视, Xiaomi TV A Pro 55 2026
 mitv,L65M8-A2SEA,en,小米电视, Xiaomi TV A Pro 65
 mitv,L65MA-SSEA,en,小米电视, Xiaomi TV A Pro 65 2025
+mitv,L65MB-APSEA,en,小米电视, Xiaomi TV A Pro 65 2026
+mitv,L75MB-APSEA,en,小米电视, Xiaomi TV A Pro 75 2026
 mitv,L43M8-A2ID,en,小米电视, Xiaomi TV A Pro 43
 mitv,L43MA-SID,en,小米电视, Xiaomi TV A Pro 43 2025
+mitv,L43MB-APID,en,小米电视, Xiaomi TV A Pro 43 2026
 mitv,L55M8-A2ID,en,小米电视, Xiaomi TV A Pro 55
 mitv,L55MA-SID,en,小米电视, Xiaomi TV A Pro 55 2025
+mitv,L55MB-APID,en,小米电视, Xiaomi TV A Pro 55 2026
 mitv,L65M8-A2ID,en,小米电视, Xiaomi TV A Pro 65
 mitv,L65MA-SID,en,小米电视, Xiaomi TV A Pro 65 2025
+mitv,L65MB-APID,en,小米电视, Xiaomi TV A Pro 65 2026
 mitv,L32M8-A2ME,en,小米电视, Xiaomi TV A Pro 32
 mitv,L43M8-A2ME,en,小米电视, Xiaomi TV A Pro 43
 mitv,L43MA-SME,en,小米电视, Xiaomi TV A Pro 43 2025
@@ -4522,6 +4560,15 @@ mitv,L55MA-SPH,en,小米电视, Xiaomi TV A Pro 55 2025
 mitv,L65M8-A2LA,en,小米电视, Xiaomi TV A Pro 65
 mitv,L65MA-SPH,en,小米电视, Xiaomi TV A Pro 65 2025
 mitv,L75MA-SPH,en,小米电视, Xiaomi TV A Pro 75 2025
+mitv,L43MB-FEU,en,小米电视, Xiaomi TV F 43 2026
+mitv,L50MB-FEU,en,小米电视, Xiaomi TV F 50 2026
+mitv,L55MB-FEU,en,小米电视, Xiaomi TV F 55 2026
+mitv,L65MB-FEU,en,小米电视, Xiaomi TV F 65 2026
+mitv,L43MB-FPEU,en,小米电视, Xiaomi TV F Pro 43 2026
+mitv,L50MB-FPEU,en,小米电视, Xiaomi TV F Pro 50 2026
+mitv,L55MB-FPEU,en,小米电视, Xiaomi TV F Pro 55 2026
+mitv,L65MB-FPEU,en,小米电视, Xiaomi TV F Pro 65 2026
+mitv,L75MB-FPEU,en,小米电视, Xiaomi TV F Pro 75 2026
 mitv,L55MA-SPLEU,en,小米电视, Xiaomi TV S Mini LED 55
 mitv,L65MA-SPLEU,en,小米电视, Xiaomi TV S Mini LED 65
 mitv,L75MA-SPLEU,en,小米电视, Xiaomi TV S Mini LED 75
