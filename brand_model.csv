@@ -3709,6 +3709,7 @@ meizu,M392Q,cn,魅族, 魅族 20 INFINITY 无界版
 meizu,M461Q,cn,魅族, 魅族 21 公开版
 meizu,M461H,cn,魅族, 魅族 21 国际版
 meizu,M481Q,cn,魅族, 魅族 21 PRO
+meizu,M481S,cn,魅族, 魅族 21 PRO Flyme 钛好用版
 meizu,M468Q,cn,魅族, 魅族 21 Note 公开版
 meizu,M468H,cn,魅族, 魅族 21 Note 国际版
 meizu,M431Q,cn,魅族, 魅族 Lucky 08 公开版
@@ -3909,6 +3910,7 @@ meizu,M392Q,en,魅族, MEIZU 20 INFINITY
 meizu,M461Q,en,魅族, MEIZU 21 China
 meizu,M461H,en,魅族, MEIZU 21 Global
 meizu,M481Q,en,魅族, MEIZU 21 PRO
+meizu,M481S,en,魅族, MEIZU 21 PRO (UWB)
 meizu,M468Q,en,魅族, MEIZU 21 Note China
 meizu,M468H,en,魅族, MEIZU 21 Note Global
 meizu,M431Q,en,魅族, MEIZU Lucky 08
@@ -4943,6 +4945,7 @@ oneplus,OPD2305,cn,一加, OnePlus Pad Go Wi-Fi
 oneplus,OPD2407,cn,一加, OnePlus Pad (2024)
 oneplus,OPD2404,cn,一加, OnePlus Pad Pro
 oneplus,OPD2403,cn,一加, OnePlus Pad 2
+oneplus,OPD2413,cn,一加, OnePlus Pad 2 Pro
 oneplus,W101IN,cn,一加, OnePlus Band 印度版
 oneplus,OPBBE221,cn,一加, OnePlus Nord Watch 
 oneplus,W301CN,cn,一加, OnePlus Watch 国行版 / Cyberpunk 2077 限定版
@@ -5109,6 +5112,7 @@ oneplus,OPD2305,en,一加, OnePlus Pad Go Wi-Fi
 oneplus,OPD2407,en,一加, OnePlus Pad (2024)
 oneplus,OPD2404,en,一加, OnePlus Pad Pro
 oneplus,OPD2403,en,一加, OnePlus Pad 2
+oneplus,OPD2413,en,一加, OnePlus Pad 2 Pro
 oneplus,W101IN,en,一加, OnePlus Band India
 oneplus,OPBBE221,en,一加, OnePlus Nord Watch
 oneplus,W301CN,en,一加, OnePlus Watch China / Cyberpunk 2077 Limited Edition
@@ -7411,6 +7415,8 @@ vivo,iPA2375,cn,VIVO, iQOO Pad
 vivo,iPA2451,cn,VIVO, iQOO Pad Air
 vivo,iPA2453,cn,VIVO, iQOO Pad2
 vivo,iPA2475,cn,VIVO, iQOO Pad2 Pro
+vivo,iPA2556,cn,VIVO, iQOO Pad5
+vivo,iPA2575,cn,VIVO, iQOO Pad5 Pro
 vivo,V1930,en,VIVO, vivo X50e 5G
 vivo,V1937,en,VIVO, vivo X50 Lite
 vivo,V2006,en,VIVO, vivo X51 5G
