@@ -4191,6 +4191,10 @@ mitv,L55MA-SPL,cn,小米电视, 小米电视 S55 Mini LED
 mitv,L65MA-SPL,cn,小米电视, 小米电视 S65 Mini LED
 mitv,L75MA-SPL,cn,小米电视, 小米电视 S75 Mini LED
 mitv,L85MA-SPL,cn,小米电视, 小米电视 S85 Mini LED
+mitv,L55MB-S,cn,小米电视, 小米电视 S55 Mini LED 2025
+mitv,L65MB-S,cn,小米电视, 小米电视 S65 Mini LED 2025
+mitv,L75MB-S,cn,小米电视, 小米电视 S75 Mini LED 2025
+mitv,L85MB-S,cn,小米电视, 小米电视 S85 Mini LED 2025
 mitv,L65MA-SM,cn,小米电视, 小米电视 S Pro 65 Mini LED
 mitv,L75MA-SM,cn,小米电视, 小米电视 S Pro 75 Mini LED
 mitv,L85MA-SM,cn,小米电视, 小米电视 S Pro 85 Mini LED
@@ -7430,6 +7434,7 @@ vivo,PA2455,cn,VIVO, vivo Pad3
 vivo,PA2473,cn,VIVO, vivo Pad3 Pro
 vivo,PA2553,cn,VIVO, vivo Pad5
 vivo,PA2573,cn,VIVO, vivo Pad5 Pro
+vivo,PA2537,cn,VIVO, vivo Pad5e
 vivo,PA2511,cn,VIVO, vivo Pad SE
 vivo,iPA2375,cn,VIVO, iQOO Pad
 vivo,iPA2451,cn,VIVO, iQOO Pad Air
@@ -7437,6 +7442,7 @@ vivo,iPA2453,cn,VIVO, iQOO Pad2
 vivo,iPA2475,cn,VIVO, iQOO Pad2 Pro
 vivo,iPA2556,cn,VIVO, iQOO Pad5
 vivo,iPA2575,cn,VIVO, iQOO Pad5 Pro
+vivo,iPA2535,cn,VIVO, iQOO Pad5e
 vivo,V1930,en,VIVO, vivo X50e 5G
 vivo,V1937,en,VIVO, vivo X50 Lite
 vivo,V2006,en,VIVO, vivo X51 5G
@@ -9383,7 +9389,7 @@ zte,A2022H,cn,中兴, 中兴天机 A31 Pro 5G
 zte,A2022P,cn,中兴, 中兴天机 A31 Ultra 5G
 zte,A2023,cn,中兴, 中兴 Axon 40 Pro
 zte,A2023P,cn,中兴, 中兴 Axon 40 Ultra
-zte,A2024H,cn,中兴, 中兴 Axon 50 Ultra
+zte,A2024H,cn,中兴, 中兴 Axon 50 / 中兴 Axon 50 Ultra
 zte,A2025HL,cn,中兴, 中兴 Axon 60 Ultra
 zte,A2025H,cn,中兴, 中兴 Axon 60 Ultra 天通版
 zte,A2023BH,cn,中兴, 中兴天机 A41
