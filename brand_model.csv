@@ -1860,6 +1860,7 @@ honor,TMA-L19,cn,荣耀, 荣耀手表 4
 honor,TUM-L19,cn,荣耀, 荣耀手表 4 Pro
 honor,MUS-B19,cn,荣耀, 荣耀手表 GS 4
 honor,STL-L19,cn,荣耀, 荣耀手表 5
+honor,IVY-B39,cn,荣耀, 荣耀手表 Fit
 honor,NYX-B10HN,cn,荣耀, 荣耀手环 3 标准版
 honor,NYX-B20HN,cn,荣耀, 荣耀手环 3 NFC 版
 honor,CRS-B19,cn,荣耀, 荣耀手环 4 标准版
@@ -2343,6 +2344,9 @@ huawei,ADA-AL10U,cn,华为, HUAWEI nova 12 Ultra 星耀版
 huawei,PSD-AL00,cn,华为, HUAWEI nova Flip
 huawei,BLK-AL80,cn,华为, HUAWEI nova 13
 huawei,MIS-AL00,cn,华为, HUAWEI nova 13 Pro
+huawei,TLR-AL00,cn,华为, HUAWEI nova 14
+huawei,MIA-AL00,cn,华为, HUAWEI nova 14 Pro
+huawei,MRT-AL10,cn,华为, HUAWEI nova 14 Ultra
 huawei,G6-T00,cn,华为, 华为 Ascend G6 移动版
 huawei,G6-U00,cn,华为, 华为 Ascend G6 联通版
 huawei,G6-C00,cn,华为, 华为 Ascend G6 电信版
@@ -2603,6 +2607,7 @@ huawei,AGS5Z-AL00,cn,华为, 华为擎云 C5e 10.4 英寸 LTE 版
 huawei,BZF5-W00,cn,华为, 华为擎云 C5e (第 2 代) 11 英寸 Wi-Fi 版
 huawei,BLF5-W00,cn,华为, 华为擎云 C5e (第 2 代) 11 英寸 Wi-Fi 版
 huawei,BZH5-W00,cn,华为, 华为擎云 C5e (第 2 代) 11 英寸 Wi-Fi 版
+huawei,BZF5-W00,cn,华为, 华为擎云 C5s 11 英寸 Wi-Fi 版
 huawei,BVE-W10,cn,华为, 华为擎云 C5z 10.4 英寸 Wi-Fi 版
 huawei,DBY-W09,cn,华为, 华为平板 C7 10.95 英寸 Wi-Fi 版
 huawei,DBY2Z-AL00,cn,华为, 华为擎云 C7 11.5 英寸 Wi-Fi 版
@@ -2635,6 +2640,9 @@ huawei,MRGFG-16,cn,华为, HUAWEI MateBook X Pro 2023 (16GB 内存)
 huawei,MRGFG-32,cn,华为, HUAWEI MateBook X Pro 2023 (32GB 内存)
 huawei,VGHH-16,cn,华为, HUAWEI MateBook X Pro 酷睿 Ultra (16GB 内存)
 huawei,VGHH-32,cn,华为, HUAWEI MateBook X Pro 酷睿 Ultra (32GB 内存)
+huawei,HAD-W24,cn,华为, HUAWEI MateBook Pro (24GB 内存)
+huawei,HAD-W32,cn,华为, HUAWEI MateBook Pro (32GB 内存)
+huawei,HPR-W72,cn,华为, HUAWEI MateBook Fold ULTIMATE DESIGN 非凡大师 (32GB 内存)
 huawei,WRT-W19,cn,华为, HUAWEI MateBook 13 i5
 huawei,WRT-W19L,cn,华为, HUAWEI MateBook 13 i5 Linux 版
 huawei,WRT-W29,cn,华为, HUAWEI MateBook 13 i7
@@ -2815,7 +2823,20 @@ huawei,KLVG-16Z2-xxx,cn,华为, 华为擎云 G740 i5 (16GB+1TB)
 huawei,KLVG-16Z1-xxx,cn,华为, 华为擎云 G740 i7 (16GB+1TB)
 huawei,KLVU-WDU0,cn,华为, 华为擎云 L410 (8GB+256GB)
 huawei,KLVU-WDU0B,cn,华为, 华为擎云 L410 (8GB+512GB)
-huawei,KLVV-W5821,cn,华为, 华为擎云 L420
+huawei,KLVV-W5821,cn,华为, 华为擎云 L420 (8GB+256GB)
+huawei,KLVV-W5821B,cn,华为, 华为擎云 L420 (8GB+512GB)
+huawei,KLVV-W5821C,cn,华为, 华为擎云 L420 (16GB+256GB)
+huawei,KLVV-W5821D,cn,华为, 华为擎云 L420 (16GB+512GB)
+huawei,HAD-W72-001,cn,华为, 华为擎云 HM940
+huawei,HAD-W72-002,cn,华为, 华为擎云 HM940
+huawei,HAD-W72-003,cn,华为, 华为擎云 HM940
+huawei,HAD-W72-004,cn,华为, 华为擎云 HM940
+huawei,HAD-W72-005,cn,华为, 华为擎云 HM940
+huawei,HAD-W72-006,cn,华为, 华为擎云 HM940
+huawei,HAD-W72-007,cn,华为, 华为擎云 HM940
+huawei,HAD-W72-008,cn,华为, 华为擎云 HM940
+huawei,HAD-W72-009,cn,华为, 华为擎云 HM940
+huawei,HAD-W72-010,cn,华为, 华为擎云 HM940
 huawei,HEGE-550,cn,华为, 华为智慧屏 V55i-A (4GB+64GB)
 huawei,HEGE-550B,cn,华为, 华为智慧屏 V55i-B (4GB+32GB)
 huawei,HEGE-560,cn,华为, 华为智慧屏 V65
@@ -2947,6 +2968,7 @@ huawei,GLL-AL09,cn,华为, HUAWEI WATCH 3 Pro new 尊享款
 huawei,ARC-AL00,cn,华为, HUAWEI WATCH 4
 huawei,MDS-AL00,cn,华为, HUAWEI WATCH 4 Pro
 huawei,MDS-AL10,cn,华为, HUAWEI WATCH 4 Pro
+huawei,SOC-AL00,cn,华为, HUAWEI WATCH 5
 huawei,CLB-B19,cn,华为, HUAWEI WATCH Ultimate 非凡大师
 huawei,WDS-B19,cn,华为, HUAWEI WATCH Ultimate 非凡探索
 huawei,CLB-B19,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师 黄金款
@@ -2975,13 +2997,15 @@ huawei,RUN-B19,cn,华为, HUAWEI WATCH GT Runner
 huawei,RUN-B29,cn,华为, HUAWEI WATCH GT Runner
 huawei,OCF-B29,cn,华为, HUAWEI WATCH GT 2022 典藏版
 huawei,AND-B19,cn,华为, HUAWEI WATCH GT Cyber
-huawei,TIA-B19,cn,华为, HUAWEI WATCH FIT
-huawei,TIA-B29,cn,华为, HUAWEI WATCH FIT
-huawei,TIA-B19,cn,华为, HUAWEI WATCH FIT new
-huawei,YDA-B09S,cn,华为, HUAWEI WATCH FIT 2
-huawei,YDA-B19S,cn,华为, HUAWEI WATCH FIT 2
-huawei,YDA-B19V,cn,华为, HUAWEI WATCH FIT 2
+huawei,TIA-B19,cn,华为, HUAWEI WATCH FIT / HUAWEI WATCH FIT new
+huawei,TIA-B29,cn,华为, HUAWEI WATCH FIT 雅致款
+huawei,TIA-B39,cn,华为, HUAWEI WATCH FIT mini
+huawei,YDA-B09S,cn,华为, HUAWEI WATCH FIT 2 活力款
+huawei,YDA-B19S,cn,华为, HUAWEI WATCH FIT 2 活力款
+huawei,YDA-B19V,cn,华为, HUAWEI WATCH FIT 2 雅致款 / 时尚款
 huawei,SLO-B19,cn,华为, HUAWEI WATCH FIT 3
+huawei,SYA-B19,cn,华为, HUAWEI WATCH FIT 4
+huawei,SYA-B29,cn,华为, HUAWEI WATCH FIT 4 Pro
 huawei,MLY-B10,cn,华为, HUAWEI WATCH D 黑色氟橡胶表带
 huawei,MLY-B11,cn,华为, HUAWEI WATCH D 米白色氟橡胶表带
 huawei,LCA-B10,cn,华为, HUAWEI WATCH D2 幻夜黑
@@ -4346,6 +4370,7 @@ mitv,L32MA-AIN,en,小米电视, Xiaomi Smart TV A 32 2024 Edition
 mitv,L40M8-5AIN,en,小米电视, Xiaomi Smart TV A 40
 mitv,L43M8-5AIN,en,小米电视, Xiaomi Smart TV A 43
 mitv,L43MA-AFIN,en,小米电视, Xiaomi Smart TV A 43 2024 Edition
+mitv,L43MB-AFIN,en,小米电视, Xiaomi Smart TV A 43 2025
 mitv,L32MB-APIN,en,小米电视, Xiaomi QLED TV A Pro 32
 mitv,L43MA-AUIN,en,小米电视, Xiaomi Smart TV A Pro 4K 43
 mitv,L43M7-A2IN,en,小米电视, Xiaomi Smart TV X 43
@@ -7445,6 +7470,21 @@ vivo,iPA2475,cn,VIVO, iQOO Pad2 Pro
 vivo,iPA2556,cn,VIVO, iQOO Pad5
 vivo,iPA2575,cn,VIVO, iQOO Pad5 Pro
 vivo,iPA2535,cn,VIVO, iQOO Pad5e
+vivo,WA2052,cn,VIVO, vivo WATCH 42mm
+vivo,WA2056,cn,VIVO, vivo WATCH 46mm
+vivo,WA2156A,cn,VIVO, vivo WATCH 2 eSIM 版
+vivo,WA2356A,cn,VIVO, vivo WATCH 3 eSIM 版 / ECG 版
+vivo,WA2356C,cn,VIVO, vivo WATCH 3 蓝牙版
+vivo,WA2456A,cn,VIVO, vivo WATCH GT eSIM 版
+vivo,WA2456C,cn,VIVO, vivo WATCH GT 蓝牙版
+vivo,WA2556A,cn,VIVO, vivo WATCH 5 蓝牙版
+vivo,WA2556B,cn,VIVO, vivo WATCH 5 eSIM 版
+vivo,iWA2356A,cn,VIVO, iQOO WATCH eSIM 版
+vivo,iWA2356C,cn,VIVO, iQOO WATCH 蓝牙版
+vivo,iWA2456A,cn,VIVO, iQOO WATCH GT eSIM 版
+vivo,iWA2456C,cn,VIVO, iQOO WATCH GT 蓝牙版
+vivo,iWA2556A,cn,VIVO, iQOO WATCH 5 蓝牙版
+vivo,iWA2556B,cn,VIVO, iQOO WATCH 5 eSIM 版
 vivo,V1930,en,VIVO, vivo X50e 5G
 vivo,V1937,en,VIVO, vivo X50 Lite
 vivo,V2006,en,VIVO, vivo X51 5G
@@ -7997,6 +8037,7 @@ xiaomi,2109119BC,cn,小米, Xiaomi Civi 1S
 xiaomi,2209129SC,cn,小米, Xiaomi Civi 2
 xiaomi,23046PNC9C,cn,小米, Xiaomi Civi 3
 xiaomi,24053PY09C,cn,小米, Xiaomi Civi 4 Pro
+xiaomi,25067PYE3C,cn,小米, Xiaomi Civi 5 Pro
 xiaomi,M1901F9E,cn,小米, 小米 Play 全网通版
 xiaomi,M1901F9T,cn,小米, 小米 Play 移动 4G+ 版
 xiaomi,MDG2,cn,小米, 小米 A1 国际版
@@ -8028,6 +8069,7 @@ xiaomi,2410CRP4CC,cn,小米, Xiaomi Pad 7 国行版
 xiaomi,2410CRP4CG,cn,小米, Xiaomi Pad 7 国际版
 xiaomi,24091RPADC,cn,小米, Xiaomi Pad 7 Pro 国行版
 xiaomi,24091RPADG,cn,小米, Xiaomi Pad 7 Pro 国际版
+xiaomi,25032RP42C,cn,小米, Xiaomi Pad 7 Ultra
 xiaomi,2013022,cn,小米, 红米手机 移动版
 xiaomi,2013023,cn,小米, 红米手机 联通版
 xiaomi,2013029,cn,小米, 红米 1S 联通版
@@ -8765,6 +8807,7 @@ xiaomi,2109119BC,en,小米, Xiaomi Civi 1S China
 xiaomi,2209129SC,en,小米, Xiaomi Civi 2 China
 xiaomi,23046PNC9C,en,小米, Xiaomi Civi 3 China
 xiaomi,24053PY09C,en,小米, Xiaomi Civi 4 Pro China
+xiaomi,25067PYE3C,en,小米, Xiaomi Civi 5 Pro China
 xiaomi,M1901F9E,en,小米, Mi Play China / Global
 xiaomi,M1901F9T,en,小米, Mi Play China Mobile
 xiaomi,MDG2,en,小米, Mi A1 Global
@@ -8919,9 +8962,9 @@ xiaomi,22120RN86I,en,小米, Redmi 12C India
 xiaomi,22120RN86C,en,小米, Redmi 12C China
 xiaomi,2212ARNC4L,en,小米, Redmi 12C Latin America / Japan
 xiaomi,22126RN91Y,en,小米, Redmi 12C Global (NFC)
-xiaomi,2404ARN45A,en,小米, Redmi 13 Global / REDMI 13x Global
+xiaomi,2404ARN45A,en,小米, Redmi 13 Global / Redmi 13x Global
 xiaomi,2404ARN45I,en,小米, Redmi 13 India
-xiaomi,24049RN28L,en,小米, Redmi 13 Latin America / REDMI 13x Latin America
+xiaomi,24049RN28L,en,小米, Redmi 13 Latin America / Redmi 13x Latin America
 xiaomi,24040RN64Y,en,小米, Redmi 13 Global (NFC)
 xiaomi,2406ERN9CI,en,小米, Redmi 13 5G India
 xiaomi,23106RN0DA,en,小米, Redmi 13C Global
@@ -9199,11 +9242,11 @@ xiaomi,24048RN6CI,en,小米, Redmi A3x India
 xiaomi,24044RN32L,en,小米, Redmi A3x Latin America
 xiaomi,2409BRN2CG,en,小米, Redmi A3 Pro Global
 xiaomi,24116RNC1I,en,小米, Redmi A4 5G India
-xiaomi,25028RN03G,en,小米, REDMI A5 Global
-xiaomi,25028RN03A,en,小米, REDMI A5 Global
-xiaomi,25028RN03Y,en,小米, REDMI A5 Global
-xiaomi,25028RN03I,en,小米, REDMI A5 India
-xiaomi,25028RN03L,en,小米, REDMI A5 Latin America
+xiaomi,25028RN03G,en,小米, Redmi A5 Global
+xiaomi,25028RN03A,en,小米, Redmi A5 Global
+xiaomi,25028RN03Y,en,小米, Redmi A5 Global
+xiaomi,25028RN03I,en,小米, Redmi A5 India
+xiaomi,25028RN03L,en,小米, Redmi A5 Latin America
 xiaomi,M1805E10A,en,小米, POCO F1
 xiaomi,M2004J11G,en,小米, POCO F2 Pro Global
 xiaomi,M2012K11AG,en,小米, POCO F3 Global
@@ -9314,6 +9357,7 @@ xiaomi,2410CRP4CG,en,小米, Xiaomi Pad 7 Global
 xiaomi,2410CRP4CC,en,小米, Xiaomi Pad 7 China
 xiaomi,24091RPADG,en,小米, Xiaomi Pad 7 Pro Global
 xiaomi,24091RPADC,en,小米, Xiaomi Pad 7 Pro China
+xiaomi,25032RP42C,en,小米, Xiaomi Pad 7 Ultra
 xiaomi,22081283G,en,小米, Redmi Pad Global
 xiaomi,22081283C,en,小米, Redmi Pad China
 xiaomi,23073RPBFG,en,小米, Redmi Pad SE Global
@@ -9375,6 +9419,10 @@ zhixuan,BAL-AN20,cn,华为智选, Hi 畅享 70 Pro 5G
 zhixuan,JEY-AN00,cn,华为智选, Hi 畅享 70 Plus 5G
 zhixuan,JLG-AN00,cn,华为智选, Hi 畅享 80 5G / Hi 畅享 80S 5G
 zhixuan,BRO-W00,cn,华为智选, Hi MatePad
+zhixuan,MASH-16,cn,华为智选, Hi MateBook 14 (16GB 内存)
+zhixuan,MASH-32,cn,华为智选, Hi MateBook 14 (32GB 内存)
+zhixuan,LYOI-16,cn,华为智选, Hi MateBook D 14
+zhixuan,NICEI-16,cn,华为智选, Hi MateBook D 16
 zte,A2017,cn,中兴, 中兴天机 7
 zte,A2018,cn,中兴, 中兴天机 7S
 zte,C2017,cn,中兴, 中兴天机 7 MAX
