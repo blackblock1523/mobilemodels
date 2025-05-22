@@ -4219,6 +4219,7 @@ mitv,L55MB-S,cn,小米电视, 小米电视 S55 Mini LED 2025
 mitv,L65MB-S,cn,小米电视, 小米电视 S65 Mini LED 2025
 mitv,L75MB-S,cn,小米电视, 小米电视 S75 Mini LED 2025
 mitv,L85MB-S,cn,小米电视, 小米电视 S85 Mini LED 2025
+mitv,L98MB-S,cn,小米电视, 小米电视 S98 Mini LED 2025
 mitv,L65MA-SM,cn,小米电视, 小米电视 S Pro 65 Mini LED
 mitv,L75MA-SM,cn,小米电视, 小米电视 S Pro 75 Mini LED
 mitv,L85MA-SM,cn,小米电视, 小米电视 S Pro 85 Mini LED
@@ -5527,6 +5528,10 @@ oppo,CPH1920,en,OPPO, OPPO AX5s
 oppo,CPH1931,en,OPPO, OPPO A5 2020
 oppo,CPH1933,en,OPPO, OPPO A5 2020
 oppo,CPH1943,en,OPPO, OPPO A5 2020
+oppo,CPH2735,en,OPPO, OPPO A5 5G
+oppo,CPH2751,en,OPPO, OPPO A5 5G
+oppo,A502OP,en,OPPO, OPPO A5 5G (SoftBank)
+oppo,CPH2727,en,OPPO, OPPO A5 (2025) / OPPO A5m
 oppo,CPH2773,en,OPPO, OPPO A5i
 oppo,CPH2711,en,OPPO, OPPO A5 Pro
 oppo,CPH2695,en,OPPO, OPPO A5 Pro 5G
@@ -7780,6 +7785,7 @@ xiaomi-wear,M2311W1,cn,小米, Xiaomi Watch S3 eSIM 版 国行版
 xiaomi-wear,M2323W1,cn,小米, Xiaomi Watch S3 蓝牙版 国际版
 xiaomi-wear,M2425W1,cn,小米, Xiaomi Watch S4 蓝牙版
 xiaomi-wear,M2424W1,cn,小米, Xiaomi Watch S4 eSIM 版
+xiaomi-wear,M2426W1,cn,小米, Xiaomi Watch S4 eSIM 15 周年纪念版
 xiaomi-wear,M2312W1,cn,小米, Xiaomi Watch S4 Sport eSIM 版
 xiaomi-wear,M2230W1,cn,小米, 小米腕部心电血压记录仪 (Xiaomi Watch H1)
 xiaomi-wear,M2412W1,cn,小米, 小米腕部血压记录仪 (Xiaomi Watch H1 E)
