@@ -2001,6 +2001,8 @@ honor,LLY-NX1,en,荣耀, HONOR 200 Lite
 honor,LLY-NX3,en,荣耀, HONOR 200 Lite
 honor,ALT-NX1,en,荣耀, HONOR 200 Smart
 honor,ALT-NX3,en,荣耀, HONOR 200 Smart
+honor,DNY-NX9,en,荣耀, HONOR 400
+honor,DNP-NX9,en,荣耀, HONOR 400 Pro
 honor,ABR-NX1,en,荣耀, HONOR 400 Lite
 honor,ABR-NX3,en,荣耀, HONOR 400 Lite
 honor,LGE-NX9,en,荣耀, HONOR Magic4 Pro
@@ -2095,12 +2097,15 @@ honor,NDL-L03,en,荣耀, HONOR Pad X8a LTE
 honor,NDL-L09,en,荣耀, HONOR Pad X8a LTE
 honor,HEY2-W09,en,荣耀, HONOR Pad 9 Wi-Fi
 honor,HEY2-N09,en,荣耀, HONOR Pad 9 5G
-honor,ROL-W09,en,荣耀, HONOR Pad V9
+honor,ROL-W00,en,荣耀, HONOR Pad V9
 honor,ELN-W09,en,荣耀, HONOR Pad X9 Wi-Fi
 honor,ELN-L03,en,荣耀, HONOR Pad X9 LTE
 honor,ELN-L09,en,荣耀, HONOR Pad X9 LTE
 honor,ELN2-W29,en,荣耀, HONOR Pad X9a Wi-Fi
+honor,ELN2-L23,en,荣耀, HONOR Pad X9a LTE
+honor,ELN2-L29,en,荣耀, HONOR Pad X9a LTE
 honor,ROD2-W09,en,荣耀, HONOR MagicPad2
+honor,HEY3-W00,en,荣耀, HONOR Pad 10 Wi-Fi
 huawei,MT1-T00,cn,华为, 华为 Ascend Mate 移动版
 huawei,MT1-U06,cn,华为, 华为 Ascend Mate 联通版
 huawei,MT2-U071,cn,华为, 华为 Ascend Mate 2 联通 3G 版
@@ -2969,7 +2974,8 @@ huawei,GLL-AL09,cn,华为, HUAWEI WATCH 3 Pro new 尊享款
 huawei,ARC-AL00,cn,华为, HUAWEI WATCH 4
 huawei,MDS-AL00,cn,华为, HUAWEI WATCH 4 Pro
 huawei,MDS-AL10,cn,华为, HUAWEI WATCH 4 Pro
-huawei,SOC-AL00,cn,华为, HUAWEI WATCH 5
+huawei,SOC-AL00,cn,华为, HUAWEI WATCH 5 42mm
+huawei,RTS-AL00,cn,华为, HUAWEI WATCH 5 46mm
 huawei,CLB-B19,cn,华为, HUAWEI WATCH Ultimate 非凡大师
 huawei,WDS-B19,cn,华为, HUAWEI WATCH Ultimate 非凡探索
 huawei,CLB-B19,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师 黄金款
@@ -4783,6 +4789,7 @@ nubia,NX617J,cn,努比亚, nubia N3
 nubia,NX301J,cn,努比亚, nubia N5
 nubia,Z2352N,cn,努比亚, nubia Neo 2 5G
 nubia,Z2461,cn,努比亚, nubia Neo 3
+nubia,Z2464N,cn,努比亚, nubia Neo 3 5G
 nubia,Z2465N,cn,努比亚, nubia Neo 3 GT 5G
 nubia,Z2353,cn,努比亚, nubia Music
 nubia,Z2460,cn,努比亚, nubia Music 2
@@ -4820,9 +4827,11 @@ nubia,NX769J,cn,努比亚, 红魔 9 Pro / 红魔 9 Pro+
 nubia,NX769J,cn,努比亚, 红魔 9S Pro / 红魔 9S Pro+
 nubia,NX789J,cn,努比亚, 红魔 10 Pro / 红魔 10 Pro+
 nubia,NX779J,cn,努比亚, 红魔 10 Air
+nubia,NX789J,cn,努比亚, 红魔 10S Pro / 红魔 10S Pro+
 nubia,NP01J,cn,努比亚, 红魔电竞平板 5G
 nubia,NP03J,cn,努比亚, 红魔电竞平板 Pro
 nubia,NP02J,cn,努比亚, 红魔平板 · 3D 探索版 5G
+nubia,NP05J,cn,努比亚, 红魔电竞平板 3 Pro
 oneplus,A0001,cn,一加, 一加手机 全网通版 / 移动版 / 国际版
 oneplus,A1001,cn,一加, 一加手机 联通版
 oneplus,A2001,cn,一加, 一加手机 2
