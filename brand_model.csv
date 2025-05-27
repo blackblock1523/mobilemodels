@@ -1766,6 +1766,7 @@ honor,DRA-54,cn,荣耀, 荣耀 MagicBook Pro 16 Ultra 5 (24GB 内存)
 honor,DRA-72,cn,荣耀, 荣耀 MagicBook Pro 16 Ultra 7 (32GB 内存)
 honor,DRB-P,cn,荣耀, 荣耀 MagicBook Pro 16 2025
 honor,FMB-P,cn,荣耀, 荣耀 MagicBook Pro 14
+honor,FMB-PM,cn,荣耀, 荣耀 MagicBook Pro 14 极客版
 honor,HGE-W56,cn,荣耀, 荣耀 MagicBook V 14 i5
 honor,HGE-W76,cn,荣耀, 荣耀 MagicBook V 14 i7
 honor,HGF-W56,cn,荣耀, 荣耀 MagicBook V 14 2022 i5
@@ -4970,6 +4971,7 @@ oneplus,CPH2515,cn,一加, 一加 Nord N30 T-Mobile 版
 oneplus,CPH2613,cn,一加, 一加 Nord CE 4 印度版
 oneplus,CPH2619,cn,一加, 一加 Nord CE 4 Lite 印度版
 oneplus,CPH2621,cn,一加, 一加 Nord CE 4 Lite 欧洲版 / 国际版
+oneplus,CPH2717,cn,一加, 一加 Nord CE 5
 oneplus,BE2025,cn,一加, 一加 Nord N10 Metro 版
 oneplus,BE2026,cn,一加, 一加 Nord N10 北美版
 oneplus,BE2029,cn,一加, 一加 Nord N10 欧洲版 / 国际版
@@ -4986,13 +4988,14 @@ oneplus,DE2117,cn,一加, 一加 Nord N200 北美版
 oneplus,DE2118,cn,一加, 一加 Nord N200 T-Mobile 版
 oneplus,CPH2389,cn,一加, 一加 Nord N300
 oneplus,CPH2551,cn,一加, 一加 Open
-oneplus,OPD2203,cn,一加, 一加平板 (2023)
+oneplus,OPD2203,cn,一加, 一加平板 (2023) 国际版
 oneplus,OPD2304,cn,一加, 一加平板 Go LTE
 oneplus,OPD2305,cn,一加, 一加平板 Go Wi-Fi
-oneplus,OPD2407,cn,一加, 一加平板 (2024)
+oneplus,OPD2407,cn,一加, 一加平板 (2024) 国行版
 oneplus,OPD2404,cn,一加, 一加平板 Pro 国行版
 oneplus,OPD2403,cn,一加, 一加平板 2 国际版
 oneplus,OPD2413,cn,一加, 一加平板 2 Pro 国行版
+oneplus,OPD2415,cn,一加, 一加平板 3 国际版
 oneplus,W101IN,cn,一加, 一加 Band 印度版
 oneplus,OPBBE221,cn,一加, 一加 Nord Watch
 oneplus,W301CN,cn,一加, 一加手表 国行版 / Cyberpunk 2077 限定版
@@ -5116,6 +5119,8 @@ oneplus,CPH2691,en,一加, OnePlus 13R India
 oneplus,PKR110,en,一加, OnePlus Ace 5 Pro China
 oneplus,PKX110,en,一加, OnePlus 13T China
 oneplus,CPH2723,en,一加, OnePlus 13s India
+oneplus,PLC110,en,一加, OnePlus Ace 5 Ultra China
+oneplus,PLF110,en,一加, OnePlus Ace 5 Race China
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord Europe / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 India
@@ -5138,6 +5143,7 @@ oneplus,CPH2515,en,一加, OnePlus Nord N30 T-Mobile
 oneplus,CPH2613,en,一加, OnePlus Nord CE 4 India
 oneplus,CPH2619,en,一加, OnePlus Nord CE 4 Lite India
 oneplus,CPH2621,en,一加, OnePlus Nord CE 4 Lite Europe / Global
+oneplus,CPH2717,en,一加, OnePlus Nord CE 5
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
 oneplus,BE2026,en,一加, OnePlus Nord N10 North America
 oneplus,BE2029,en,一加, OnePlus Nord N10 Europe / Global
@@ -5161,6 +5167,7 @@ oneplus,OPD2407,en,一加, OnePlus Pad (2024)
 oneplus,OPD2404,en,一加, OnePlus Pad Pro
 oneplus,OPD2403,en,一加, OnePlus Pad 2
 oneplus,OPD2413,en,一加, OnePlus Pad 2 Pro
+oneplus,OPD2415,en,一加, OnePlus Pad 3
 oneplus,W101IN,en,一加, OnePlus Band India
 oneplus,OPBBE221,en,一加, OnePlus Nord Watch
 oneplus,W301CN,en,一加, OnePlus Watch China / Cyberpunk 2077 Limited Edition
@@ -5354,6 +5361,7 @@ oppo,PJR110,cn,OPPO, OPPO K12
 oppo,PKS110,cn,OPPO, OPPO K12 Plus
 oppo,PJT110,cn,OPPO, OPPO K12x
 oppo,PLD110,cn,OPPO, OPPO K12s
+oppo,PLM110,cn,OPPO, OPPO K13
 oppo,OPD2101,cn,OPPO, OPPO Pad
 oppo,OPD2102,cn,OPPO, OPPO Pad Air
 oppo,OPD2201,cn,OPPO, OPPO Pad 2
@@ -5362,11 +5370,18 @@ oppo,OPD2405,cn,OPPO, OPPO Pad 3
 oppo,OPD2401,cn,OPPO, OPPO Pad 3 Pro
 oppo,OPD2409,cn,OPPO, OPPO Pad 4 Pro
 oppo,OPD2417,cn,OPPO, OPPO Pad SE
-oppo,OB19B1,cn,OPPO, OPPO Band 标准版 / 名侦探柯南限定版
-oppo,OB19B3,cn,OPPO, OPPO Band NFC 版
-oppo,OB19O0,cn,OPPO, OPPO Band 时尚版
+oppo,OB19B1,cn,OPPO, OPPO Band 运动版
 oppo,OB19O1,cn,OPPO, OPPO Band 运动版
+oppo,OB19B1,cn,OPPO, OPPO Band 运动版(国际版)
+oppo,OB19O3,cn,OPPO, OPPO Band 运动版(国际版)
+oppo,OB19B1,cn,OPPO, OPPO Band 活力板
+oppo,OB19O7,cn,OPPO, OPPO Band 活力板
+oppo,OB19B3,cn,OPPO, OPPO Band 时尚版(NFC 版)
+oppo,OB19O0,cn,OPPO, OPPO Band 时尚版(NFC 版)
+oppo,OB19B3,cn,OPPO, OPPO Band EVA 限定版
 oppo,OB19O2,cn,OPPO, OPPO Band EVA 限定版
+oppo,OB19B3,cn,OPPO, OPPO Band 名侦探柯南限定版
+oppo,OB19O8,cn,OPPO, OPPO Band 名侦探柯南限定版
 oppo,OBB211,cn,OPPO, OPPO Band 2 标准版
 oppo,OBB213,cn,OPPO, OPPO Band 2 NFC 版
 oppo,OR19R1,cn,OPPO, OPPO Watch RX / 英雄联盟限定版
@@ -5384,8 +5399,9 @@ oppo,OWW212,cn,OPPO, OPPO Watch 3
 oppo,OWW211,cn,OPPO, OPPO Watch 3 Pro
 oppo,OWW221,cn,OPPO, OPPO Watch 4 Pro
 oppo,OWW231,cn,OPPO, OPPO Watch X
-oppo,OWW251,cn,OPPO, OPPO Watch X2
+oppo,OWW235,cn,OPPO, OPPO Watch Sport
 oppo,OWW242,cn,OPPO, OPPO Watch X2 Mini
+oppo,OWW251,cn,OPPO, OPPO Watch X2
 oppo,CPH1871,en,OPPO, OPPO Find X
 oppo,CPH1875,en,OPPO, OPPO Find X
 oppo,CPH2023,en,OPPO, OPPO Find X2
@@ -5478,6 +5494,9 @@ oppo,CPH2689,en,OPPO, OPPO Reno13 5G
 oppo,CPH2697,en,OPPO, OPPO Reno13 Pro 5G
 oppo,CPH2701,en,OPPO, OPPO Reno13 F
 oppo,CPH2699,en,OPPO, OPPO Reno13 F 5G
+oppo,CPH2737,en,OPPO, OPPO Reno14
+oppo,CPH2739,en,OPPO, OPPO Reno14 Pro
+oppo,CPH2743,en,OPPO, OPPO Reno14 F 5G
 oppo,CPH1819,en,OPPO, OPPO F7
 oppo,CPH1821,en,OPPO, OPPO F7
 oppo,CPH1859,en,OPPO, OPPO F7 Youth
@@ -5649,6 +5668,7 @@ oppo,OPD2402,en,OPPO, OPPO Pad 3 Pro
 oppo,OPD2419,en,OPPO, OPPO Pad SE Wi-Fi
 oppo,OPD2420,en,OPPO, OPPO Pad SE LTE
 oppo,OB19B1,en,OPPO, OPPO Band / Style
+oppo,OB19O3,en,OPPO, OPPO Band / Style
 oppo,OBBE215,en,OPPO, OPPO Band 2 Japan
 oppo,OWWE201,en,OPPO, OPPO Watch Free
 oppo,OW19W6,en,OPPO, OPPO Watch 41mm
@@ -7476,7 +7496,7 @@ vivo,PA2455,cn,VIVO, vivo Pad3
 vivo,PA2473,cn,VIVO, vivo Pad3 Pro
 vivo,PA2553,cn,VIVO, vivo Pad5
 vivo,PA2573,cn,VIVO, vivo Pad5 Pro
-vivo,PA2537,cn,VIVO, vivo Pad5e
+vivo,PA2535,cn,VIVO, vivo Pad5e
 vivo,PA2511,cn,VIVO, vivo Pad SE
 vivo,iPA2375,cn,VIVO, iQOO Pad
 vivo,iPA2451,cn,VIVO, iQOO Pad Air
@@ -7484,7 +7504,7 @@ vivo,iPA2453,cn,VIVO, iQOO Pad2
 vivo,iPA2475,cn,VIVO, iQOO Pad2 Pro
 vivo,iPA2556,cn,VIVO, iQOO Pad5
 vivo,iPA2575,cn,VIVO, iQOO Pad5 Pro
-vivo,iPA2535,cn,VIVO, iQOO Pad5e
+vivo,iPA2537,cn,VIVO, iQOO Pad5e
 vivo,WA2052,cn,VIVO, vivo WATCH 42mm
 vivo,WA2056,cn,VIVO, vivo WATCH 46mm
 vivo,WA2156A,cn,VIVO, vivo WATCH 2 eSIM 版
@@ -7725,7 +7745,8 @@ vivo,I2202,en,VIVO, iQOO Neo6
 vivo,I2214,en,VIVO, iQOO Neo7
 vivo,I2217,en,VIVO, iQOO Neo7 Pro
 vivo,I2304,en,VIVO, iQOO Neo9 Pro
-vivo,I2221,en,VIVO, iQOO Neo10R
+vivo,I2405,en,VIVO, iQOO Neo 10
+vivo,I2221,en,VIVO, iQOO Neo 10R
 vivo,I2011,en,VIVO, iQOO Z3 5G
 vivo,I2018,en,VIVO, iQOO Z5
 vivo,I2127,en,VIVO, iQOO Z6 5G
