@@ -3618,10 +3618,14 @@ lenovo,TB240FC,cn,联想, 联想昭阳 K12 12.7 英寸 Wi-Fi 版
 lenovo,TB373FU,cn,联想, 联想昭阳 K12 (二代) 12.7 英寸 Wi-Fi 版
 lenovo,TB373ZC,cn,联想, 联想昭阳 K12 (二代) 12.7 英寸 5G 版
 lenovo,TB-X802F,cn,联想, 联想昭阳 G11 10.95 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, Lenovo Tab K11 11 英寸 Wi-Fi 版
-lenovo,TB-J606F,cn,联想, Lenovo Tab K11 11 英寸 Wi-Fi 版
-lenovo,Lenovo,cn,联想, Lenovo Tab K11 11 英寸 LTE 版
-lenovo,TB-J606N,cn,联想, Lenovo Tab K11 11 英寸 LTE 版
+lenovo,TB-X903F,cn,联想, 联想昭阳 G12 11.5 英寸 Wi-Fi 版
+lenovo,TB352FC1,cn,联想, 联想昭阳 P07 11.5 英寸 Wi-Fi 版
+lenovo,TB352XC1,cn,联想, 联想昭阳 P07 11.5 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想平板电脑 K11 11 英寸 Wi-Fi 版
+lenovo,TB-J606F,cn,联想, 联想平板电脑 K11 11 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想平板电脑 K11 11 英寸 LTE 版
+lenovo,TB-J606N,cn,联想, 联想平板电脑 K11 11 英寸 LTE 版
+lenovo,QBH11,cn,联想, 联想平板电脑 S11 Pro 11.5 英寸 Wi-Fi 版
 lenovo,TB610FU,cn,联想, ThinkBook Plus Hybrid 2024 (平板)
 letv,X600,cn,乐视, 乐 1 通用版
 letv,X608,cn,乐视, 乐 1 移动定制版
@@ -9462,6 +9466,7 @@ zhixuan,MKY-AN20,cn,华为智选, Hi 畅享 70 5G / Hi 畅享 70m 5G
 zhixuan,BAL-AN20,cn,华为智选, Hi 畅享 70 Pro 5G
 zhixuan,JEY-AN00,cn,华为智选, Hi 畅享 70 Plus 5G
 zhixuan,JLG-AN00,cn,华为智选, Hi 畅享 80 5G / Hi 畅享 80S 5G
+zhixuan,JLG-AN80,cn,华为智选, Hi 畅享 80 GT 5G
 zhixuan,BRO-W00,cn,华为智选, Hi MatePad
 zhixuan,MASH-16,cn,华为智选, Hi MateBook 14 (16GB 内存)
 zhixuan,MASH-32,cn,华为智选, Hi MateBook 14 (32GB 内存)
