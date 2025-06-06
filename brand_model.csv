@@ -2049,6 +2049,9 @@ honor,JDY-LX2,en,荣耀, HONOR X6b
 honor,JDY-LX3P,en,荣耀, HONOR X6b
 honor,JDY-LX3,en,荣耀, HONOR X6b Plus
 honor,ALT-NX3,en,荣耀, HONOR X6b 5G
+honor,NIC-LX1,en,荣耀, HONOR X6c
+honor,NIC-LX2,en,荣耀, HONOR X6c
+honor,NIC-LX3,en,荣耀, HONOR X6c
 honor,CMA-LX1,en,荣耀, HONOR X7
 honor,CMA-LX2,en,荣耀, HONOR X7
 honor,CMA-LX3,en,荣耀, HONOR X7
@@ -2898,6 +2901,10 @@ huawei,HD86AJMN,cn,华为, 华为智慧屏 S5 Pro 86
 huawei,HD65WATN,cn,华为, 华为智慧屏 S5 Pro New 65
 huawei,HD75WATN,cn,华为, 华为智慧屏 S5 Pro New 75
 huawei,HD86WATN,cn,华为, 华为智慧屏 S5 Pro New 86
+huawei,HD55KULX,cn,华为, 华为智慧屏 S6 55
+huawei,HD65KULX,cn,华为, 华为智慧屏 S6 65
+huawei,HD75KULX,cn,华为, 华为智慧屏 S6 75
+huawei,HD85KULX,cn,华为, 华为智慧屏 S6 85
 huawei,HD6XAJMS,cn,华为, 华为智慧屏 S6 Pro 65
 huawei,HD7XAJMS,cn,华为, 华为智慧屏 S6 Pro 75
 huawei,HD8XAJMS,cn,华为, 华为智慧屏 S6 Pro 85
@@ -7389,7 +7396,7 @@ vivo,V2354A,cn,VIVO, vivo Y100+ 5G / vivo Y200i 5G / vivo Y200+ 5G
 vivo,V2343A,cn,VIVO, vivo Y200 5G
 vivo,V2361GA,cn,VIVO, vivo Y200 GT 5G / vivo Y200 Pro 企业定制版
 vivo,V2353DA,cn,VIVO, vivo Y200t 5G
-vivo,V2435A,cn,VIVO, vivo Y300 5G
+vivo,V2435A,cn,VIVO, vivo Y300 5G / vivo Y300c 5G
 vivo,V2410A,cn,VIVO, vivo Y300 Pro 5G
 vivo,V2456A,cn,VIVO, vivo Y300 Pro+ 5G
 vivo,V2444A,cn,VIVO, vivo Y300i 5G
@@ -8118,6 +8125,7 @@ xiaomi,2410CRP4CG,cn,小米, Xiaomi Pad 7 国际版
 xiaomi,24091RPADC,cn,小米, Xiaomi Pad 7 Pro 国行版
 xiaomi,24091RPADG,cn,小米, Xiaomi Pad 7 Pro 国际版
 xiaomi,25032RP42C,cn,小米, Xiaomi Pad 7 Ultra
+xiaomi,25053RP5CC,cn,小米, Xiaomi Pad 7S Pro 12.5
 xiaomi,2013022,cn,小米, 红米手机 移动版
 xiaomi,2013023,cn,小米, 红米手机 联通版
 xiaomi,2013029,cn,小米, 红米 1S 联通版
@@ -8566,6 +8574,14 @@ xiaomi,24074RPD2I,cn,小米, Redmi Pad Pro 5G 印度版
 xiaomi,24075RP89G,cn,小米, Redmi Pad SE 8.7 Wi-Fi 国际版
 xiaomi,24076RP19G,cn,小米, Redmi Pad SE 8.7 4G 国际版
 xiaomi,24076RP19I,cn,小米, Redmi Pad SE 4G 印度版
+xiaomi,25040RP0AC,cn,小米, REDMI Pad 2 国行版
+xiaomi,25040RP0AG,cn,小米, Redmi Pad 2 国际版
+xiaomi,25040RP0AI,cn,小米, Redmi Pad 2 印度版
+xiaomi,25040RP0AE,cn,小米, Redmi Pad 2 欧洲版
+xiaomi,25040RP0AL,cn,小米, Redmi Pad 2 拉美版
+xiaomi,2505DRP06C,cn,小米, REDMI Pad 2 4G 国行版
+xiaomi,2505DRP06G,cn,小米, Redmi Pad 2 4G 国际版
+xiaomi,2505DRP06I,cn,小米, Redmi Pad 2 4G 印度版
 xiaomi,M1805E10A,cn,小米, POCO F1
 xiaomi,M2004J11G,cn,小米, POCO F2 Pro 国际版
 xiaomi,M2012K11AG,cn,小米, POCO F3 国际版
@@ -9406,6 +9422,7 @@ xiaomi,2410CRP4CC,en,小米, Xiaomi Pad 7 China
 xiaomi,24091RPADG,en,小米, Xiaomi Pad 7 Pro Global
 xiaomi,24091RPADC,en,小米, Xiaomi Pad 7 Pro China
 xiaomi,25032RP42C,en,小米, Xiaomi Pad 7 Ultra
+xiaomi,25053RP5CC,en,小米, Xiaomi Pad 7S Pro 12.5 China
 xiaomi,22081283G,en,小米, Redmi Pad Global
 xiaomi,22081283C,en,小米, Redmi Pad China
 xiaomi,23073RPBFG,en,小米, Redmi Pad SE Global
@@ -9421,6 +9438,14 @@ xiaomi,24074RPD2I,en,小米, Redmi Pad Pro 5G India
 xiaomi,24075RP89G,en,小米, Redmi Pad SE 8.7 Wi-Fi Global
 xiaomi,24076RP19G,en,小米, Redmi Pad SE 8.7 4G Global
 xiaomi,24076RP19I,en,小米, Redmi Pad SE 4G India
+xiaomi,25040RP0AG,en,小米, Redmi Pad 2 Global
+xiaomi,25040RP0AI,en,小米, Redmi Pad 2 India
+xiaomi,25040RP0AE,en,小米, Redmi Pad 2 Europe
+xiaomi,25040RP0AL,en,小米, Redmi Pad 2 Latin America
+xiaomi,25040RP0AC,en,小米, REDMI Pad 2 China
+xiaomi,2505DRP06G,en,小米, Redmi Pad 2 4G Global
+xiaomi,2505DRP06I,en,小米, Redmi Pad 2 4G India
+xiaomi,2505DRP06C,en,小米, REDMI Pad 2 4G China
 xiaomi,2405CPCFBG,en,小米, POCO Pad Wi-Fi Global
 xiaomi,24074PCD2I,en,小米, POCO Pad 5G India
 xiaomi,FYJ01QP,en,小米, Xiaomi Mijia Translator
