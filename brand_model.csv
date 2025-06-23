@@ -2270,6 +2270,9 @@ huawei,HBN-AL00,cn,华为, HUAWEI Pura 70 Pro
 huawei,HBN-AL10,cn,华为, HUAWEI Pura 70 Pro+
 huawei,HBN-AL80,cn,华为, HUAWEI Pura 70 Pro+
 huawei,HBP-AL00,cn,华为, HUAWEI Pura 70 Ultra
+huawei,LMR-AL00,cn,华为, HUAWEI Pura 80 Pro
+huawei,LMR-AL10,cn,华为, HUAWEI Pura 80 Pro+
+huawei,LMR-AL10,cn,华为, HUAWEI Pura 80 Ultra
 huawei,VDE-AL00,cn,华为, HUAWEI Pura X
 huawei,VDE-AL10,cn,华为, HUAWEI Pura X 典藏版
 huawei,BAL-AL60,cn,华为, HUAWEI Pocket S
@@ -3521,7 +3524,7 @@ lenovo,Lenovo,cn,联想, YOGA Tab 3 PRO 10” LTE 版
 lenovo,YT3-X90L,cn,联想, YOGA Tab 3 PRO 10” LTE 版
 lenovo,Lenovo,cn,联想, YOGA Pad Pro
 lenovo,YT-K606F,cn,联想, YOGA Pad Pro
-lenovo,TB520FU,cn,联想, YOGA Pad Pro AI 元启版
+lenovo,TB520FU,cn,联想, YOGA Pad Pro 12.7 / YOGA Pad Pro AI 元启版
 lenovo,TB571FU,cn,联想, YOGA Pad Pro 14.5 AI 元启版
 lenovo,SP101FU,cn,联想, YOGA Paper 墨水平板
 lenovo,Lenovo,cn,联想, 拯救者平板 Y700 (2022)
@@ -3621,17 +3624,20 @@ lenovo,TB311FU,cn,联想, 联想昭阳 K10c 10.1 英寸 Wi-Fi 版
 lenovo,TB311XC,cn,联想, 联想昭阳 K10c 10.1 英寸 LTE 版
 lenovo,TB352FC,cn,联想, 联想昭阳 K11 11.5 英寸 Wi-Fi 版
 lenovo,TB352XC,cn,联想, 联想昭阳 K11 11.5 英寸 LTE 版
+lenovo,TB336FU,cn,联想, 联想昭阳 K11 11 英寸 Wi-Fi 版
+lenovo,TB336ZC,cn,联想, 联想昭阳 K11 11 英寸 5G 版
+lenovo,TB337FU,cn,联想, 联想昭阳 K11c 10.95 英寸 Wi-Fi 版
 lenovo,TB240FC,cn,联想, 联想昭阳 K12 12.7 英寸 Wi-Fi 版
 lenovo,TB373FU,cn,联想, 联想昭阳 K12 (二代) 12.7 英寸 Wi-Fi 版
 lenovo,TB373ZC,cn,联想, 联想昭阳 K12 (二代) 12.7 英寸 5G 版
 lenovo,TB-X802F,cn,联想, 联想昭阳 G11 10.95 英寸 Wi-Fi 版
 lenovo,TB-X903F,cn,联想, 联想昭阳 G12 11.5 英寸 Wi-Fi 版
-lenovo,TB352FC1,cn,联想, 联想昭阳 P07 11.5 英寸 Wi-Fi 版
-lenovo,TB352XC1,cn,联想, 联想昭阳 P07 11.5 英寸 LTE 版
+lenovo,TBY11,cn,联想, 联想昭阳 Y11 10.95 英寸 Wi-Fi 版
 lenovo,Lenovo,cn,联想, 联想平板电脑 K11 11 英寸 Wi-Fi 版
 lenovo,TB-J606F,cn,联想, 联想平板电脑 K11 11 英寸 Wi-Fi 版
 lenovo,Lenovo,cn,联想, 联想平板电脑 K11 11 英寸 LTE 版
 lenovo,TB-J606N,cn,联想, 联想平板电脑 K11 11 英寸 LTE 版
+lenovo,QBH10,cn,联想, 联想平板电脑 S11 10.95 英寸 Wi-Fi 版
 lenovo,QBH11,cn,联想, 联想平板电脑 S11 Pro 11.5 英寸 Wi-Fi 版
 lenovo,TB610FU,cn,联想, ThinkBook Plus Hybrid 2024 (平板)
 letv,X600,cn,乐视, 乐 1 通用版
@@ -3853,7 +3859,8 @@ meizu,M811Q,cn,魅族, 魅蓝 6T 公开版
 meizu,M811H,cn,魅族, 魅族 M6T 国际版
 meizu,M2112,cn,魅族, 魅蓝 10
 meizu,M2111,cn,魅族, 魅蓝 10s
-meizu,M421Q,cn,魅族, 魅蓝 20 / 魅族 M20
+meizu,M421Q,cn,魅族, 魅蓝 200 / 魅蓝 20C / 魅族 M20
+meizu,M416H,cn,魅族, 魅族 MBLU 21
 meizu,M416L,cn,魅族, 魅族 MBLU 21
 meizu,S685Q,cn,魅族, 魅蓝 Max 公开版
 meizu,S685M,cn,魅族, 魅蓝 Max 移动版
@@ -4055,6 +4062,7 @@ meizu,M918H,en,魅族, MEIZU M10 Global
 meizu,M2112,en,魅族, mblu 10
 meizu,M2111,en,魅族, mblu 10s
 meizu,M421Q,en,魅族, MEIZU M20 / MEIZU mblu 20
+meizu,M416H,en,魅族, MEIZU MBLU 21 Global
 meizu,M416L,en,魅族, MEIZU MBLU 21 Global
 meizu,S685H,en,魅族, MEIZU M3 Max Global
 meizu,S685Q,en,魅族, MEIZU M3 Max China
@@ -4970,6 +4978,7 @@ oneplus,CPH2399,cn,一加, 一加 Nord 2T 国际版
 oneplus,CPH2401,cn,一加, 一加 Nord 2T 印度版
 oneplus,CPH2661,cn,一加, 一加 Nord 4 印度版
 oneplus,CPH2663,cn,一加, 一加 Nord 4 欧洲版 / 国际版
+oneplus,CPH2707,cn,一加, 一加 Nord 5 印度版
 oneplus,CPH2709,cn,一加, 一加 Nord 5 国际版
 oneplus,EB2101,cn,一加, 一加 Nord CE 印度版
 oneplus,EB2103,cn,一加, 一加 Nord CE 欧洲版 / 国际版
@@ -4984,7 +4993,8 @@ oneplus,CPH2515,cn,一加, 一加 Nord N30 T-Mobile 版
 oneplus,CPH2613,cn,一加, 一加 Nord CE 4 印度版
 oneplus,CPH2619,cn,一加, 一加 Nord CE 4 Lite 印度版
 oneplus,CPH2621,cn,一加, 一加 Nord CE 4 Lite 欧洲版 / 国际版
-oneplus,CPH2717,cn,一加, 一加 Nord CE 5
+oneplus,CPH2717,cn,一加, 一加 Nord CE 5 印度版
+oneplus,CPH2719,cn,一加, 一加 Nord CE 5 国际版
 oneplus,BE2025,cn,一加, 一加 Nord N10 Metro 版
 oneplus,BE2026,cn,一加, 一加 Nord N10 北美版
 oneplus,BE2029,cn,一加, 一加 Nord N10 欧洲版 / 国际版
@@ -5142,6 +5152,7 @@ oneplus,CPH2399,en,一加, OnePlus Nord 2T Global
 oneplus,CPH2401,en,一加, OnePlus Nord 2T India
 oneplus,CPH2661,en,一加, OnePlus Nord 4 India
 oneplus,CPH2663,en,一加, OnePlus Nord 4 Europe / Global
+oneplus,CPH2707,en,一加, OnePlus Nord 5 India
 oneplus,CPH2709,en,一加, OnePlus Nord 5 Global
 oneplus,EB2101,en,一加, OnePlus Nord CE India
 oneplus,EB2103,en,一加, OnePlus Nord CE Europe / Global
@@ -5156,7 +5167,8 @@ oneplus,CPH2515,en,一加, OnePlus Nord N30 T-Mobile
 oneplus,CPH2613,en,一加, OnePlus Nord CE 4 India
 oneplus,CPH2619,en,一加, OnePlus Nord CE 4 Lite India
 oneplus,CPH2621,en,一加, OnePlus Nord CE 4 Lite Europe / Global
-oneplus,CPH2717,en,一加, OnePlus Nord CE 5
+oneplus,CPH2717,en,一加, OnePlus Nord CE 5 India
+oneplus,CPH2719,en,一加, OnePlus Nord CE 5 Global
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
 oneplus,BE2026,en,一加, OnePlus Nord N10 North America
 oneplus,BE2029,en,一加, OnePlus Nord N10 Europe / Global
@@ -5506,7 +5518,7 @@ oppo,CPH2637,en,OPPO, OPPO Reno12 F 5G / OPPO Reno12 FS 5G
 oppo,CPH2689,en,OPPO, OPPO Reno13 5G
 oppo,CPH2697,en,OPPO, OPPO Reno13 Pro 5G
 oppo,CPH2701,en,OPPO, OPPO Reno13 F
-oppo,CPH2699,en,OPPO, OPPO Reno13 F 5G
+oppo,CPH2699,en,OPPO, OPPO Reno13 F 5G / OPPO Reno13 A
 oppo,CPH2737,en,OPPO, OPPO Reno14
 oppo,CPH2739,en,OPPO, OPPO Reno14 Pro
 oppo,CPH2743,en,OPPO, OPPO Reno14 F 5G
@@ -5855,25 +5867,26 @@ realme,RMX3780,en,真我, realme 11 5G
 realme,RMX3785,en,真我, realme 11x 5G
 realme,RMX3771,en,真我, realme 11 Pro 5G
 realme,RMX3741,en,真我, realme 11 Pro+ 5G
+realme,RMX3871,en,真我, realme 12 4G
 realme,RMX3999,en,真我, realme 12 5G
 realme,RMX3998,en,真我, realme 12x 5G
 realme,RMX3867,en,真我, realme 12+ 5G
 realme,RMX3842,en,真我, realme 12 Pro 5G
 realme,RMX3840,en,真我, realme 12 Pro+ 5G
+realme,RMX3871,en,真我, realme 13 4G
 realme,RMX3951,en,真我, realme 13 5G
 realme,RMX5000,en,真我, realme 13+ 5G
 realme,RMX3990,en,真我, realme 13 Pro 5G / realme 14 Pro Lite 5G
 realme,RMX3921,en,真我, realme 13 Pro+ 5G
-realme,RMX5070,en,真我, realme 14 5G
-realme,RMX3940,en,真我, realme 14x 5G
-realme,RMX3943,en,真我, realme 14x 5G
-realme,RMX5074,en,真我, realme 14T 5G
-realme,RMX5078,en,真我, realme 14T 5G
-realme,RMX5079,en,真我, realme 14T 5G
-realme,RMX5056,en,真我, realme 14 Pro 5G
-realme,RMX5057,en,真我, realme 14 Pro 5G
-realme,RMX5051,en,真我, realme 14 Pro+ 5G
-realme,RMX5054,en,真我, realme 14 Pro+ 5G
+realme,RMX5070,en,真我, realme 14 5G Global
+realme,RMX3940,en,真我, realme 14x 5G India
+realme,RMX3943,en,真我, realme 14x 5G Global
+realme,RMX5074,en,真我, realme 14T 5G Global
+realme,RMX5078,en,真我, realme 14T 5G India
+realme,RMX5056,en,真我, realme 14 Pro 5G India
+realme,RMX5057,en,真我, realme 14 Pro 5G Global
+realme,RMX5051,en,真我, realme 14 Pro+ 5G India
+realme,RMX5054,en,真我, realme 14 Pro+ 5G Global
 realme,RMX1901,en,真我, realme X
 realme,RMX1921,en,真我, realme XT Global
 realme,RMX1922,en,真我, realme XT India
@@ -5957,6 +5970,7 @@ realme,RMX3765,en,真我, realme C51s
 realme,RMX3760,en,真我, realme C53 Global
 realme,RMX3762,en,真我, realme C53 India
 realme,RMX3710,en,真我, realme C55
+realme,RMX3834,en,真我, realme C60
 realme,RMX3939,en,真我, realme C61 Global
 realme,RMX3930,en,真我, realme C61 Global
 realme,RMX3933,en,真我, realme C61 India
@@ -5970,7 +5984,8 @@ realme,RMX3782,en,真我, realme C67 5G
 realme,RMX5303,en,真我, realme C71
 realme,RMX3945,en,真我, realme C73 5G
 realme,RMX3941,en,真我, realme C75
-realme,RMX3943,en,真我, realme C75 5G
+realme,RMX3943,en,真我, realme C75 5G India
+realme,RMX3963,en,真我, realme C75 5G Global
 realme,RMX5020,en,真我, realme C75x
 realme,RMX3834,en,真我, realme Note 50
 realme,RMX3933,en,真我, realme Note 60
@@ -5982,6 +5997,7 @@ realme,RMX3844,en,真我, realme P1 Pro 5G
 realme,RMX5004,en,真我, realme P1 Speed 5G
 realme,RMX3987,en,真我, realme P2 Pro 5G
 realme,RMX5070,en,真我, realme P3 5G
+realme,RMX5079,en,真我, realme P3 5G
 realme,RMX3944,en,真我, realme P3x 5G
 realme,RMX5032,en,真我, realme P3 Pro 5G
 realme,RMX5030,en,真我, realme P3 Ultra 5G
@@ -6023,6 +6039,7 @@ realme,RMX3998,en,真我, realme NARZO 70x 5G
 realme,RMX5003,en,真我, realme NARZO 70 Turbo 5G
 realme,RMX5033,en,真我, realme NARZO 80 Pro 5G
 realme,RMX3944,en,真我, realme NARZO 80x 5G
+realme,RMX3945,en,真我, realme NARZO 80 Lite 5G
 realme,RMP2102,en,真我, realme Pad LTE
 realme,RMP2103,en,真我, realme Pad Wi-Fi
 realme,RMP2105,en,真我, realme Pad mini LTE
@@ -7030,6 +7047,7 @@ samsung,SC-53E,en,三星, Galaxy A55 5G Japan (NTT Docomo)
 samsung,SM-A566E,en,三星, Galaxy A56 5G Global
 samsung,SM-A566B,en,三星, Galaxy A56 5G EU
 samsung,SM-A5660,en,三星, Galaxy A56 5G China
+samsung,SM-A566S,en,三星, Galaxy A56 5G South Korea
 samsung,SM-A606F,en,三星, Galaxy A60 Global
 samsung,SM-A6060,en,三星, Galaxy A60 China mainland
 samsung,SM-A606Y,en,三星, Galaxy A60 TW
@@ -7116,6 +7134,7 @@ samsung,SM-M346B,en,三星, Galaxy M34 5G India
 samsung,SM-M346B1,en,三星, Galaxy M34 5G Southeast Asia
 samsung,SM-M346B2,en,三星, Galaxy M34 5G Global
 samsung,SM-M356B,en,三星, Galaxy M35 5G
+samsung,SM-M366B,en,三星, Galaxy M36 5G
 samsung,SM-M405F,en,三星, Galaxy M40
 samsung,SM-M426B,en,三星, Galaxy M42 5G
 samsung,SM-M515F,en,三星, Galaxy M51
@@ -7142,6 +7161,7 @@ samsung,SM-E166P,en,三星, Galaxy F16 5G
 samsung,SM-E225F,en,三星, Galaxy F22
 samsung,SM-E236B,en,三星, Galaxy F23 5G
 samsung,SM-E346B,en,三星, Galaxy F34 5G
+samsung,SM-E366B,en,三星, Galaxy F36 5G
 samsung,SM-F415F,en,三星, Galaxy F41
 samsung,SM-E426B,en,三星, Galaxy F42 5G
 samsung,SM-E5260,en,三星, Galaxy F52 5G
@@ -7262,6 +7282,7 @@ vivo,V2419A,cn,VIVO, vivo X200 Pro mini
 vivo,V2458A,cn,VIVO, vivo X200s
 vivo,V2454A,cn,VIVO, vivo X200 Ultra
 vivo,V2454DA,cn,VIVO, vivo X200 Ultra 卫星通信版
+vivo,V2436A,cn,VIVO, vivo X Fold5
 vivo,V1831A,cn,VIVO, vivo S1 全网通版
 vivo,V1831T,cn,VIVO, vivo S1 移动全网通版
 vivo,V1832A,cn,VIVO, vivo S1 Pro 全网通版
@@ -7495,7 +7516,6 @@ vivo,V2352A,cn,VIVO, iQOO Z9 Turbo
 vivo,V2352GA,cn,VIVO, iQOO Z9 Turbo 长续航版
 vivo,V2417A,cn,VIVO, iQOO Z9 Turbo+
 vivo,V2353A,cn,VIVO, iQOO Z9x
-vivo,V2436A,cn,VIVO, iQOO Z10
 vivo,V2452A,cn,VIVO, iQOO Z10 Turbo
 vivo,V2453A,cn,VIVO, iQOO Z10 Turbo Pro
 vivo,V2445A,cn,VIVO, iQOO Z10x
@@ -8040,6 +8060,9 @@ xiaomi,25010PN30C,cn,小米, Xiaomi 15 Ultra 双卫星版 国行版
 xiaomi,25010PN30G,cn,小米, Xiaomi 15 Ultra 国际版
 xiaomi,25010PN30I,cn,小米, Xiaomi 15 Ultra 印度版
 xiaomi,25042PN24C,cn,小米, Xiaomi 15S Pro
+xiaomi,25069PTEBG,cn,小米, Xiaomi 15T 国际版
+xiaomi,2506BPN68G,cn,小米, Xiaomi 15T Pro 国际版
+xiaomi,2506BPN68R,cn,小米, Xiaomi 15T Pro 日本版 (无锁)
 xiaomi,2014616,cn,小米, 小米 Note 双网通版
 xiaomi,2014619,cn,小米, 小米 Note 全网通版
 xiaomi,2014618,cn,小米, 小米 Note 移动合约版
@@ -8074,6 +8097,8 @@ xiaomi,2308CPXD0C,cn,小米, Xiaomi MIX Fold 3
 xiaomi,24072PX77C,cn,小米, Xiaomi MIX Fold 4
 xiaomi,2405CPX3DC,cn,小米, Xiaomi MIX Flip 国行版
 xiaomi,2405CPX3DG,cn,小米, Xiaomi MIX Flip 国际版
+xiaomi,2505APX7BC,cn,小米, Xiaomi MIX Flip 2 国行版
+xiaomi,2505APX7BG,cn,小米, Xiaomi MIX Flip 2 国际版
 xiaomi,2016001,cn,小米, 小米 Max 标准版 全网通版
 xiaomi,2016002,cn,小米, 小米 Max 标准版 国际版
 xiaomi,2016007,cn,小米, 小米 Max 高配版
@@ -8518,6 +8543,7 @@ xiaomi,2407FRK8EC,cn,小米, Redmi K70 至尊版
 xiaomi,24117RK2CC,cn,小米, REDMI K80
 xiaomi,24122RKC7C,cn,小米, REDMI K80 Pro
 xiaomi,24127RK2CC,cn,小米, REDMI K80 Pro 冠军版
+xiaomi,25060RK16C,cn,小米, REDMI K80 至尊版
 xiaomi,2016020,cn,小米, 红米 Pro 标准版
 xiaomi,2016021,cn,小米, 红米 Pro 高配版 / 尊享版
 xiaomi,M1803E6E,cn,小米, 红米 S2 全网通版
@@ -8575,13 +8601,15 @@ xiaomi,24075RP89G,cn,小米, Redmi Pad SE 8.7 Wi-Fi 国际版
 xiaomi,24076RP19G,cn,小米, Redmi Pad SE 8.7 4G 国际版
 xiaomi,24076RP19I,cn,小米, Redmi Pad SE 4G 印度版
 xiaomi,25040RP0AC,cn,小米, REDMI Pad 2 国行版
-xiaomi,25040RP0AG,cn,小米, Redmi Pad 2 国际版
-xiaomi,25040RP0AI,cn,小米, Redmi Pad 2 印度版
-xiaomi,25040RP0AE,cn,小米, Redmi Pad 2 欧洲版
-xiaomi,25040RP0AL,cn,小米, Redmi Pad 2 拉美版
+xiaomi,25040RP0AG,cn,小米, REDMI Pad 2 国际版
+xiaomi,25040RP0AI,cn,小米, REDMI Pad 2 印度版
+xiaomi,25040RP0AE,cn,小米, REDMI Pad 2 欧洲版
+xiaomi,25040RP0AL,cn,小米, REDMI Pad 2 拉美版
 xiaomi,2505DRP06C,cn,小米, REDMI Pad 2 4G 国行版
-xiaomi,2505DRP06G,cn,小米, Redmi Pad 2 4G 国际版
-xiaomi,2505DRP06I,cn,小米, Redmi Pad 2 4G 印度版
+xiaomi,2505DRP06G,cn,小米, REDMI Pad 2 4G 国际版
+xiaomi,2505DRP06I,cn,小米, REDMI Pad 2 4G 印度版
+xiaomi,2505DRP06E,cn,小米, REDMI Pad 2 4G 欧洲版
+xiaomi,25079RPDCC,cn,小米, REDMI K Pad
 xiaomi,M1805E10A,cn,小米, POCO F1
 xiaomi,M2004J11G,cn,小米, POCO F2 Pro 国际版
 xiaomi,M2012K11AG,cn,小米, POCO F3 国际版
@@ -8819,6 +8847,9 @@ xiaomi,25010PN30I,en,小米, Xiaomi 15 Ultra India
 xiaomi,25019PNF3C,en,小米, Xiaomi 15 Ultra China (Tiantong satellite)
 xiaomi,25010PN30C,en,小米, Xiaomi 15 Ultra China (Tiantong & Beidou satellites)
 xiaomi,25042PN24C,en,小米, Xiaomi 15S Pro China
+xiaomi,25069PTEBG,en,小米, Xiaomi 15T Global
+xiaomi,2506BPN68G,en,小米, Xiaomi 15T Pro Global
+xiaomi,2506BPN68R,en,小米, Xiaomi 15T Pro Japan (SIM Free)
 xiaomi,2015011,en,小米, Mi Note Global
 xiaomi,2014616,en,小米, Mi Note China (Dual-network)
 xiaomi,2014619,en,小米, Mi Note China (Full-network)
@@ -8853,6 +8884,8 @@ xiaomi,2308CPXD0C,en,小米, Xiaomi MIX Fold 3 China
 xiaomi,24072PX77C,en,小米, Xiaomi MIX Fold 4 China
 xiaomi,2405CPX3DG,en,小米, Xiaomi MIX Flip Global
 xiaomi,2405CPX3DC,en,小米, Xiaomi MIX Flip China
+xiaomi,2505APX7BG,en,小米, Xiaomi MIX Flip 2 Global
+xiaomi,2505APX7BC,en,小米, Xiaomi MIX Flip 2 China
 xiaomi,2016002,en,小米, Mi Max Global
 xiaomi,2016001,en,小米, Mi Max China
 xiaomi,2016007,en,小米, Mi Max Prime
@@ -9271,6 +9304,7 @@ xiaomi,2407FRK8EC,en,小米, Redmi K70 Ultra China
 xiaomi,24117RK2CC,en,小米, REDMI K80 China
 xiaomi,24122RKC7C,en,小米, REDMI K80 Pro China
 xiaomi,24127RK2CC,en,小米, REDMI K80 Pro Automobili Lamborghini Squadra Corse China
+xiaomi,25060RK16C,en,小米, REDMI K80 Ultra China
 xiaomi,2016020,en,小米, Redmi Pro (32GB)
 xiaomi,2016021,en,小米, Redmi Pro (64GB & 128GB)
 xiaomi,M1803E6G,en,小米, Redmi S2 Global
@@ -9445,7 +9479,9 @@ xiaomi,25040RP0AL,en,小米, Redmi Pad 2 Latin America
 xiaomi,25040RP0AC,en,小米, REDMI Pad 2 China
 xiaomi,2505DRP06G,en,小米, Redmi Pad 2 4G Global
 xiaomi,2505DRP06I,en,小米, Redmi Pad 2 4G India
+xiaomi,2505DRP06E,en,小米, Redmi Pad 2 4G Europe
 xiaomi,2505DRP06C,en,小米, REDMI Pad 2 4G China
+xiaomi,25079RPDCC,en,小米, REDMI K Pad China
 xiaomi,2405CPCFBG,en,小米, POCO Pad Wi-Fi Global
 xiaomi,24074PCD2I,en,小米, POCO Pad 5G India
 xiaomi,FYJ01QP,en,小米, Xiaomi Mijia Translator
@@ -9561,7 +9597,6 @@ zte,7551N,cn,中兴, 中兴小鲜 60 / 中兴远航 60 / 中兴 V80
 zte,7552N,cn,中兴, 中兴畅行 60
 zte,7553N,cn,中兴, 中兴畅行 60 Plus / 中兴远航 61
 zte,7561N,cn,中兴, 中兴远航 70 / 中兴小鲜 60 臻情版
-zte,Z9101,cn,中兴, 中兴远航 3D
 zte,9041N,cn,中兴, 中兴 V70
 zte,9043N,cn,中兴, 中兴 V70 Pro
 zte,PA01,cn,中兴, 中兴 Axon Pad
