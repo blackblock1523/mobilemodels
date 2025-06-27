@@ -3431,7 +3431,8 @@ huawei,WGR-W19,en,华为, HUAWEI MatePad Pro 12.6 2021 Wi-Fi
 huawei,WGRR-W09,en,华为, HUAWEI MatePad Pro 12.6 2022 Wi-Fi
 huawei,PCE-W29,en,华为, HUAWEI MatePad Pro 13.2 Wi-Fi
 huawei,WEB-W09,en,华为, HUAWEI MatePad Pro 13.2 2025 Wi-Fi
-huawei,MRO-W09,en,华为, HUAWEI MatePad Pro 12.2
+huawei,MRO-W09,en,华为, HUAWEI MatePad Pro 12.2 Wi-Fi
+huawei,MRDI-W09,en,华为, HUAWEI MatePad Pro 12.2 2025 Wi-Fi
 huawei,HMW-W09,en,华为, HUAWEI MatePad Paper Wi-Fi
 huawei,BGO-L03,en,华为, HUAWEI MediaPad T2 7.0 LTE
 huawei,BGO-DL09,en,华为, HUAWEI MediaPad T2 7.0 LTE
@@ -4331,6 +4332,9 @@ mitv,L75R9-XT,cn,小米电视, Redmi AI 智能电视 X75
 mitv,L55MA-XT,cn,小米电视, Redmi AI 智能电视 X55 2024
 mitv,L65MA-XT,cn,小米电视, Redmi AI 智能电视 X65 2024
 mitv,L75MA-XT,cn,小米电视, Redmi AI 智能电视 X75 2024
+mitv,L55RB-XT,cn,小米电视, Redmi AI 智能电视 X55 2025
+mitv,L65RB-XT,cn,小米电视, Redmi AI 智能电视 X65 2025
+mitv,L75RB-XT,cn,小米电视, Redmi AI 智能电视 X75 2025
 mitv,L55RB-RX,cn,小米电视, Redmi 智能电视 X55 2025
 mitv,L65RB-RX,cn,小米电视, Redmi 智能电视 X65 2025
 mitv,L75RB-RX,cn,小米电视, Redmi 智能电视 X75 2025
@@ -7578,6 +7582,8 @@ vivo,V2309,en,VIVO, vivo X100 Pro
 vivo,V2330,en,VIVO, vivo X Fold3 Pro
 vivo,V2415,en,VIVO, vivo X200
 vivo,V2413,en,VIVO, vivo X200 Pro
+vivo,V2503,en,VIVO, vivo X200 FE
+vivo,V2505,en,VIVO, vivo X200 FE
 vivo,V2025,en,VIVO, vivo V20
 vivo,V2022,en,VIVO, vivo V20 SE
 vivo,V2023,en,VIVO, vivo V20 SE
@@ -7665,6 +7671,7 @@ vivo,V2221,en,VIVO, vivo Y02s
 vivo,V2229,en,VIVO, vivo Y02s
 vivo,V2430,en,VIVO, vivo Y04
 vivo,V2438,en,VIVO, vivo Y04
+vivo,V2532,en,VIVO, vivo Y04e
 vivo,V2028,en,VIVO, vivo Y11s
 vivo,V2026,en,VIVO, vivo Y12A
 vivo,V2048,en,VIVO, vivo Y12D
@@ -7834,6 +7841,8 @@ xiaomi-wear,M2346B1,cn,小米, 小米手环 9 NFC 版 / 陶瓷特别版
 xiaomi-wear,M2401B1,cn,小米, 小米手环 9 Pro 国行版
 xiaomi-wear,M2402B1,cn,小米, 小米手环 9 Pro 国际版
 xiaomi-wear,M2435B1,cn,小米, 小米手环 9 Active 国际版
+xiaomi-wear,M2457B1,cn,小米, 小米手环 10
+xiaomi-wear,M2456B1,cn,小米, 小米手环 10 NFC 版 / 陶瓷版
 xiaomi-wear,XMWT01,cn,小米, 小米手表
 xiaomi-wear,M2320W1,cn,小米, Xiaomi Watch 2
 xiaomi-wear,M2234W1,cn,小米, Xiaomi Watch 2 Pro 蓝牙版
@@ -7857,8 +7866,10 @@ xiaomi-wear,M2425W1,cn,小米, Xiaomi Watch S4 蓝牙版
 xiaomi-wear,M2424W1,cn,小米, Xiaomi Watch S4 eSIM 版
 xiaomi-wear,M2426W1,cn,小米, Xiaomi Watch S4 eSIM 15 周年纪念版
 xiaomi-wear,M2312W1,cn,小米, Xiaomi Watch S4 Sport eSIM 版
+xiaomi-wear,M2502W1,cn,小米, Xiaomi Watch S4 41mm
 xiaomi-wear,M2230W1,cn,小米, 小米腕部心电血压记录仪 (Xiaomi Watch H1)
 xiaomi-wear,M2412W1,cn,小米, 小米腕部血压记录仪 (Xiaomi Watch H1 E)
+xiaomi-wear,M2442G1,cn,小米, Xiaomi AI Glasses
 xiaomi-wear,HMSH01GE,cn,小米, Redmi 手环
 xiaomi-wear,M2101B1,cn,小米, Redmi Smart Band Pro 国际版
 xiaomi-wear,M2225B1,cn,小米, Redmi 手环 2
@@ -7890,6 +7901,7 @@ xiaomi-wear,M2419E1,cn,小米, 小米 Air4 SE
 xiaomi-wear,M2341E1,cn,小米, Xiaomi Buds 5
 xiaomi-wear,M2437E1,cn,小米, Xiaomi Buds 5 Pro 蓝牙版
 xiaomi-wear,M2438E1,cn,小米, Xiaomi Buds 5 Pro Wi-Fi 版
+xiaomi-wear,M2503E1,cn,小米, Xiaomi 开放式耳机 Pro
 xiaomi-wear,TWSEJ01ZM,cn,小米, Redmi AirDots 3 Pro
 xiaomi-wear,M2104E1,cn,小米, Redmi Buds 3
 xiaomi-wear,M2110E1,cn,小米, Redmi Buds 3 青春版
@@ -9500,6 +9512,7 @@ zhixuan,TYH622M,cn,华为智选, 麦芒 11 5G
 zhixuan,TYH631M,cn,华为智选, 麦芒 20 5G
 zhixuan,TYH632M,cn,华为智选, 麦芒 A20 5G
 zhixuan,TYH641M,cn,华为智选, 麦芒 30 5G
+zhixuan,TYH651M-02,cn,华为智选, 麦芒 40 5G
 zhixuan,SP100,cn,华为智选, NZONE S7 5G
 zhixuan,SP200,cn,华为智选, NZONE S7 Pro 5G
 zhixuan,SP300,cn,华为智选, NZONE S7 Pro+ 5G
