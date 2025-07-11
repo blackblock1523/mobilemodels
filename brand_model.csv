@@ -2275,6 +2275,7 @@ huawei,HBN-AL00,cn,华为, HUAWEI Pura 70 Pro
 huawei,HBN-AL10,cn,华为, HUAWEI Pura 70 Pro+
 huawei,HBN-AL80,cn,华为, HUAWEI Pura 70 Pro+
 huawei,HBP-AL00,cn,华为, HUAWEI Pura 70 Ultra
+huawei,HED-AL00,cn,华为, HUAWEI Pura 80
 huawei,LMR-AL00,cn,华为, HUAWEI Pura 80 Pro
 huawei,LMR-AL10,cn,华为, HUAWEI Pura 80 Pro+
 huawei,LMR-AL10,cn,华为, HUAWEI Pura 80 Ultra
@@ -3229,6 +3230,9 @@ huawei,MNA-LX9,en,华为, HUAWEI P60 Pro
 huawei,ADY-LX9,en,华为, HUAWEI Pura 70
 huawei,HBN-LX9,en,华为, HUAWEI Pura 70 Pro
 huawei,HBP-LX9,en,华为, HUAWEI Pura 70 Ultra
+huawei,HED-LX9,en,华为, HUAWEI Pura 80
+huawei,LMR-LX9,en,华为, HUAWEI Pura 80 Pro
+huawei,LMU-LX9,en,华为, HUAWEI Pura 80 Ultra
 huawei,FIG-LA1,en,华为, HUAWEI P smart
 huawei,FIG-LX1,en,华为, HUAWEI P smart
 huawei,FIG-LX2,en,华为, HUAWEI P smart
@@ -3421,6 +3425,7 @@ huawei,BTK-AL09,en,华为, HUAWEI MatePad 11.5 LTE
 huawei,DBY-W09,en,华为, HUAWEI MatePad 11 Wi-Fi
 huawei,DBR-W09,en,华为, HUAWEI MatePad 11 2023 Wi-Fi
 huawei,DBR-W19,en,华为, HUAWEI MatePad 11 2023 PaperMatte Edition Wi-Fi
+huawei,BTKR-W09,en,华为, HUAWEI MatePad 11.5 2024 Wi-Fi
 huawei,TGR-W09,en,华为," HUAWEI MatePad 11.5"" S Wi-Fi"
 huawei,DBY2-W09,en,华为, HUAWEI MatePad Air Wi-Fi
 huawei,DBY2-L09,en,华为, HUAWEI MatePad Air LTE
@@ -9556,8 +9561,10 @@ zhixuan,SHR-AN00,cn,华为智选, Hi 畅享 80 Pro 5G
 zhixuan,BRO-W00,cn,华为智选, Hi MatePad
 zhixuan,MASH-16,cn,华为智选, Hi MateBook 14 (16GB 内存)
 zhixuan,MASH-32,cn,华为智选, Hi MateBook 14 (32GB 内存)
-zhixuan,LYOI-16,cn,华为智选, Hi MateBook D 14
-zhixuan,NICEI-16,cn,华为智选, Hi MateBook D 16
+zhixuan,LYOI-16,cn,华为智选, Hi MateBook D 14 (16GB 内存)
+zhixuan,LYOI-32,cn,华为智选, Hi MateBook D 14 (32GB 内存)
+zhixuan,NICEI-16,cn,华为智选, Hi MateBook D 16 (16GB 内存)
+zhixuan,NICEI-32,cn,华为智选, Hi MateBook D 16 (32GB 内存)
 zte,A2017,cn,中兴, 中兴天机 7
 zte,A2018,cn,中兴, 中兴天机 7S
 zte,C2017,cn,中兴, 中兴天机 7 MAX
