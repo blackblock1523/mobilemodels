@@ -6178,12 +6178,15 @@ samsung,SM-F9160,cn,三星, Galaxy Z Fold2 5G
 samsung,SM-F9360,cn,三星, Galaxy Z Fold4
 samsung,SM-F9460,cn,三星, Galaxy Z Fold5
 samsung,SM-F9560,cn,三星, Galaxy Z Fold6
+samsung,SM-F9660,cn,三星, Galaxy Z Fold7
 samsung,SM-F7000,cn,三星, Galaxy Z Flip
 samsung,SM-F7070,cn,三星, Galaxy Z Flip 5G
 samsung,SM-F7110,cn,三星, Galaxy Z Flip3 5G
 samsung,SM-F7210,cn,三星, Galaxy Z Flip4
 samsung,SM-F7310,cn,三星, Galaxy Z Flip5
 samsung,SM-F7410,cn,三星, Galaxy Z Flip6
+samsung,SM-F7660,cn,三星, Galaxy Z Flip7
+samsung,SM-F7610,cn,三星, Galaxy Z Flip7 FE
 samsung,SM-A3000,cn,三星, Galaxy A3 公开版
 samsung,SM-A3009,cn,三星, Galaxy A3 电信定制版
 samsung,SM-A5000,cn,三星, Galaxy A5 公开版
@@ -6376,6 +6379,11 @@ samsung,SM-L300,cn,三星, Galaxy Watch7 蓝牙版 40mm
 samsung,SM-L310,cn,三星, Galaxy Watch7 蓝牙版 44mm
 samsung,SM-L3150,cn,三星, Galaxy Watch7 LTE 44mm
 samsung,SM-L7050,cn,三星, Galaxy Watch Ultra LTE 47mm
+samsung,SM-L320,cn,三星, Galaxy Watch8 蓝牙版 40mm
+samsung,SM-L330,cn,三星, Galaxy Watch8 蓝牙版 44mm
+samsung,SM-L3350,cn,三星, Galaxy Watch8 LTE 44mm
+samsung,SM-L500,cn,三星, Galaxy Watch8 Classic 蓝牙版 46mm
+samsung,SM-L5050,cn,三星, Galaxy Watch8 Classic LTE 46mm
 samsung,SM-G970F,en,三星, Galaxy S10e Global
 samsung,SM-G970N,en,三星, Galaxy S10e South Korea
 samsung,SM-G970U,en,三星, Galaxy S10e US Carrier
@@ -6686,6 +6694,14 @@ samsung,SM-F956Q,en,三星, Galaxy Z Fold6 Japan (SIM Free)
 samsung,SCG28,en,三星, Galaxy Z Fold6 Japan (au)
 samsung,SC-55E,en,三星, Galaxy Z Fold6 Japan (NTT Docomo)
 samsung,SM-F958N,en,三星, Galaxy Z Fold Special Edition South Korea
+samsung,SM-F966B,en,三星, Galaxy Z Fold7 Global
+samsung,SM-F966U,en,三星, Galaxy Z Fold7 US Carrier
+samsung,SM-F966U1,en,三星, Galaxy Z Fold7 US Unlocked
+samsung,SM-F966W,en,三星, Galaxy Z Fold7 Canada
+samsung,SM-F9660,en,三星, Galaxy Z Fold7 China
+samsung,SM-F966N,en,三星, Galaxy Z Fold7 South Korea
+samsung,SM-F966Q,en,三星, Galaxy Z Fold7 Japan (SIM Free)
+samsung,SM-F966Z,en,三星, Galaxy Z Fold7 Japan (SoftBank)
 samsung,SM-F700F,en,三星, Galaxy Z Flip Global
 samsung,SM-F700U,en,三星, Galaxy Z Flip US Carrier
 samsung,SM-F700U1,en,三星, Galaxy Z Flip US Unlocked
@@ -6735,6 +6751,19 @@ samsung,SM-F741N,en,三星, Galaxy Z Flip6 South Korea
 samsung,SM-F741Q,en,三星, Galaxy Z Flip6 Japan (SIM Free)
 samsung,SCG29,en,三星, Galaxy Z Flip6 Japan (au)
 samsung,SC-54E,en,三星, Galaxy Z Flip6 Japan (NTT Docomo)
+samsung,SM-F766B,en,三星, Galaxy Z Flip7 Global
+samsung,SM-F766U,en,三星, Galaxy Z Flip7 US Carrier
+samsung,SM-F766U1,en,三星, Galaxy Z Flip7 US Unlocked
+samsung,SM-F766W,en,三星, Galaxy Z Flip7 Canada
+samsung,SM-F7660,en,三星, Galaxy Z Flip7 China
+samsung,SM-F766N,en,三星, Galaxy Z Flip7 South Korea
+samsung,SM-F766Q,en,三星, Galaxy Z Flip7 Japan (SIM Free)
+samsung,SM-F766Z,en,三星, Galaxy Z Flip7 Japan (SoftBank)
+samsung,SM-F761B,en,三星, Galaxy Z Flip7 FE Global
+samsung,SM-F761U,en,三星, Galaxy Z Flip7 FE US Carrier
+samsung,SM-F761U1,en,三星, Galaxy Z Flip7 FE US Unlocked
+samsung,SM-F7610,en,三星, Galaxy Z Flip7 FE China
+samsung,SM-F761N,en,三星, Galaxy Z Flip7 FE South Korea
 samsung,SM-A015F,en,三星, Galaxy A01 Global
 samsung,SM-A015U,en,三星, Galaxy A01 US Carrier
 samsung,SM-A015U1,en,三星, Galaxy A01 US Unlocked
