@@ -7705,6 +7705,7 @@ vivo,V2426,en,VIVO, vivo T3 Ultra 5G
 vivo,V2502,en,VIVO, vivo T4 5G
 vivo,V2437,en,VIVO, vivo T4x 5G
 vivo,V2509,en,VIVO, vivo T4 Lite 5G
+vivo,V2518,en,VIVO, vivo T4R 5G
 vivo,V2504,en,VIVO, vivo T4 Ultra
 vivo,V2044,en,VIVO, vivo Y3s
 vivo,V2118,en,VIVO, vivo Y01
@@ -7860,6 +7861,7 @@ vivo,I2305,en,VIVO, iQOO Z9s Pro 5G
 vivo,I2407,en,VIVO, iQOO Z10 5G
 vivo,I2404,en,VIVO, iQOO Z10x 5G
 vivo,I2409,en,VIVO, iQOO Z10 Lite 5G
+vivo,I2410,en,VIVO, iQOO Z10R 5G
 xiaomi-wear,XMSH01HM,cn,小米, 小米手环
 xiaomi-wear,XMSH02HM,cn,小米, 小米手环 光感版
 xiaomi-wear,XMSH03HM,cn,小米, 小米手环 光感版
@@ -7928,7 +7930,6 @@ xiaomi-wear,M2109W1,cn,小米, Redmi Watch 2 Lite 国际版
 xiaomi-wear,M2215W1,cn,小米, Redmi Watch 3 国行版
 xiaomi-wear,M2216W1,cn,小米, Redmi Watch 3 国际版
 xiaomi-wear,M2309W1,cn,小米, Redmi Watch 3 青春版
-xiaomi-wear,M2247W1,cn,小米, Redmi Watch 3 Lite 国际版
 xiaomi-wear,M2235W1,cn,小米, Redmi Watch 3 Active 国际版
 xiaomi-wear,M2314W1,cn,小米, Redmi Watch 4 国行版
 xiaomi-wear,M2315W1,cn,小米, Redmi Watch 4 国际版
@@ -7957,7 +7958,7 @@ xiaomi-wear,M2133E1,cn,小米, Redmi Buds 3 Lite 国际版
 xiaomi-wear,M2137E1,cn,小米, Redmi Buds 4
 xiaomi-wear,M2132E1,cn,小米, Redmi Buds 4 Pro
 xiaomi-wear,M2310E1,cn,小米, Redmi Buds 4 活力版
-xiaomi-wear,M2232E1,cn,小米, Redmi Buds 4 Active 国际版
+xiaomi-wear,M2232E1,cn,小米, Redmi Buds 4 Active 国际版 / Redmi Buds 5A 印度版
 xiaomi-wear,M2231E1,cn,小米, Redmi Buds 4 青春版
 xiaomi-wear,M2236E1,cn,小米, Redmi Buds 4 Lite 国际版
 xiaomi-wear,M2222E1,cn,小米, Redmi Buds Essential 国际版
@@ -7968,8 +7969,8 @@ xiaomi-wear,M2429E1,cn,小米, Redmi Buds 6
 xiaomi-wear,M2403E1,cn,小米, Redmi Buds 6S
 xiaomi-wear,M2430E1,cn,小米, REDMI Buds 6 Pro
 xiaomi-wear,M2431E1,cn,小米, REDMI Buds 6 Pro 电竞版
-xiaomi-wear,M2344E1,cn,小米, Redmi Buds 6 活力版
-xiaomi-wear,M2349E1,cn,小米, Redmi Buds 6 青春版
+xiaomi-wear,M2344E1,cn,小米, Redmi Buds 6 活力版 / Redmi Buds 6 Active 国际版
+xiaomi-wear,M2349E1,cn,小米, Redmi Buds 6 青春版 / Redmi Buds 6 Lite 国际版 / Redmi Buds 5C 印度版
 xiaomi-wear,M2420E1,cn,小米, Redmi Buds 6 Play 国际版
 xiaomi-wear,M2411E1,cn,小米, REDMI Buds SE
 xiaomi-wear,M2455E1,cn,小米, REDMI Buds 7S
