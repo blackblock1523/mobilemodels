@@ -1539,6 +1539,7 @@ honor,LLY-AN00,cn,荣耀, 荣耀 Play8T Pro 5G
 honor,ALT-AN00,cn,荣耀, 荣耀 Play9T 5G
 honor,LYN-AN00,cn,荣耀, 荣耀 Play9T Pro 5G
 honor,JDY-AN00,cn,荣耀, 荣耀 Play9C 5G
+honor,NIC-AN00,cn,荣耀, 荣耀 Play10C 5G
 honor,DVD-AN00,cn,荣耀, 荣耀 Power
 honor,DVD-AN80,cn,荣耀, 荣耀 Power 卫星版
 honor,EDI-AL10,cn,荣耀, 荣耀 Note8 全网通版
@@ -6040,6 +6041,8 @@ realme,RMX3944,en,真我, realme P3x 5G
 realme,RMX5032,en,真我, realme P3 Pro 5G
 realme,RMX5030,en,真我, realme P3 Ultra 5G
 realme,RMX5031,en,真我, realme P3 Ultra 5G
+realme,RMX5110,en,真我, realme P4 5G
+realme,RMX5116,en,真我, realme P4 Pro 5G
 realme,RMX2002,en,真我, realme Narzo Indonesia
 realme,RMX2040,en,真我, realme Narzo 10 India
 realme,RMX2020,en,真我, realme Narzo 10A India
@@ -8405,6 +8408,9 @@ xiaomi,2411DRN47G,cn,小米, Redmi 14C 5G 国际版
 xiaomi,2411DRN47R,cn,小米, Redmi 14C 5G 日本版
 xiaomi,2411DRN47C,cn,小米, Redmi 14R 5G 国行版
 xiaomi,2411DRN47I,cn,小米, Redmi 14C 5G 印度版
+xiaomi,25057RN09G,cn,小米, Redmi 15 5G 国际版
+xiaomi,25057RN09E,cn,小米, Redmi 15 5G 欧洲版
+xiaomi,25057RN09I,cn,小米, Redmi 15 5G 印度版
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
 xiaomi,2013121,cn,小米, 红米 Note 联通 3G 增强版
 xiaomi,2014017,cn,小米, 红米 Note 移动 3G 标准版
@@ -8576,7 +8582,7 @@ xiaomi,24117RN76E,cn,小米, Redmi Note 14 欧洲版
 xiaomi,24117RN76L,cn,小米, Redmi Note 14 拉美版
 xiaomi,24117RN76O,cn,小米, Redmi Note 14 国际版 (NFC)
 xiaomi,24094RAD4C,cn,小米, Redmi Note 14 5G 国行版
-xiaomi,24094RAD4I,cn,小米, Redmi Note 14 5G 印度版
+xiaomi,24094RAD4I,cn,小米, Redmi Note 14 5G 印度版 / Redmi Note 14 SE 5G 印度版
 xiaomi,24094RAD4G,cn,小米, Redmi Note 14 5G 国际版
 xiaomi,2502FRA65G,cn,小米, Redmi Note 14S 国际版
 xiaomi,24116RACCG,cn,小米, Redmi Note 14 Pro 国际版
@@ -8761,6 +8767,7 @@ xiaomi,24066PC95I,cn,小米, POCO M6 Plus 5G 印度版
 xiaomi,2312FPCA6G,cn,小米, POCO M6 Pro 国际版
 xiaomi,23076PC4BI,cn,小米, POCO M6 Pro 5G 印度版
 xiaomi,24108PCE2I,cn,小米, POCO M7 5G 印度版
+xiaomi,25057PC09I,cn,小米, POCO M7 Plus 5G 印度版
 xiaomi,2409FPCC4G,cn,小米, POCO M7 Pro 5G 国际版
 xiaomi,M2006C3MI,cn,小米, POCO C3 印度版
 xiaomi,211033MI,cn,小米, POCO C31 印度版
@@ -9167,6 +9174,9 @@ xiaomi,2411DRN47G,en,小米, Redmi 14C 5G Global
 xiaomi,2411DRN47R,en,小米, Redmi 14C 5G Japan
 xiaomi,2411DRN47C,en,小米, Redmi 14R 5G China
 xiaomi,2411DRN47I,en,小米, Redmi 14C 5G India
+xiaomi,25057RN09G,en,小米, Redmi 15 5G Global
+xiaomi,25057RN09E,en,小米, Redmi 15 5G Europe
+xiaomi,25057RN09I,en,小米, Redmi 15 5G India
 xiaomi,2014018,en,小米, Redmi Note WCDMA (1GB RAM)
 xiaomi,2013121,en,小米, Redmi Note WCDMA (2GB RAM)
 xiaomi,2014017,en,小米, Redmi Note TD-SCDMA (1GB RAM)
@@ -9338,7 +9348,7 @@ xiaomi,24117RN76E,en,小米, Redmi Note 14 Europe
 xiaomi,24117RN76L,en,小米, Redmi Note 14 Latin America
 xiaomi,24117RN76O,en,小米, Redmi Note 14 Global (NFC)
 xiaomi,24094RAD4G,en,小米, Redmi Note 14 5G Global
-xiaomi,24094RAD4I,en,小米, Redmi Note 14 5G India
+xiaomi,24094RAD4I,en,小米, Redmi Note 14 5G India / Redmi Note 14 SE 5G India
 xiaomi,24094RAD4C,en,小米, Redmi Note 14 5G China
 xiaomi,2502FRA65G,en,小米, Redmi Note 14S Global
 xiaomi,24116RACCG,en,小米, Redmi Note 14 Pro Global
@@ -9496,6 +9506,7 @@ xiaomi,24066PC95I,en,小米, POCO M6 Plus 5G India
 xiaomi,2312FPCA6G,en,小米, POCO M6 Pro Global
 xiaomi,23076PC4BI,en,小米, POCO M6 Pro 5G India
 xiaomi,24108PCE2I,en,小米, POCO M7 5G India
+xiaomi,25057PC09I,en,小米, POCO M7 Plus 5G India
 xiaomi,2409FPCC4G,en,小米, POCO M7 Pro 5G Global
 xiaomi,M2006C3MI,en,小米, POCO C3 India
 xiaomi,211033MI,en,小米, POCO C31 India
