@@ -6726,6 +6726,8 @@ samsung,SM-F9660,en,三星, Galaxy Z Fold7 China
 samsung,SM-F966N,en,三星, Galaxy Z Fold7 South Korea
 samsung,SM-F966Q,en,三星, Galaxy Z Fold7 Japan (SIM Free)
 samsung,SM-F966Z,en,三星, Galaxy Z Fold7 Japan (SoftBank)
+samsung,SCG34,en,三星, Galaxy Z Fold7 Japan (au)
+samsung,SC-56F,en,三星, Galaxy Z Fold7 Japan (NTT Docomo)
 samsung,SM-F700F,en,三星, Galaxy Z Flip Global
 samsung,SM-F700U,en,三星, Galaxy Z Flip US Carrier
 samsung,SM-F700U1,en,三星, Galaxy Z Flip US Unlocked
@@ -6783,6 +6785,8 @@ samsung,SM-F7660,en,三星, Galaxy Z Flip7 China
 samsung,SM-F766N,en,三星, Galaxy Z Flip7 South Korea
 samsung,SM-F766Q,en,三星, Galaxy Z Flip7 Japan (SIM Free)
 samsung,SM-F766Z,en,三星, Galaxy Z Flip7 Japan (SoftBank)
+samsung,SCG35,en,三星, Galaxy Z Flip7 Japan (au)
+samsung,SC-55F,en,三星, Galaxy Z Flip7 Japan (NTT Docomo)
 samsung,SM-F761B,en,三星, Galaxy Z Flip7 FE Global
 samsung,SM-F761U,en,三星, Galaxy Z Flip7 FE US Carrier
 samsung,SM-F761U1,en,三星, Galaxy Z Flip7 FE US Unlocked
@@ -6841,6 +6845,8 @@ samsung,SM-A065M,en,三星, Galaxy A06 Latin America
 samsung,SM-A066E,en,三星, Galaxy A06 5G Global
 samsung,SM-A066B,en,三星, Galaxy A06 5G Global
 samsung,SM-A066M,en,三星, Galaxy A06 5G Latin America
+samsung,SM-A075F,en,三星, Galaxy A07 Global
+samsung,SM-A075M,en,三星, Galaxy A07 Latin America
 samsung,SM-A105F,en,三星, Galaxy A10 Global
 samsung,SM-A015FN,en,三星, Galaxy A10 Global
 samsung,SM-A015G,en,三星, Galaxy A10 Global
@@ -6919,6 +6925,8 @@ samsung,SM-A166W,en,三星, Galaxy A16 5G Canada
 samsung,SM-A166M,en,三星, Galaxy A16 5G Latin America
 samsung,SM-A1660,en,三星, Galaxy A16 5G HK & TW
 samsung,SM-A166P,en,三星, Galaxy A16 5G Global (MediaTek)
+samsung,SM-A176B,en,三星, Galaxy A17 5G Global
+samsung,SM-A1760,en,三星, Galaxy A17 5G HK & TW
 samsung,SM-A260F,en,三星, Galaxy A2 Core Global
 samsung,SM-A260G,en,三星, Galaxy A2 Core India
 samsung,SM-A205F,en,三星, Galaxy A20 Global
@@ -7160,6 +7168,7 @@ samsung,SM-M025F,en,三星, Galaxy M02s
 samsung,SM-M045F,en,三星, Galaxy M04
 samsung,SM-M055F,en,三星, Galaxy M05
 samsung,SM-M066B,en,三星, Galaxy M06 5G
+samsung,SM-M075F,en,三星, Galaxy M07
 samsung,SM-M105G,en,三星, Galaxy M10 Global
 samsung,SM-M105F,en,三星, Galaxy M10 India
 samsung,SM-M105M,en,三星, Galaxy M10 Latin America
@@ -7178,6 +7187,7 @@ samsung,SM-M145F,en,三星, Galaxy M14
 samsung,SM-M146B,en,三星, Galaxy M14 5G
 samsung,SM-M156B,en,三星, Galaxy M15 5G
 samsung,SM-M166P,en,三星, Galaxy M16 5G
+samsung,SM-M176B,en,三星, Galaxy M17 5G
 samsung,SM-M205N,en,三星, Galaxy M20 South Korea
 samsung,SM-M205F,en,三星, Galaxy M20 Global
 samsung,SM-M205FN,en,三星, Galaxy M20 EU
@@ -7222,12 +7232,14 @@ samsung,SM-E025F,en,三星, Galaxy F02s
 samsung,SM-E045F,en,三星, Galaxy F04
 samsung,SM-E055F,en,三星, Galaxy F05
 samsung,SM-E066B,en,三星, Galaxy F06 5G
+samsung,SM-E075F,en,三星, Galaxy F07
 samsung,SM-F127G,en,三星, Galaxy F12
 samsung,SM-E135F,en,三星, Galaxy F13
 samsung,SM-E145F,en,三星, Galaxy F14
 samsung,SM-E146B,en,三星, Galaxy F14 5G
 samsung,SM-E156B,en,三星, Galaxy F15 5G
 samsung,SM-E166P,en,三星, Galaxy F16 5G
+samsung,SM-E176B,en,三星, Galaxy F17 5G
 samsung,SM-E225F,en,三星, Galaxy F22
 samsung,SM-E236B,en,三星, Galaxy F23 5G
 samsung,SM-E346B,en,三星, Galaxy F34 5G
