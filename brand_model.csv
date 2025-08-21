@@ -1332,6 +1332,7 @@ honor,PTP-AN10,cn,荣耀, 荣耀 Magic7 Pro
 honor,PTP-AN70,cn,荣耀, 荣耀 Magic7 Pro 卫星通信版
 honor,PTP-AN20,cn,荣耀, 荣耀 Magic7 RSR 保时捷设计
 honor,MBH-AN10,cn,荣耀, 荣耀 Magic V5
+honor,CLE-AN00,cn,荣耀, 荣耀 Magic V Flip2
 honor,H60-L01,cn,荣耀, 荣耀 6 移动版
 honor,H60-L02,cn,荣耀, 荣耀 6 联通版
 honor,H60-L03,cn,荣耀, 荣耀 6 移动定制版
@@ -8616,6 +8617,18 @@ xiaomi,24090RA29I,cn,小米, Redmi Note 14 Pro 5G 印度版
 xiaomi,24115RA8EC,cn,小米, Redmi Note 14 Pro+ 国行版
 xiaomi,24115RA8EG,cn,小米, Redmi Note 14 Pro+ 5G 国际版
 xiaomi,24115RA8EI,cn,小米, Redmi Note 14 Pro+ 5G 印度版
+xiaomi,25098RA98C,cn,小米, REDMI Note 15 国行版
+xiaomi,25098RA98G,cn,小米, Redmi Note 15 5G 国际版
+xiaomi,25098RA98E,cn,小米, Redmi Note 15 5G 欧洲版
+xiaomi,25098RA98I,cn,小米, Redmi Note 15 5G 印度版
+xiaomi,25080RABDC,cn,小米, REDMI Note 15 Pro 国行版
+xiaomi,25080RABDG,cn,小米, Redmi Note 15 Pro 5G 国际版
+xiaomi,25080RABDI,cn,小米, Redmi Note 15 Pro 5G 印度版
+xiaomi,25080RABDR,cn,小米, Redmi Note 15 Pro 5G 日本版
+xiaomi,2510ERA8BC,cn,小米, REDMI Note 15 Pro+ 国行版
+xiaomi,2510ERA8BG,cn,小米, Redmi Note 15 Pro+ 5G 国际版
+xiaomi,2510ERA8BI,cn,小米, Redmi Note 15 Pro+ 5G 印度版
+xiaomi,25104RADAC,cn,小米, REDMI Note 15 Pro+ 卫星消息版
 xiaomi,M2004J7AC,cn,小米, Redmi 10X 5G
 xiaomi,M2004J7BC,cn,小米, Redmi 10X Pro 5G
 xiaomi,M2003J15SC,cn,小米, Redmi 10X 4G
@@ -8785,11 +8798,12 @@ xiaomi,22071219CG,cn,小米, POCO M5 国际版
 xiaomi,22071219CI,cn,小米, POCO M5 印度版
 xiaomi,2207117BPG,cn,小米, POCO M5s 国际版
 xiaomi,2404APC5FG,cn,小米, POCO M6 国际版
-xiaomi,2404APC5FI,cn,小米, POCO M6 印度版
 xiaomi,23128PC33I,cn,小米, POCO M6 5G 印度版
 xiaomi,24066PC95I,cn,小米, POCO M6 Plus 5G 印度版
 xiaomi,2312FPCA6G,cn,小米, POCO M6 Pro 国际版
 xiaomi,23076PC4BI,cn,小米, POCO M6 Pro 5G 印度版
+xiaomi,25062PC34G,cn,小米, POCO M7 国际版
+xiaomi,25062PC34E,cn,小米, POCO M7 欧洲版
 xiaomi,24108PCE2I,cn,小米, POCO M7 5G 印度版
 xiaomi,25057PC09I,cn,小米, POCO M7 Plus 5G 印度版
 xiaomi,2409FPCC4G,cn,小米, POCO M7 Pro 5G 国际版
@@ -9382,6 +9396,18 @@ xiaomi,24090RA29C,en,小米, Redmi Note 14 Pro 5G China
 xiaomi,24115RA8EG,en,小米, Redmi Note 14 Pro+ 5G Global
 xiaomi,24115RA8EI,en,小米, Redmi Note 14 Pro+ 5G India
 xiaomi,24115RA8EC,en,小米, Redmi Note 14 Pro+ 5G China
+xiaomi,25098RA98G,en,小米, Redmi Note 15 5G Global
+xiaomi,25098RA98E,en,小米, Redmi Note 15 5G Europe
+xiaomi,25098RA98I,en,小米, Redmi Note 15 5G India
+xiaomi,25098RA98C,en,小米, REDMI Note 15 5G China
+xiaomi,25080RABDG,en,小米, Redmi Note 15 Pro 5G Global
+xiaomi,25080RABDI,en,小米, Redmi Note 15 Pro 5G India
+xiaomi,25080RABDR,en,小米, Redmi Note 15 Pro 5G Japan
+xiaomi,25080RABDC,en,小米, REDMI Note 15 Pro 5G China
+xiaomi,2510ERA8BG,en,小米, Redmi Note 15 Pro+ 5G Global
+xiaomi,2510ERA8BI,en,小米, Redmi Note 15 Pro+ 5G India
+xiaomi,2510ERA8BC,en,小米, REDMI Note 15 Pro+ 5G China
+xiaomi,25104RADAC,en,小米, REDMI Note 15 Pro+ 5G Satellite China
 xiaomi,M2004J7AC,en,小米, Redmi 10X 5G China
 xiaomi,M2004J7BC,en,小米, Redmi 10X Pro 5G China
 xiaomi,M2003J15SC,en,小米, Redmi 10X 4G China
@@ -9524,11 +9550,12 @@ xiaomi,22071219CG,en,小米, POCO M5 Global
 xiaomi,22071219CI,en,小米, POCO M5 India
 xiaomi,2207117BPG,en,小米, POCO M5s Global
 xiaomi,2404APC5FG,en,小米, POCO M6 Global
-xiaomi,2404APC5FI,en,小米, POCO M6 India
 xiaomi,23128PC33I,en,小米, POCO M6 5G India
 xiaomi,24066PC95I,en,小米, POCO M6 Plus 5G India
 xiaomi,2312FPCA6G,en,小米, POCO M6 Pro Global
 xiaomi,23076PC4BI,en,小米, POCO M6 Pro 5G India
+xiaomi,25062PC34G,en,小米, POCO M7 Global
+xiaomi,25062PC34E,en,小米, POCO M7 Europe
 xiaomi,24108PCE2I,en,小米, POCO M7 5G India
 xiaomi,25057PC09I,en,小米, POCO M7 Plus 5G India
 xiaomi,2409FPCC4G,en,小米, POCO M7 Pro 5G Global
