@@ -8442,6 +8442,10 @@ xiaomi,25062RN2DL,cn,小米, Redmi 15 拉美版
 xiaomi,25057RN09G,cn,小米, Redmi 15 5G 国际版
 xiaomi,25057RN09E,cn,小米, Redmi 15 5G 欧洲版
 xiaomi,25057RN09I,cn,小米, Redmi 15 5G 印度版
+xiaomi,25078RA3EA,cn,小米, Redmi 15C 国际版
+xiaomi,25078RA3EY,cn,小米, Redmi 15C 国际版 (NFC)
+xiaomi,25078RA3EE,cn,小米, Redmi 15C 欧洲版
+xiaomi,25078RA3EL,cn,小米, Redmi 15C 拉美版
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
 xiaomi,2013121,cn,小米, 红米 Note 联通 3G 增强版
 xiaomi,2014017,cn,小米, 红米 Note 移动 3G 标准版
@@ -8837,6 +8841,8 @@ xiaomi,25028PC03L,cn,小米, POCO C71 拉美版
 xiaomi,2410FPCC5G,cn,小米, POCO C75 国际版
 xiaomi,2410FPCC5I,cn,小米, POCO C75 印度版
 xiaomi,24116PCC1I,cn,小米, POCO C75 5G 印度版
+xiaomi,25078PC3EG,cn,小米, POCO C85 国际版
+xiaomi,25078PC3EE,cn,小米, POCO C85 欧洲版
 xiaomi,2405CPCFBG,cn,小米, POCO Pad Wi-Fi 国际版
 xiaomi,24074PCD2I,cn,小米, POCO Pad 5G 印度版
 xiaomi,FYJ01QP,cn,小米, 小米米家翻译机
@@ -9226,6 +9232,10 @@ xiaomi,25062RN2DL,en,小米, Redmi 15 Latin America
 xiaomi,25057RN09G,en,小米, Redmi 15 5G Global
 xiaomi,25057RN09E,en,小米, Redmi 15 5G Europe
 xiaomi,25057RN09I,en,小米, Redmi 15 5G India
+xiaomi,25078RA3EA,en,小米, Redmi 15C Global
+xiaomi,25078RA3EY,en,小米, Redmi 15C Global (NFC)
+xiaomi,25078RA3EE,en,小米, Redmi 15C Europe
+xiaomi,25078RA3EL,en,小米, Redmi 15C Latin America
 xiaomi,2014018,en,小米, Redmi Note WCDMA (1GB RAM)
 xiaomi,2013121,en,小米, Redmi Note WCDMA (2GB RAM)
 xiaomi,2014017,en,小米, Redmi Note TD-SCDMA (1GB RAM)
@@ -9594,6 +9604,8 @@ xiaomi,25028PC03L,en,小米, POCO C71 Latin America
 xiaomi,2410FPCC5G,en,小米, POCO C75 Global
 xiaomi,2410FPCC5I,en,小米, POCO C75 India
 xiaomi,24116PCC1I,en,小米, POCO C75 5G India
+xiaomi,25078PC3EG,en,小米, POCO C85 Global
+xiaomi,25078PC3EE,en,小米, POCO C85 Europe
 xiaomi,A0101,en,小米, Mi Pad
 xiaomi,2015716,en,小米, Mi Pad 2
 xiaomi,MCE91,en,小米, Mi Pad 3
