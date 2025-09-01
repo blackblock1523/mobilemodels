@@ -1625,7 +1625,7 @@ honor,JDY-AN00,cn,荣耀, 荣耀畅玩 50 5G / 荣耀畅玩 50m 5G
 honor,CLK-AN00,cn,荣耀, 荣耀畅玩 50 Plus 5G
 honor,NIC-AN00,cn,荣耀, 荣耀畅玩 60 5G / 荣耀畅玩 60m 5G
 honor,ALT-AN00,cn,荣耀, 荣耀畅玩 60 Plus 5G
-honor,LOG-AN00,cn,荣耀, 荣耀畅玩 70 Plus 5G
+honor,LOG-AN00,cn,荣耀, 荣耀畅玩 70 Plus 5G / 荣耀畅玩 70m Plus 5G
 honor,S8-701w,cn,荣耀, 荣耀平板 Wi-Fi 版
 honor,S8-701u,cn,荣耀, 荣耀平板 3G 版
 honor,T1-821w,cn,荣耀, 荣耀平板优享版
@@ -2091,6 +2091,10 @@ honor,ALT-LX1,en,荣耀, HONOR X7c
 honor,ALT-LX2,en,荣耀, HONOR X7c
 honor,ALT-LX3,en,荣耀, HONOR X7c
 honor,ALT-NX1,en,荣耀, HONOR X7c 5G
+honor,LGN-LX1,en,荣耀, HONOR X7d
+honor,LGN-LX2,en,荣耀, HONOR X7d
+honor,LGN-LX3,en,荣耀, HONOR X7d
+honor,LGN-NX1,en,荣耀, HONOR X7d 5G
 honor,TFY-LX1,en,荣耀, HONOR X8
 honor,TFY-LX2,en,荣耀, HONOR X8
 honor,TFY-LX3,en,荣耀, HONOR X8
@@ -7522,12 +7526,13 @@ vivo,V2354A,cn,VIVO, vivo Y100+ 5G / vivo Y200i 5G / vivo Y200+ 5G
 vivo,V2343A,cn,VIVO, vivo Y200 5G
 vivo,V2361GA,cn,VIVO, vivo Y200 GT 5G / vivo Y200 Pro 企业定制版
 vivo,V2353DA,cn,VIVO, vivo Y200t 5G
-vivo,V2435A,cn,VIVO, vivo Y300 5G / vivo Y300c 5G
-vivo,V2410A,cn,VIVO, vivo Y300 Pro 5G
-vivo,V2456A,cn,VIVO, vivo Y300 Pro+ 5G
+vivo,V2435A,cn,VIVO, vivo Y300 5G / vivo Y300c
 vivo,V2444A,cn,VIVO, vivo Y300i 5G
-vivo,V2445EA,cn,VIVO, vivo Y300t 5G / vivo Y300+ 5G
-vivo,V2452GA,cn,VIVO, vivo Y300 GT 5G
+vivo,V2410A,cn,VIVO, vivo Y300 Pro
+vivo,V2456A,cn,VIVO, vivo Y300 Pro+
+vivo,V2445EA,cn,VIVO, vivo Y300t / vivo Y300+
+vivo,V2452GA,cn,VIVO, vivo Y300 GT
+vivo,V2506A,cn,VIVO, vivo Y500
 vivo,V2115A,cn,VIVO, vivo T1
 vivo,V2123A,cn,VIVO, vivo T1x
 vivo,V2199GA,cn,VIVO, vivo T2
@@ -7744,6 +7749,7 @@ vivo,V2453,en,VIVO, vivo V50 Lite 5G
 vivo,V2440,en,VIVO, Jovi V50 Lite
 vivo,V2511,en,VIVO, vivo V60
 vivo,V2512,en,VIVO, vivo V60
+vivo,V2529,en,VIVO, vivo V60 Lite 5G
 vivo,V1937,en,VIVO, vivo S1 Prime
 vivo,V2153,en,VIVO, vivo T1
 vivo,V2168,en,VIVO, vivo T1
@@ -7777,9 +7783,8 @@ vivo,V2234,en,VIVO, vivo Y02A
 vivo,V2203,en,VIVO, vivo Y02s
 vivo,V2221,en,VIVO, vivo Y02s
 vivo,V2229,en,VIVO, vivo Y02s
-vivo,V2430,en,VIVO, vivo Y04
-vivo,V2438,en,VIVO, vivo Y04
 vivo,V2532,en,VIVO, vivo Y04e
+vivo,V2531,en,VIVO, vivo Y04s
 vivo,V2028,en,VIVO, vivo Y11s
 vivo,V2026,en,VIVO, vivo Y12A
 vivo,V2048,en,VIVO, vivo Y12D
@@ -7823,6 +7828,9 @@ vivo,V2110,en,VIVO, vivo Y21s
 vivo,V2136,en,VIVO, vivo Y21s
 vivo,V2131,en,VIVO, vivo Y21T
 vivo,V2135,en,VIVO, vivo Y21T
+vivo,V2520,en,VIVO, vivo Y21d
+vivo,V2524,en,VIVO, vivo Y21d
+vivo,V2535,en,VIVO, vivo Y21d
 vivo,V2207,en,VIVO, vivo Y22
 vivo,V2238,en,VIVO, vivo Y22
 vivo,V2206,en,VIVO, vivo Y22s
@@ -7845,6 +7853,8 @@ vivo,V2527,en,VIVO, vivo Y29t 5G
 vivo,V2160,en,VIVO, vivo Y30 5G
 vivo,V2036,en,VIVO, vivo Y31
 vivo,V2036_21,en,VIVO, vivo Y31
+vivo,V2521,en,VIVO, vivo Y31 5G
+vivo,V2534,en,VIVO, vivo Y31 Pro 5G
 vivo,V2057,en,VIVO, vivo Y33
 vivo,V2109-EG,en,VIVO, vivo Y33A
 vivo,V2109,en,VIVO, vivo Y33s
