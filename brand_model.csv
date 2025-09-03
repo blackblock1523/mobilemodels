@@ -3351,7 +3351,7 @@ huawei,EVE-LX3,en,华为, HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Pl
 huawei,MGA-LX9,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
 huawei,MGA-LX9N,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
 huawei,MGA-LX3,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
-huawei,MGA-LX3,en,华为, HUAWEI nova Y72
+huawei,MGA-LX3,en,华为, HUAWEI nova Y72 / HUAWEI nova Y73
 huawei,GFY-LX1,en,华为, HUAWEI nova Y72S
 huawei,CTR-LX1,en,华为, HUAWEI nova Y90
 huawei,CTR-LX2,en,华为, HUAWEI nova Y90
@@ -3458,8 +3458,9 @@ huawei,DBY-W09,en,华为, HUAWEI MatePad 11 Wi-Fi
 huawei,DBR-W09,en,华为, HUAWEI MatePad 11 2023 Wi-Fi
 huawei,DBR-W19,en,华为, HUAWEI MatePad 11 2023 PaperMatte Edition Wi-Fi
 huawei,BTKR-W09,en,华为, HUAWEI MatePad 11.5 2024 Wi-Fi
-huawei,TGR-W09,en,华为," HUAWEI MatePad 11.5"" S Wi-Fi"
-huawei,SLG-W09,en,华为, HUAWEI MatePad 11.5 2025 Wi-Fi
+huawei,TGR-W09,en,华为, HUAWEI MatePad 11.5 S Wi-Fi
+huawei,TXZ-W09,en,华为, HUAWEI MatePad 11.5 2025 Wi-Fi
+huawei,SLG-W09,en,华为, HUAWEI MatePad 11.5 S 2025 Wi-Fi
 huawei,DBY2-W09,en,华为, HUAWEI MatePad Air Wi-Fi
 huawei,DBY2-L09,en,华为, HUAWEI MatePad Air LTE
 huawei,BKY-W09,en,华为, HUAWEI MatePad 12 X Wi-Fi
@@ -5575,10 +5576,10 @@ oppo,CPH2637,en,OPPO, OPPO Reno12 F 5G / OPPO Reno12 FS 5G
 oppo,CPH2689,en,OPPO, OPPO Reno13 5G
 oppo,CPH2697,en,OPPO, OPPO Reno13 Pro 5G
 oppo,CPH2701,en,OPPO, OPPO Reno13 F
-oppo,CPH2699,en,OPPO, OPPO Reno13 F 5G / OPPO Reno13 A
+oppo,CPH2699,en,OPPO, OPPO Reno13 F 5G / OPPO Reno13 FS 5G / OPPO Reno13 A
 oppo,CPH2737,en,OPPO, OPPO Reno14
 oppo,CPH2739,en,OPPO, OPPO Reno14 Pro
-oppo,CPH2743,en,OPPO, OPPO Reno14 F 5G
+oppo,CPH2743,en,OPPO, OPPO Reno14 F 5G / OPPO Reno14 FS 5G
 oppo,CPH1819,en,OPPO, OPPO F7
 oppo,CPH1821,en,OPPO, OPPO F7
 oppo,CPH1859,en,OPPO, OPPO F7 Youth
