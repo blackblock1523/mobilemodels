@@ -225,6 +225,22 @@ apple,A3212,cn,苹果, iPhone 16e (美国)
 apple,A3408,cn,苹果," iPhone 16e (加拿大, 墨西哥, 部分中东国家)"
 apple,A3410,cn,苹果, iPhone 16e (中国大陆)
 apple,A3409,cn,苹果, iPhone 16e (其他国家和地区)
+apple,A3258,cn,苹果, iPhone 17 (美国)
+apple,A3519,cn,苹果," iPhone 17 (加拿大, 日本, 墨西哥, 部分中东国家)"
+apple,A3521,cn,苹果, iPhone 17 (中国大陆)
+apple,A3520,cn,苹果, iPhone 17 (其他国家和地区)
+apple,A3260,cn,苹果," iPhone Air (北美, 部分中东国家)"
+apple,A3518,cn,苹果, iPhone Air (中国大陆)
+apple,A3516,cn,苹果, iPhone Air (日本)
+apple,A3517,cn,苹果, iPhone Air (其他国家和地区)
+apple,A3256,cn,苹果, iPhone 17 Pro (美国)
+apple,A3522,cn,苹果," iPhone 17 Pro (加拿大, 日本, 墨西哥, 部分中东国家)"
+apple,A3524,cn,苹果, iPhone 17 Pro (中国大陆)
+apple,A3523,cn,苹果, iPhone 17 Pro (其他国家和地区)
+apple,A3257,cn,苹果, iPhone 17 Pro Max (美国)
+apple,A3525,cn,苹果," iPhone 17 Pro Max (加拿大, 日本, 墨西哥, 部分中东国家)"
+apple,A3527,cn,苹果, iPhone 17 Pro Max (中国大陆)
+apple,A3526,cn,苹果, iPhone 17 Pro Max (其他国家和地区)
 apple,A1219,cn,苹果, iPad (无线局域网)
 apple,A1337,cn,苹果, iPad (无线局域网 + 3G)
 apple,A1395,cn,苹果, iPad 2 (无线局域网)
@@ -386,12 +402,6 @@ apple,A2094,cn,苹果, Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表�
 apple,A2156,cn,苹果," Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)"
 apple,A2095,cn,苹果, Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
 apple,A2157,cn,苹果," Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)"
-apple,A2351,cn,苹果, Apple Watch SE (GPS) (40 毫米表壳)
-apple,A2352,cn,苹果, Apple Watch SE (GPS) (44 毫米表壳)
-apple,A2353,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (北美)
-apple,A2355,cn,苹果," Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)"
-apple,A2354,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (北美)
-apple,A2356,cn,苹果," Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)"
 apple,A2291,cn,苹果, Apple Watch Series 6 (GPS) (40 毫米表壳)
 apple,A2292,cn,苹果, Apple Watch Series 6 (GPS) (44 毫米表壳)
 apple,A2293,cn,苹果, Apple Watch Series 6 (GPS + 蜂窝网络) (40 毫米表壳) (北美)
@@ -404,14 +414,6 @@ apple,A2475,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表�
 apple,A2476,cn,苹果," Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表壳) (欧亚, 中国大陆)"
 apple,A2477,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) (北美)
 apple,A2478,cn,苹果," Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) (欧亚, 中国大陆)"
-apple,A2722,cn,苹果, Apple Watch SE (第二代) (GPS) (40 毫米表壳)
-apple,A2723,cn,苹果, Apple Watch SE (第二代) (GPS) (44 毫米表壳)
-apple,A2726,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳) (北美)
-apple,A2855,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳) (中国大陆 & 港澳)
-apple,A2725,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳) (其他国家和地区)
-apple,A2727,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳) (北美)
-apple,A2856,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳) (中国大陆 & 港澳)
-apple,A2724,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳) (其他国家和地区)
 apple,A2770,cn,苹果, Apple Watch Series 8 (GPS) (41 毫米表壳)
 apple,A2771,cn,苹果, Apple Watch Series 8 (GPS) (45 毫米表壳)
 apple,A2772,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (41 毫米表壳) (北美)
@@ -420,25 +422,57 @@ apple,A2773,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (41 毫米表�
 apple,A2774,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (45 毫米表壳) (北美)
 apple,A2858,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (45 毫米表壳) (中国大陆 & 港澳)
 apple,A2775,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (45 毫米表壳) (其他国家和地区)
-apple,A2622,cn,苹果, Apple Watch Ultra (北美)
-apple,A2859,cn,苹果, Apple Watch Ultra (中国大陆 & 港澳)
-apple,A2684,cn,苹果, Apple Watch Ultra (其他国家和地区)
 apple,A2978,cn,苹果, Apple Watch Series 9 (GPS) (41 毫米表壳)
 apple,A2980,cn,苹果, Apple Watch Series 9 (GPS) (45 毫米表壳)
 apple,A2982,cn,苹果, Apple Watch Series 9 (GPS + 蜂窝网络) (41 毫米表壳) (全球)
 apple,A2983,cn,苹果, Apple Watch Series 9 (GPS + 蜂窝网络) (41 毫米表壳) (中国大陆 & 港澳)
 apple,A2984,cn,苹果, Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表壳) (全球)
 apple,A2985,cn,苹果, Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表壳) (中国大陆 & 港澳)
-apple,A2986,cn,苹果, Apple Watch Ultra 2 (全球)
-apple,A2987,cn,苹果, Apple Watch Ultra 2 (中国大陆 & 港澳)
 apple,A2997,cn,苹果, Apple Watch Series 10 (GPS) (42 毫米表壳) (全球)
 apple,A2998,cn,苹果," Apple Watch Series 10 (GPS) (42 毫米表壳) (中国大陆, 印度尼西亚)"
 apple,A2999,cn,苹果, Apple Watch Series 10 (GPS) (46 毫米表壳) (全球)
 apple,A3000,cn,苹果," Apple Watch Series 10 (GPS) (46 毫米表壳) (中国大陆, 印度尼西亚)"
 apple,A3001,cn,苹果, Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (全球)
-apple,A3002,cn,苹果," Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆, 印度尼西亚)"
+apple,A3002,cn,苹果, Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆)
 apple,A3003,cn,苹果, Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (全球)
-apple,A3206,cn,苹果," Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆, 印度尼西亚)"
+apple,A3206,cn,苹果, Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆)
+apple,A3331,cn,苹果, Apple Watch Series 11 (GPS) (42 毫米表壳) (全球)
+apple,A3450,cn,苹果, Apple Watch Series 11 (GPS) (42 毫米表壳) (中国大陆)
+apple,A3333,cn,苹果, Apple Watch Series 11 (GPS) (46 毫米表壳) (全球)
+apple,A3451,cn,苹果, Apple Watch Series 11 (GPS) (46 毫米表壳) (中国大陆)
+apple,A3335,cn,苹果, Apple Watch Series 11 (GPS + 蜂窝网络) (42 毫米表壳) (全球)
+apple,A3452,cn,苹果, Apple Watch Series 11 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆)
+apple,A3337,cn,苹果, Apple Watch Series 11 (GPS + 蜂窝网络) (46 毫米表壳) (全球)
+apple,A3453,cn,苹果, Apple Watch Series 11 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆)
+apple,A2351,cn,苹果, Apple Watch SE (GPS) (40 毫米表壳)
+apple,A2352,cn,苹果, Apple Watch SE (GPS) (44 毫米表壳)
+apple,A2353,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (北美)
+apple,A2355,cn,苹果," Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)"
+apple,A2354,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (北美)
+apple,A2356,cn,苹果," Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)"
+apple,A2722,cn,苹果, Apple Watch SE 2 (GPS) (40 毫米表壳)
+apple,A2723,cn,苹果, Apple Watch SE 2 (GPS) (44 毫米表壳)
+apple,A2726,cn,苹果, Apple Watch SE 2 (GPS + 蜂窝网络) (40 毫米表壳) (北美)
+apple,A2855,cn,苹果, Apple Watch SE 2 (GPS + 蜂窝网络) (40 毫米表壳) (中国大陆 & 港澳)
+apple,A2725,cn,苹果, Apple Watch SE 2 (GPS + 蜂窝网络) (40 毫米表壳) (其他国家和地区)
+apple,A2727,cn,苹果, Apple Watch SE 2 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
+apple,A2856,cn,苹果, Apple Watch SE 2 (GPS + 蜂窝网络) (44 毫米表壳) (中国大陆 & 港澳)
+apple,A2724,cn,苹果, Apple Watch SE 2 (GPS + 蜂窝网络) (44 毫米表壳) (其他国家和地区)
+apple,A3324,cn,苹果, Apple Watch SE 3 (GPS) (40 毫米表壳) (全球)
+apple,A3391,cn,苹果, Apple Watch SE 3 (GPS) (40 毫米表壳) (中国大陆)
+apple,A3325,cn,苹果, Apple Watch SE 3 (GPS) (44 毫米表壳) (全球)
+apple,A3392,cn,苹果, Apple Watch SE 3 (GPS) (44 毫米表壳) (中国大陆)
+apple,A3326,cn,苹果, Apple Watch SE 3 (GPS + 蜂窝网络) (40 毫米表壳) (全球)
+apple,A3327,cn,苹果, Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳) (中国大陆)
+apple,A3328,cn,苹果, Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳) (全球)
+apple,A3329,cn,苹果, Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳) (中国大陆)
+apple,A2622,cn,苹果, Apple Watch Ultra (北美)
+apple,A2859,cn,苹果, Apple Watch Ultra (中国大陆 & 港澳)
+apple,A2684,cn,苹果, Apple Watch Ultra (其他国家和地区)
+apple,A2986,cn,苹果, Apple Watch Ultra 2 (全球)
+apple,A2987,cn,苹果, Apple Watch Ultra 2 (中国大陆 & 港澳)
+apple,A3281,cn,苹果, Apple Watch Ultra 3 (全球)
+apple,A3282,cn,苹果, Apple Watch Ultra 3 (中国大陆)
 apple,A1218,cn,苹果, Apple TV (第 1 代)
 apple,A1378,cn,苹果, Apple TV (第 2 代)
 apple,A1427,cn,苹果, Apple TV (第 3 代)
@@ -639,6 +673,22 @@ apple,A3212,en,苹果, iPhone 16e (United States)
 apple,A3408,en,苹果," iPhone 16e (Bahrain, Canada, Iraq, Guam, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
 apple,A3410,en,苹果, iPhone 16e (China mainland)
 apple,A3409,en,苹果, iPhone 16e (Rest of the world)
+apple,A3258,en,苹果, iPhone 17 (United States)
+apple,A3519,en,苹果," iPhone 17 (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+apple,A3521,en,苹果, iPhone 17 (China mainland)
+apple,A3520,en,苹果, iPhone 17 (Rest of the world)
+apple,A3260,en,苹果," iPhone Air (United States, Bahrain, Canada, Guam, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+apple,A3518,en,苹果, iPhone Air (China mainland)
+apple,A3516,en,苹果, iPhone Air (Japan)
+apple,A3517,en,苹果, iPhone Air (Rest of the world)
+apple,A3256,en,苹果, iPhone 17 Pro (United States)
+apple,A3522,en,苹果," iPhone 17 Pro (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+apple,A3524,en,苹果, iPhone 17 Pro (China mainland)
+apple,A3523,en,苹果, iPhone 17 Pro (Rest of the world)
+apple,A3257,en,苹果, iPhone 17 Pro Max (United States)
+apple,A3525,en,苹果," iPhone 17 Pro Max (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+apple,A3527,en,苹果, iPhone 17 Pro Max (China mainland)
+apple,A3526,en,苹果, iPhone 17 Pro Max (Rest of the world)
 apple,A1219,en,苹果, iPad Wi-Fi
 apple,A1337,en,苹果, iPad Wi-Fi + 3G
 apple,A1395,en,苹果, iPad 2 Wi-Fi
@@ -800,12 +850,6 @@ apple,A2094,en,苹果, Apple Watch Series 5 (GPS + Cellular) (40mm case) (North 
 apple,A2156,en,苹果," Apple Watch Series 5 (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
 apple,A2095,en,苹果, Apple Watch Series 5 (GPS + Cellular) (44mm case) (North America)
 apple,A2157,en,苹果," Apple Watch Series 5 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
-apple,A2351,en,苹果, Apple Watch SE (GPS) (40mm case)
-apple,A2352,en,苹果, Apple Watch SE (GPS) (44mm case)
-apple,A2353,en,苹果, Apple Watch SE (GPS + Cellular) (40mm case) (North America)
-apple,A2355,en,苹果," Apple Watch SE (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
-apple,A2354,en,苹果, Apple Watch SE (GPS + Cellular) (44mm case) (North America)
-apple,A2356,en,苹果," Apple Watch SE (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
 apple,A2291,en,苹果, Apple Watch Series 6 (GPS) (40mm case)
 apple,A2292,en,苹果, Apple Watch Series 6 (GPS) (44mm case)
 apple,A2293,en,苹果, Apple Watch Series 6 (GPS + Cellular) (40mm case) (North America)
@@ -818,14 +862,6 @@ apple,A2475,en,苹果, Apple Watch Series 7 (GPS + Cellular) (41mm case) (North 
 apple,A2476,en,苹果," Apple Watch Series 7 (GPS + Cellular) (41mm case) (Europe, Asia Pacific, and China)"
 apple,A2477,en,苹果, Apple Watch Series 7 (GPS + Cellular) (45mm case) (North America)
 apple,A2478,en,苹果," Apple Watch Series 7 (GPS + Cellular) (45mm case) (Europe, Asia Pacific, and China)"
-apple,A2722,en,苹果, Apple Watch SE (2nd generation) (GPS) (40mm case)
-apple,A2723,en,苹果, Apple Watch SE (2nd generation) (GPS) (44mm case)
-apple,A2726,en,苹果, Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (North America)
-apple,A2855,en,苹果," Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (China mainland, Hong Kong, Macao)"
-apple,A2725,en,苹果, Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (Rest of the world)
-apple,A2727,en,苹果, Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (North America)
-apple,A2856,en,苹果," Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (China mainland, Hong Kong, Macao)"
-apple,A2724,en,苹果, Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (Rest of the world)
 apple,A2770,en,苹果, Apple Watch Series 8 (GPS) (41mm case)
 apple,A2771,en,苹果, Apple Watch Series 8 (GPS) (45mm case)
 apple,A2772,en,苹果, Apple Watch Series 8 (GPS + Cellular) (41mm case) (North America)
@@ -834,25 +870,57 @@ apple,A2773,en,苹果, Apple Watch Series 8 (GPS + Cellular) (41mm case) (Rest o
 apple,A2774,en,苹果, Apple Watch Series 8 (GPS + Cellular) (45mm case) (North America)
 apple,A2858,en,苹果," Apple Watch Series 8 (GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
 apple,A2775,en,苹果, Apple Watch Series 8 (GPS + Cellular) (45mm case) (Rest of the world)
-apple,A2622,en,苹果, Apple Watch Ultra (North America)
-apple,A2859,en,苹果," Apple Watch Ultra (China mainland, Hong Kong, Macao)"
-apple,A2684,en,苹果, Apple Watch Ultra (Rest of the world)
 apple,A2978,en,苹果, Apple Watch Series 9 (GPS) (41mm case)
 apple,A2980,en,苹果, Apple Watch Series 9 (GPS) (45mm case)
 apple,A2982,en,苹果, Apple Watch Series 9 (GPS + Cellular) (41mm case) (Global)
 apple,A2983,en,苹果," Apple Watch Series 9 (GPS + Cellular) (41mm case) (China mainland, Hong Kong, Macao)"
 apple,A2984,en,苹果, Apple Watch Series 9 (GPS + Cellular) (45mm case) (Global)
 apple,A2985,en,苹果," Apple Watch Series 9 (GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
-apple,A2986,en,苹果, Apple Watch Ultra 2 (Global)
-apple,A2987,en,苹果," Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)"
 apple,A2997,en,苹果, Apple Watch Series 10 (GPS) (42mm case) (Global)
 apple,A2998,en,苹果," Apple Watch Series 10 (GPS) (42mm case) (China mainland, Indonesia)"
 apple,A2999,en,苹果, Apple Watch Series 10 (GPS) (46mm case) (Global)
 apple,A3000,en,苹果," Apple Watch Series 10 (GPS) (46mm case) (China mainland, Indonesia)"
 apple,A3001,en,苹果, Apple Watch Series 10 (GPS + Cellular) (42mm case) (Global)
-apple,A3002,en,苹果," Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland, Indonesia)"
+apple,A3002,en,苹果, Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland)
 apple,A3003,en,苹果, Apple Watch Series 10 (GPS + Cellular) (46mm case) (Global)
-apple,A3206,en,苹果," Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland, Indonesia)"
+apple,A3206,en,苹果, Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland)
+apple,A3331,en,苹果, Apple Watch Series 11 (GPS) (42mm case) (Global)
+apple,A3450,en,苹果, Apple Watch Series 11 (GPS) (42mm case) (China mainland)
+apple,A3333,en,苹果, Apple Watch Series 11 (GPS) (46mm case) (Global)
+apple,A3451,en,苹果, Apple Watch Series 11 (GPS) (46mm case) (China mainland)
+apple,A3335,en,苹果, Apple Watch Series 11 (GPS + Cellular) (42mm case) (Global)
+apple,A3452,en,苹果, Apple Watch Series 11 (GPS + Cellular) (42mm case) (China mainland)
+apple,A3337,en,苹果, Apple Watch Series 11 (GPS + Cellular) (46mm case) (Global)
+apple,A3453,en,苹果, Apple Watch Series 11 (GPS + Cellular) (46mm case) (China mainland)
+apple,A2351,en,苹果, Apple Watch SE (GPS) (40mm case)
+apple,A2352,en,苹果, Apple Watch SE (GPS) (44mm case)
+apple,A2353,en,苹果, Apple Watch SE (GPS + Cellular) (40mm case) (North America)
+apple,A2355,en,苹果," Apple Watch SE (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+apple,A2354,en,苹果, Apple Watch SE (GPS + Cellular) (44mm case) (North America)
+apple,A2356,en,苹果," Apple Watch SE (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+apple,A2722,en,苹果, Apple Watch SE 2 (GPS) (40mm case)
+apple,A2723,en,苹果, Apple Watch SE 2 (GPS) (44mm case)
+apple,A2726,en,苹果, Apple Watch SE 2 (GPS + Cellular) (40mm case) (North America)
+apple,A2855,en,苹果," Apple Watch SE 2 (GPS + Cellular) (40mm case) (China mainland, Hong Kong, Macao)"
+apple,A2725,en,苹果, Apple Watch SE 2 (GPS + Cellular) (40mm case) (Rest of the world)
+apple,A2727,en,苹果, Apple Watch SE 2 (GPS + Cellular) (44mm case) (North America)
+apple,A2856,en,苹果," Apple Watch SE 2 (GPS + Cellular) (44mm case) (China mainland, Hong Kong, Macao)"
+apple,A2724,en,苹果, Apple Watch SE 2 (GPS + Cellular) (44mm case) (Rest of the world)
+apple,A3324,en,苹果, Apple Watch SE 3 (GPS) (40mm case) (Global)
+apple,A3391,en,苹果, Apple Watch SE 3 (GPS) (40mm case) (China mainland)
+apple,A3325,en,苹果, Apple Watch SE 3 (GPS) (44mm case) (Global)
+apple,A3392,en,苹果, Apple Watch SE 3 (GPS) (44mm case) (China mainland)
+apple,A3326,en,苹果, Apple Watch SE 3 (GPS + Cellular) (40mm case) (Global)
+apple,A3327,en,苹果, Apple Watch SE 3 (GPS + Cellular) (44mm case) (China mainland)
+apple,A3328,en,苹果, Apple Watch SE 3 (GPS + Cellular) (44mm case) (Global)
+apple,A3329,en,苹果, Apple Watch SE 3 (GPS + Cellular) (44mm case) (China mainland)
+apple,A2622,en,苹果, Apple Watch Ultra (North America)
+apple,A2859,en,苹果," Apple Watch Ultra (China mainland, Hong Kong, Macao)"
+apple,A2684,en,苹果, Apple Watch Ultra (Rest of the world)
+apple,A2986,en,苹果, Apple Watch Ultra 2 (Global)
+apple,A2987,en,苹果," Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)"
+apple,A3281,en,苹果, Apple Watch Ultra 3 (Global)
+apple,A3282,en,苹果, Apple Watch Ultra 3 (China mainland)
 apple,A1218,en,苹果, Apple TV (1st generation)
 apple,A1378,en,苹果, Apple TV (2nd generation)
 apple,A1427,en,苹果, Apple TV (3rd generation)
@@ -917,6 +985,10 @@ apple,A3291,cn,苹果, iPhone 16 Plus
 apple,A3294,cn,苹果, iPhone 16 Pro
 apple,A3297,cn,苹果, iPhone 16 Pro Max
 apple,A3410,cn,苹果, iPhone 16e
+apple,A3521,cn,苹果, iPhone 17
+apple,A3518,cn,苹果, iPhone Air
+apple,A3524,cn,苹果, iPhone 17 Pro
+apple,A3527,cn,苹果, iPhone 17 Pro Max
 apple,A1460,cn,苹果, iPad (第 4 代) (无线局域网 + 蜂窝网络) 
 apple,A2199,cn,苹果, iPad (第 7 代) (无线局域网 + 蜂窝网络)
 apple,A2430,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络)
@@ -958,24 +1030,33 @@ apple,A2007,cn,苹果, Apple Watch Series 4 (GPS + 蜂窝网络) (40 毫米表�
 apple,A2008,cn,苹果, Apple Watch Series 4 (GPS + 蜂窝网络) (44 毫米表壳) 
 apple,A2156,cn,苹果, Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳) 
 apple,A2157,cn,苹果, Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) 
-apple,A2355,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) 
-apple,A2356,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) 
 apple,A2375,cn,苹果, Apple Watch Series 6 (GPS + 蜂窝网络) (40 毫米表壳) 
 apple,A2376,cn,苹果, Apple Watch Series 6 (GPS + 蜂窝网络) (44 毫米表壳) 
 apple,A2476,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表壳) 
 apple,A2478,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) 
-apple,A2855,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳)
-apple,A2856,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳)
 apple,A2857,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (41 毫米表壳)
 apple,A2858,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (45 毫米表壳)
-apple,A2859,cn,苹果, Apple Watch Ultra
 apple,A2983,cn,苹果, Apple Watch Series 9 (GPS + 蜂窝网络) (41 毫米表壳)
 apple,A2985,cn,苹果, Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表壳)
-apple,A2987,cn,苹果, Apple Watch Ultra 2
 apple,A2998,cn,苹果, Apple Watch Series 10 (GPS) (42 毫米表壳)
 apple,A3000,cn,苹果, Apple Watch Series 10 (GPS) (46 毫米表壳)
 apple,A3002,cn,苹果, Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳)
 apple,A3206,cn,苹果, Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳)
+apple,A3450,cn,苹果, Apple Watch Series 11 (GPS) (42 毫米表壳)
+apple,A3451,cn,苹果, Apple Watch Series 11 (GPS) (46 毫米表壳)
+apple,A3452,cn,苹果, Apple Watch Series 11 (GPS + 蜂窝网络) (42 毫米表壳)
+apple,A3453,cn,苹果, Apple Watch Series 11 (GPS + 蜂窝网络) (46 毫米表壳)
+apple,A2355,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) 
+apple,A2356,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) 
+apple,A2855,cn,苹果, Apple Watch SE 2 (GPS + 蜂窝网络) (40 毫米表壳)
+apple,A2856,cn,苹果, Apple Watch SE 2 (GPS + 蜂窝网络) (44 毫米表壳)
+apple,A3391,cn,苹果, Apple Watch SE 3 (GPS) (40 毫米表壳)
+apple,A3392,cn,苹果, Apple Watch SE 3 (GPS) (44 毫米表壳)
+apple,A3327,cn,苹果, Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳)
+apple,A3329,cn,苹果, Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳)
+apple,A2859,cn,苹果, Apple Watch Ultra
+apple,A2987,cn,苹果, Apple Watch Ultra 2
+apple,A3282,cn,苹果, Apple Watch Ultra 3
 apple,A1319,cn,苹果, iPod touch (第 2 代) 
 asus,_Z01QD,cn,华硕, ROG 游戏手机
 asus,_I001DA,cn,华硕, ROG 游戏手机 2
@@ -3830,6 +3911,8 @@ meizu,M481Q,cn,魅族, 魅族 21 PRO
 meizu,M481S,cn,魅族, 魅族 21 PRO Flyme 钛好用版
 meizu,M468Q,cn,魅族, 魅族 21 Note 公开版
 meizu,M468H,cn,魅族, 魅族 21 Note 国际版
+meizu,M582Q,cn,魅族, 魅族 22
+meizu,M582V,cn,魅族, 魅族 22 (16GB+1TB)
 meizu,M431Q,cn,魅族, 魅族 Lucky 08 公开版
 meizu,M852Q,cn,魅族, 魅族 X8 公开版
 meizu,M852H,cn,魅族, 魅族 X8 国际版
@@ -3846,6 +3929,7 @@ meizu,M531Q,cn,魅族, 魅族 Note 16 Pro
 meizu,M411H,cn,魅族, 魅族 Note 21 国际版
 meizu,M411L,cn,魅族, 魅族 Note 21 国际版
 meizu,M412H,cn,魅族, 魅族 Note 21 Pro 国际版
+meizu,M513H,cn,魅族, 魅族 Note 22 国际版
 meizu,M810H,cn,魅族, 魅族 M8c 国际版
 meizu,M818H,cn,魅族, 魅族 C9 国际版
 meizu,M819H,cn,魅族, 魅族 C9 Pro 国际版
@@ -3924,9 +4008,11 @@ meizu,M811Q,cn,魅族, 魅蓝 6T 公开版
 meizu,M811H,cn,魅族, 魅族 M6T 国际版
 meizu,M2112,cn,魅族, 魅蓝 10
 meizu,M2111,cn,魅族, 魅蓝 10s
-meizu,M421Q,cn,魅族, 魅蓝 200 / 魅蓝 20C / 魅族 M20
-meizu,M416H,cn,魅族, 魅族 MBLU 21
-meizu,M416L,cn,魅族, 魅族 MBLU 21
+meizu,M421Q,cn,魅族, 魅蓝 20 / 魅蓝 20C / 魅族 M20
+meizu,M416H,cn,魅族, 魅族 Mblu 21 国际版
+meizu,M416L,cn,魅族, 魅族 Mblu 21 国际版
+meizu,M511H,cn,魅族, MEIZU Mblu 22 国际版
+meizu,M512H,cn,魅族, MEIZU Mblu 22 Pro 国际版
 meizu,S685Q,cn,魅族, 魅蓝 Max 公开版
 meizu,S685M,cn,魅族, 魅蓝 Max 移动版
 meizu,S685C,cn,魅族, 魅蓝 Max 电信版
@@ -4032,6 +4118,8 @@ meizu,M481Q,en,魅族, MEIZU 21 PRO
 meizu,M481S,en,魅族, MEIZU 21 PRO (UWB)
 meizu,M468Q,en,魅族, MEIZU 21 Note China
 meizu,M468H,en,魅族, MEIZU 21 Note Global
+meizu,M582Q,en,魅族, MEIZU 22
+meizu,M582V,en,魅族, MEIZU 22 (16GB+1TB)
 meizu,M431Q,en,魅族, MEIZU Lucky 08
 meizu,M463H,en,魅族, MEIZU m1 note Global
 meizu,M463M,en,魅族, MEIZU m1 note China Mobile
@@ -4068,6 +4156,7 @@ meizu,M531Q,en,魅族, MEIZU Note 16 Pro
 meizu,M411H,en,魅族, MEIZU Note 21 Global
 meizu,M411L,en,魅族, MEIZU Note 21 Global
 meizu,M412H,en,魅族, MEIZU Note 21 Pro Global
+meizu,M513H,en,魅族, MEIZU Note 22 Global
 meizu,A680H,en,魅族, MEIZU M3E Global
 meizu,A680Q,en,魅族, MEIZU M1 E China
 meizu,A680M,en,魅族, MEIZU M1 E China Mobile
@@ -4127,8 +4216,10 @@ meizu,M918H,en,魅族, MEIZU M10 Global
 meizu,M2112,en,魅族, mblu 10
 meizu,M2111,en,魅族, mblu 10s
 meizu,M421Q,en,魅族, MEIZU M20 / MEIZU mblu 20
-meizu,M416H,en,魅族, MEIZU MBLU 21 Global
-meizu,M416L,en,魅族, MEIZU MBLU 21 Global
+meizu,M416H,en,魅族, MEIZU Mblu 21 Global
+meizu,M416L,en,魅族, MEIZU Mblu 21 Global
+meizu,M511H,en,魅族, MEIZU Mblu 22 Global
+meizu,M512H,en,魅族, MEIZU Mblu 22 Pro Global
 meizu,S685H,en,魅族, MEIZU M3 Max Global
 meizu,S685Q,en,魅族, MEIZU M3 Max China
 meizu,S685M,en,魅族, MEIZU M3 Max China Mobile
@@ -5463,6 +5554,7 @@ oppo,PKS110,cn,OPPO, OPPO K12 Plus
 oppo,PJT110,cn,OPPO, OPPO K12x
 oppo,PLD110,cn,OPPO, OPPO K12s
 oppo,PLL110,cn,OPPO, OPPO K13s
+oppo,PKV110,cn,OPPO, OPPO K13x
 oppo,PLM110,cn,OPPO, OPPO K13 Turbo
 oppo,PLE110,cn,OPPO, OPPO K13 Turbo Pro
 oppo,OPD2101,cn,OPPO, OPPO Pad
