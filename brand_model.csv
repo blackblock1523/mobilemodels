@@ -1726,7 +1726,6 @@ honor,AGM3-AL09HN,cn,荣耀, 荣耀平板 7 10.1 英寸 LTE 版
 honor,HEY-W09,cn,荣耀, 荣耀平板 8 12 英寸 Wi-Fi 版
 honor,HEY2-W09,cn,荣耀, 荣耀平板 9 12.1 英寸 Wi-Fi 版
 honor,HEY2-W19,cn,荣耀, 荣耀平板 9 柔光版 12.1 英寸 Wi-Fi 版
-honor,HEY2-AN00,cn,荣耀, 荣耀平板 9 12.1 英寸 5G 版
 honor,ROD-W09,cn,荣耀, 荣耀平板 9 Pro 12.1 英寸 Wi-Fi 版
 honor,ROD-W19,cn,荣耀, 荣耀平板 9 Pro 柔光版 12.1 英寸 Wi-Fi 版
 honor,HEY3-W00,cn,荣耀, 荣耀平板 10 12.1 英寸 Wi-Fi 版
@@ -2140,6 +2139,10 @@ honor,WOD-LX3,en,荣耀, HONOR X5 Plus
 honor,GFY-LX2,en,荣耀, HONOR X5b
 honor,GFY-LX3,en,荣耀, HONOR X5b
 honor,GFY-LX2P,en,荣耀, HONOR X5b Plus
+honor,NLA-LX1,en,荣耀, HONOR X5c
+honor,NLA-LX2,en,荣耀, HONOR X5c
+honor,NLA-LX3,en,荣耀, HONOR X5c
+honor,NLA-LX2P,en,荣耀, HONOR X5c Plus
 honor,VNE-LX1,en,荣耀, HONOR X6
 honor,VNE-LX2,en,荣耀, HONOR X6
 honor,VNE-LX3,en,荣耀, HONOR X6
@@ -3145,6 +3148,10 @@ huawei,JNA-B19,cn,华为, HUAWEI WATCH GT 5 41mm
 huawei,VLI-B19,cn,华为, HUAWEI WATCH GT 5 46mm
 huawei,JNA-B29,cn,华为, HUAWEI WATCH GT 5 Pro 42mm
 huawei,VLI-B29,cn,华为, HUAWEI WATCH GT 5 Pro 46mm
+huawei,KSU-B19,cn,华为, HUAWEI WATCH GT 6 41mm
+huawei,ATM-B19,cn,华为, HUAWEI WATCH GT 6 46mm
+huawei,KSU-B29,cn,华为, HUAWEI WATCH GT 6 Pro 42mm
+huawei,ATM-B29,cn,华为, HUAWEI WATCH GT 6 Pro 46mm
 huawei,RUN-B19,cn,华为, HUAWEI WATCH GT Runner
 huawei,RUN-B29,cn,华为, HUAWEI WATCH GT Runner
 huawei,OCF-B29,cn,华为, HUAWEI WATCH GT 2022 典藏版
@@ -4411,6 +4418,10 @@ mitv,L65MB-SP,cn,小米电视, 小米电视 S Pro 65 Mini LED 2025
 mitv,L75MB-SP,cn,小米电视, 小米电视 S Pro 75 Mini LED 2025
 mitv,L85MB-SP,cn,小米电视, 小米电视 S Pro 85 Mini LED 2025
 mitv,L100MB-SP,cn,小米电视, 小米电视 S Pro 100 Mini LED 2025
+mitv,L65MC-SP,cn,小米电视, 小米电视 S Pro 65 Mini LED 2026
+mitv,L75MC-SP,cn,小米电视, 小米电视 S Pro 75 Mini LED 2026
+mitv,L85MC-SP,cn,小米电视, 小米电视 S Pro 85 Mini LED 2026
+mitv,L98MC-SP,cn,小米电视, 小米电视 S Pro 98 Mini LED 2026
 mitv,L65M5-BH,cn,小米电视, 小米壁画电视 65 英寸
 mitv,L75M5-BH,cn,小米电视, 小米壁画电视 75 英寸
 mitv,L55M6-TM,cn,小米电视, 小米透明电视 55 英寸
@@ -6073,6 +6084,7 @@ realme,RMX5106,en,真我, realme 15 5G
 realme,RMX5101,en,真我, realme 15 Pro 5G
 realme,RMX5111,en,真我, realme 15T 5G
 realme,RMX5000,en,真我, realme 15 Lite 5G
+realme,RMX5250,en,真我, realme 15x 5G
 realme,RMX1901,en,真我, realme X
 realme,RMX1921,en,真我, realme XT Global
 realme,RMX1922,en,真我, realme XT India
