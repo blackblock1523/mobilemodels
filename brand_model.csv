@@ -5548,6 +5548,7 @@ oppo,PKQ110,cn,OPPO, OPPO A5 5G (2025)
 oppo,PKV110,cn,OPPO, OPPO A5 活力版
 oppo,PKW110,cn,OPPO, OPPO A5x
 oppo,PKP110,cn,OPPO, OPPO A5 Pro
+oppo,PLS120,cn,OPPO, OPPO A6
 oppo,PLL110,cn,OPPO, OPPO A6 GT / OPPO A6 Max
 oppo,PLN110,cn,OPPO, OPPO A6 Pro
 oppo,PKW120,cn,OPPO, OPPO A6i
@@ -7542,6 +7543,9 @@ vivo,V2458A,cn,VIVO, vivo X200s
 vivo,V2454A,cn,VIVO, vivo X200 Ultra
 vivo,V2454DA,cn,VIVO, vivo X200 Ultra 卫星通信版
 vivo,V2436A,cn,VIVO, vivo X Fold5
+vivo,V2509A,cn,VIVO, vivo X300
+vivo,V2502A,cn,VIVO, vivo X300 Pro
+vivo,V2502DA,cn,VIVO, vivo X300 Pro 卫星通信版
 vivo,V1831A,cn,VIVO, vivo S1 全网通版
 vivo,V1831T,cn,VIVO, vivo S1 移动全网通版
 vivo,V1832A,cn,VIVO, vivo S1 Pro 全网通版
@@ -7738,6 +7742,7 @@ vivo,V2304A,cn,VIVO, iQOO 11S
 vivo,V2307A,cn,VIVO, iQOO 12
 vivo,V2329A,cn,VIVO, iQOO 12 Pro
 vivo,V2408A,cn,VIVO, iQOO 13
+vivo,V2505A,cn,VIVO, iQOO 15
 vivo,V1914A,cn,VIVO, iQOO Neo 全网通版
 vivo,V1914T,cn,VIVO, iQOO Neo 移动全网通版
 vivo,V1936A,cn,VIVO, iQOO Neo 855 版 全网通版
