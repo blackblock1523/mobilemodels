@@ -353,6 +353,12 @@ apple,A3006,cn,苹果," iPad Pro (11 英寸, M4) (无线局域网 + 蜂窝网络
 apple,A2925,cn,苹果," iPad Pro (13 英寸, M4) (无线局域网)"
 apple,A2926,cn,苹果," iPad Pro (13 英寸, M4) (无线局域网 + 蜂窝网络)"
 apple,A3007,cn,苹果," iPad Pro (13 英寸, M4) (无线局域网 + 蜂窝网络) (中国大陆)"
+apple,A3357,cn,苹果," iPad Pro (11 英寸, M5) (无线局域网)"
+apple,A3358,cn,苹果," iPad Pro (11 英寸, M5) (无线局域网 + 蜂窝网络)"
+apple,A3359,cn,苹果," iPad Pro (11 英寸, M5) (无线局域网 + 蜂窝网络) (中国大陆)"
+apple,A3360,cn,苹果," iPad Pro (13 英寸, M5) (无线局域网)"
+apple,A3361,cn,苹果," iPad Pro (13 英寸, M5) (无线局域网 + 蜂窝网络)"
+apple,A3362,cn,苹果," iPad Pro (13 英寸, M5) (无线局域网 + 蜂窝网络) (中国大陆)"
 apple,A1432,cn,苹果, iPad mini (无线局域网)
 apple,A1454,cn,苹果, iPad mini (无线局域网 + 蜂窝网络)
 apple,A1455,cn,苹果, iPad mini (无线局域网 + 蜂窝网络) (中国大陆)
@@ -483,6 +489,7 @@ apple,A2169,cn,苹果, Apple TV 4K (第 2 代)
 apple,A2737,cn,苹果, Apple TV 4K (第 3 代) (无线局域网)
 apple,A2843,cn,苹果, Apple TV 4K (第 3 代) (无线局域网 + 以太网)
 apple,A2117,cn,苹果, Apple Vision Pro
+apple,A3416,cn,苹果, Apple Vision Pro (M5)
 apple,A1213,cn,苹果, iPod touch
 apple,A1288,cn,苹果, iPod touch (第 2 代)
 apple,A1319,cn,苹果, iPod touch (第 2 代) (中国大陆)
@@ -801,6 +808,12 @@ apple,A3006,en,苹果," iPad Pro (11-inch, M4) Wi-Fi + Cellular (China mainland)
 apple,A2925,en,苹果," iPad Pro (13-inch, M4) Wi-Fi"
 apple,A2926,en,苹果," iPad Pro (13-inch, M4) Wi-Fi + Cellular"
 apple,A3007,en,苹果," iPad Pro (13-inch, M4) Wi-Fi + Cellular (China mainland)"
+apple,A3357,en,苹果," iPad Pro (11-inch, M5) Wi-Fi"
+apple,A3358,en,苹果," iPad Pro (11-inch, M5) Wi-Fi + Cellular"
+apple,A3359,en,苹果," iPad Pro (11-inch, M5) Wi-Fi + Cellular (China mainland)"
+apple,A3360,en,苹果," iPad Pro (13-inch, M5) Wi-Fi"
+apple,A3361,en,苹果," iPad Pro (13-inch, M5) Wi-Fi + Cellular"
+apple,A3362,en,苹果," iPad Pro (13-inch, M5) Wi-Fi + Cellular (China mainland)"
 apple,A1432,en,苹果, iPad mini Wi-Fi
 apple,A1454,en,苹果, iPad mini Wi-Fi + Cellular
 apple,A1455,en,苹果, iPad mini Wi-Fi + Cellular (China mainland)
@@ -931,6 +944,7 @@ apple,A2169,en,苹果, Apple TV 4K (2nd generation)
 apple,A2737,en,苹果, Apple TV 4K (3rd generation) Wi-Fi
 apple,A2843,en,苹果, Apple TV 4K (3rd generation) Wi-Fi + Ethernet
 apple,A2117,en,苹果, Apple Vision Pro
+apple,A3416,en,苹果, Apple Vision Pro (M5)
 apple,A1213,en,苹果, iPod touch (1st generation)
 apple,A1288,en,苹果, iPod touch (2nd generation)
 apple,A1319,en,苹果, iPod touch (2nd generation) (China mainland)
@@ -1020,6 +1034,8 @@ apple,A2762,cn,苹果," iPad Pro (11 英寸, 第 4 代) (无线局域网 + 蜂�
 apple,A2766,cn,苹果," iPad Pro (12.9 英寸, 第 6 代) (无线局域网 + 蜂窝网络)"
 apple,A3006,cn,苹果," iPad Pro (11 英寸, M4) (无线局域网 + 蜂窝网络)"
 apple,A3007,cn,苹果," iPad Pro (13 英寸, M4) (无线局域网 + 蜂窝网络)"
+apple,A3359,cn,苹果," iPad Pro (11 英寸, M5) (无线局域网 + 蜂窝网络)"
+apple,A3362,cn,苹果," iPad Pro (13 英寸, M5) (无线局域网 + 蜂窝网络)"
 apple,A1455,cn,苹果, iPad mini (无线局域网 + 蜂窝网络) 
 apple,A2125,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络)
 apple,A2569,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络)
@@ -2315,6 +2331,7 @@ huawei,PLR-AL30,cn,华为, HUAWEI Mate 70 Pro
 huawei,PLR-AL50,cn,华为, HUAWEI Mate 70 Pro 优享版
 huawei,PLA-AL10,cn,华为, HUAWEI Mate 70 Pro+
 huawei,PLU-AL10,cn,华为, HUAWEI Mate 70 RS 非凡大师
+huawei,SUP-AL90,cn,华为, HUAWEI Mate 70 Air
 huawei,TAH-AN00,cn,华为, HUAWEI Mate X
 huawei,TAH-AN00m,cn,华为, HUAWEI Mate Xs
 huawei,TET-AN00,cn,华为, HUAWEI Mate X2 5G
@@ -3106,8 +3123,11 @@ huawei,HD7XAJMN,cn,华为, 华为 Vision 智慧屏 5 75
 huawei,HD8XAJMN,cn,华为, 华为 Vision 智慧屏 5 85
 huawei,HD9XAJMN,cn,华为, 华为 Vision 智慧屏 5 98
 huawei,HD55KULU,cn,华为, 华为 Vision 智慧屏 5 SE 55
+huawei,HDB525A9,cn,华为, 华为 Vision 智慧屏 5 SE 优享版 55
 huawei,HD65KULU,cn,华为, 华为 Vision 智慧屏 5 SE 65
+huawei,HDB526A9,cn,华为, 华为 Vision 智慧屏 5 SE 优享版 65 
 huawei,HD75KULU,cn,华为, 华为 Vision 智慧屏 5 SE 75
+huawei,HDB527A9,cn,华为, 华为 Vision 智慧屏 5 SE 优享版 75 
 huawei,HD85KULU,cn,华为, 华为 Vision 智慧屏 5 SE 85
 huawei,HD65NEWN,cn,华为, 华为 Vision 智慧屏 5 Pro 65
 huawei,HD75NEWN,cn,华为, 华为 Vision 智慧屏 5 Pro 75
@@ -5575,7 +5595,7 @@ oppo,PKD120,cn,OPPO, OPPO A3m
 oppo,PKD130,cn,OPPO, OPPO A3x
 oppo,PKL110,cn,OPPO, OPPO A3i
 oppo,PJY110,cn,OPPO, OPPO A3 Pro / OPPO A5 Plus
-oppo,PKQ110,cn,OPPO, OPPO A5 5G (2025)
+oppo,PKQ110,cn,OPPO, OPPO A5 5G (2025) / OPPO A6 Plus
 oppo,PKV110,cn,OPPO, OPPO A5 活力版
 oppo,PKW110,cn,OPPO, OPPO A5x
 oppo,PKP110,cn,OPPO, OPPO A5 Pro
@@ -5960,6 +5980,8 @@ realme,RMX3800,cn,真我, 真我 GT6
 realme,RMX6688,cn,真我, 真我 GT7
 realme,RMX5010,cn,真我, 真我 GT7 Pro
 realme,RMX5090,cn,真我, 真我 GT7 Pro 竞速版
+realme,RMX6699,cn,真我, 真我 GT8
+realme,RMX5200,cn,真我, 真我 GT8 Pro
 realme,RMX3031,cn,真我, 真我 GT Neo 5G
 realme,RMX3350,cn,真我, 真我 GT Neo 闪速版
 realme,RMX3370,cn,真我, 真我 GT Neo2
@@ -6226,6 +6248,7 @@ realme,RMX3941,en,真我, realme C75
 realme,RMX3943,en,真我, realme C75 5G India
 realme,RMX3963,en,真我, realme C75 5G Global
 realme,RMX5020,en,真我, realme C75x
+realme,RMX5253,en,真我, realme C85 5G
 realme,RMX3834,en,真我, realme Note 50
 realme,RMX3933,en,真我, realme Note 60
 realme,RMX3938,en,真我, realme Note 60x
@@ -7868,6 +7891,7 @@ vivo,iWA2456C,cn,VIVO, iQOO WATCH GT 蓝牙版
 vivo,iWA2556A,cn,VIVO, iQOO WATCH 5 蓝牙版
 vivo,iWA2556B,cn,VIVO, iQOO WATCH 5 eSIM 版
 vivo,iWA2536A,cn,VIVO, iQOO WATCH GT 2 蓝牙版
+vivo,iWA2536C,cn,VIVO, iQOO WATCH GT 2 eSIM 版
 vivo,V1930,en,VIVO, vivo X50e 5G
 vivo,V1937,en,VIVO, vivo X50 Lite
 vivo,V2006,en,VIVO, vivo X51 5G
