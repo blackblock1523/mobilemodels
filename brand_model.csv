@@ -7510,13 +7510,299 @@ smartisan,DT1902A,cn,锤子, 坚果 Pro 3 (白色)
 smartisan,DT2002C,cn,锤子, 坚果 R2
 smartisan,DT2003A,cn,锤子, Smartisan TNT go 有线版
 smartisan,DT2003C,cn,锤子, Smartisan TNT go 无线版
+sony,E2104,cn,索尼, Xperia E4
+sony,E2105,cn,索尼, Xperia E4
+sony,E2115,cn,索尼, Xperia E4 dual
+sony,E2114,cn,索尼, Xperia E4 dual Brazil
+sony,E2303,cn,索尼, Xperia M4 Aqua
+sony,E2306,cn,索尼, Xperia M4 Aqua
+sony,E2353,cn,索尼, Xperia M4 Aqua
+sony,E2312,cn,索尼, Xperia M4 Aqua dual
+sony,E2333,cn,索尼, Xperia M4 Aqua dual
+sony,E2363,cn,索尼, Xperia M4 Aqua dual
+sony,E5603,cn,索尼, Xperia M5
+sony,E5606,cn,索尼, Xperia M5
+sony,E5653,cn,索尼, Xperia M5
+sony,E5633,cn,索尼, Xperia M5 dual
+sony,E5663,cn,索尼, Xperia M5 dual
+sony,E5643,cn,索尼, Xperia M5 dual Brazil
+sony,E5303,cn,索尼, Xperia C4
+sony,E5306,cn,索尼, Xperia C4
+sony,E5353,cn,索尼, Xperia C4
+sony,E5333,cn,索尼, Xperia C4 dual
+sony,E5363,cn,索尼, Xperia C4 dual
+sony,E5343,cn,索尼, Xperia C4 dual Brazil
+sony,E5533,cn,索尼, Xperia C5 Ultra dual
+sony,E5563,cn,索尼, Xperia C5 Ultra dual
+sony,E6553,cn,索尼, Xperia Z3+
+sony,E6533,cn,索尼, Xperia Z3+ dual
+sony,402SO,cn,索尼, Xperia Z4 Japan (SoftBank)
+sony,SO-03G,cn,索尼, Xperia Z4 Japan (NTT Docomo)
+sony,SOV31,cn,索尼, Xperia Z4 Japan (KDDI)
+sony,E6603,cn,索尼, Xperia Z5
+sony,E6653,cn,索尼, Xperia Z5
+sony,E6633,cn,索尼, Xperia Z5 dual
 sony,E6683,cn,索尼, Xperia Z5 dual
+sony,501SO,cn,索尼, Xperia Z5 Japan (SoftBank)
+sony,SO-01H,cn,索尼, Xperia Z5 Japan (NTT Docomo)
+sony,SOV32,cn,索尼, Xperia Z5 Japan (KDDI)
+sony,E5803,cn,索尼, Xperia Z5 Compact
+sony,E5823,cn,索尼, Xperia Z5 Compact
+sony,SO-02H,cn,索尼, Xperia Z5 Compact Japan (NTT Docomo)
+sony,E6853,cn,索尼, Xperia Z5 Premium
+sony,E6833,cn,索尼, Xperia Z5 Premium dual
+sony,E6883,cn,索尼, Xperia Z5 Premium dual
+sony,SO-03H,cn,索尼, Xperia Z5 Premium Japan (NTT Docomo)
+sony,F3311,cn,索尼, Xperia E5
+sony,F3313,cn,索尼, Xperia E5
+sony,F3111,cn,索尼, Xperia XA (Single SIM)
+sony,F3113,cn,索尼, Xperia XA (Single SIM)
+sony,F3115,cn,索尼, Xperia XA (Single SIM)
+sony,F3112,cn,索尼, Xperia XA (Dual SIM)
+sony,F3116,cn,索尼, Xperia XA (Dual SIM)
+sony,F3211,cn,索尼, Xperia XA Ultra (Single SIM)
+sony,F3213,cn,索尼, Xperia XA Ultra (Single SIM)
+sony,F3215,cn,索尼, Xperia XA Ultra (Single SIM)
+sony,F3212,cn,索尼, Xperia XA Ultra (Dual SIM)
+sony,F3216,cn,索尼, Xperia XA Ultra (Dual SIM)
+sony,F5121,cn,索尼, Xperia X (Single SIM)
+sony,F5122,cn,索尼, Xperia X (Dual SIM)
+sony,F5321,cn,索尼, Xperia X Compact (Single SIM)
+sony,SO-02J,cn,索尼, Xperia X Compact Japan (NTT Docomo)
+sony,F8131,cn,索尼, Xperia X Performance (Single SIM)
+sony,F8132,cn,索尼, Xperia X Performance (Dual SIM)
+sony,502SO,cn,索尼, Xperia X Performance Japan (SoftBank)
+sony,SO-04H,cn,索尼, Xperia X Performance Japan (NTT Docomo)
+sony,SOV33,cn,索尼, Xperia X Performance Japan (KDDI)
+sony,F8331,cn,索尼, Xperia XZ (Single SIM)
+sony,F8332,cn,索尼, Xperia XZ (Dual SIM)
+sony,601SO,cn,索尼, Xperia XZ Japan (SoftBank)
+sony,SO-01J,cn,索尼, Xperia XZ Japan (NTT Docomo)
+sony,SOV34,cn,索尼, Xperia XZ Japan (KDDI)
+sony,G3311,cn,索尼, Xperia L1 (Single SIM)
+sony,G3313,cn,索尼, Xperia L1 (Single SIM)
+sony,G3312,cn,索尼, Xperia L1 (Dual SIM)
+sony,G3121,cn,索尼, Xperia XA1 (Single SIM)
+sony,G3123,cn,索尼, Xperia XA1 (Single SIM)
+sony,G3125,cn,索尼, Xperia XA1 (Single SIM)
+sony,G3112,cn,索尼, Xperia XA1 (Dual SIM)
+sony,G3116,cn,索尼, Xperia XA1 (Dual SIM)
+sony,G3221,cn,索尼, Xperia XA1 Ultra (Single SIM)
+sony,G3223,cn,索尼, Xperia XA1 Ultra (Single SIM)
+sony,G3212,cn,索尼, Xperia XA1 Ultra (Dual SIM)
+sony,G3226,cn,索尼, Xperia XA1 Ultra (Dual SIM)
+sony,G3421,cn,索尼, Xperia XA1 Plus (Single SIM)
+sony,G3423,cn,索尼, Xperia XA1 Plus (Single SIM)
+sony,G3412,cn,索尼, Xperia XA1 Plus (Dual SIM)
+sony,G3416,cn,索尼, Xperia XA1 Plus (Dual SIM)
+sony,G3426,cn,索尼, Xperia XA1 Plus (Dual SIM)
+sony,G8231,cn,索尼, Xperia XZs (Single SIM)
+sony,G8232,cn,索尼, Xperia XZs (Dual SIM)
+sony,602SO,cn,索尼, Xperia XZs Japan (SoftBank)
+sony,SO-03J,cn,索尼, Xperia XZs Japan (NTT Docomo)
+sony,SOV35,cn,索尼, Xperia XZs Japan (KDDI)
+sony,G8141,cn,索尼, Xperia XZ Premium (Single SIM)
+sony,G8142,cn,索尼, Xperia XZ Premium (Dual SIM)
+sony,G8188,cn,索尼, Xperia XZ Premium Japan (SIM Free)
+sony,SO-04J,cn,索尼, Xperia XZ Premium Japan (NTT Docomo)
+sony,G8341,cn,索尼, Xperia XZ1 (Single SIM)
+sony,G8342,cn,索尼, Xperia XZ1 (Dual SIM)
+sony,G8343,cn,索尼, Xperia XZ1 Canada
+sony,701SO,cn,索尼, Xperia XZ1 Japan (SoftBank)
+sony,SO-01K,cn,索尼, Xperia XZ1 Japan (NTT Docomo)
+sony,SOV36,cn,索尼, Xperia XZ1 Japan (KDDI)
+sony,G8441,cn,索尼, Xperia XZ1 Compact (Single SIM)
+sony,SO-02K,cn,索尼, Xperia XZ1 Compact Japan (NTT Docomo)
+sony,H3311,cn,索尼, Xperia L2 (Single SIM)
+sony,H3321,cn,索尼, Xperia L2 (Single SIM)
+sony,H4311,cn,索尼, Xperia L2 (Dual SIM)
+sony,H4331,cn,索尼, Xperia L2 (Dual SIM)
+sony,H3113,cn,索尼, Xperia XA2 (Single SIM)
+sony,H3123,cn,索尼, Xperia XA2 (Single SIM)
+sony,H3133,cn,索尼, Xperia XA2 (Single SIM)
+sony,H4113,cn,索尼, Xperia XA2 (Dual SIM)
+sony,H4133,cn,索尼, Xperia XA2 (Dual SIM)
+sony,H3213,cn,索尼, Xperia XA2 Ultra (Single SIM)
+sony,H3223,cn,索尼, Xperia XA2 Ultra (Single SIM)
+sony,H4213,cn,索尼, Xperia XA2 Ultra (Dual SIM)
+sony,H4233,cn,索尼, Xperia XA2 Ultra (Dual SIM)
+sony,H3413,cn,索尼, Xperia XA2 Plus (Single SIM)
+sony,H4413,cn,索尼, Xperia XA2 Plus (Dual SIM)
+sony,H4493,cn,索尼, Xperia XA2 Plus (Dual SIM)
+sony,H8216,cn,索尼, Xperia XZ2 (Single SIM)
+sony,H8266,cn,索尼, Xperia XZ2 (Dual SIM)
+sony,H8296,cn,索尼, Xperia XZ2 (Dual SIM)
+sony,H8276,cn,索尼, Xperia XZ2 Canada
+sony,702SO,cn,索尼, Xperia XZ2 Japan (SoftBank)
+sony,SO-03K,cn,索尼, Xperia XZ2 Japan (NTT Docomo)
+sony,SOV37,cn,索尼, Xperia XZ2 Japan (KDDI)
+sony,H8314,cn,索尼, Xperia XZ2 Compact (Single SIM)
+sony,H8324,cn,索尼, Xperia XZ2 Compact (Dual SIM)
+sony,SO-05K,cn,索尼, Xperia XZ2 Compact Japan (NTT Docomo)
+sony,H8116,cn,索尼, Xperia XZ2 Premium (Single SIM)
+sony,H8166,cn,索尼, Xperia XZ2 Premium (Dual SIM)
+sony,SO-04K,cn,索尼, Xperia XZ2 Premium Japan (NTT Docomo)
+sony,SOV38,cn,索尼, Xperia XZ2 Premium Japan (KDDI)
+sony,H8416,cn,索尼, Xperia XZ3 (Single SIM)
+sony,H9436,cn,索尼, Xperia XZ3 (Dual SIM)
+sony,H9493,cn,索尼, Xperia XZ3 (Dual SIM)
+sony,801SO,cn,索尼, Xperia XZ3 Japan (SoftBank)
+sony,SO-01L,cn,索尼, Xperia XZ3 Japan (NTT Docomo)
+sony,SOV39,cn,索尼, Xperia XZ3 Japan (KDDI)
+sony,I3312,cn,索尼, Xperia L3 (Single SIM)
+sony,I4312,cn,索尼, Xperia L3 (Dual SIM)
+sony,I4332,cn,索尼, Xperia L3 (Dual SIM)
+sony,J8110,cn,索尼, Xperia 1 (Single SIM)
+sony,J8170,cn,索尼, Xperia 1 US
+sony,J9110,cn,索尼, Xperia 1 (Dual SIM)
+sony,J9180,cn,索尼, Xperia 1 Professional Editon China
+sony,J9150,cn,索尼, Xperia 1 Japan (SIM Free)
+sony,802SO,cn,索尼, Xperia 1 Japan (SoftBank)
+sony,SO-03L,cn,索尼, Xperia 1 Japan (NTT Docomo)
+sony,SOV40,cn,索尼, Xperia 1 Japan (KDDI)
+sony,J8210,cn,索尼, Xperia 5 (Single SIM)
+sony,J8270,cn,索尼, Xperia 5 US
+sony,J9210,cn,索尼, Xperia 5 (Dual SIM)
+sony,J9260,cn,索尼, Xperia 5 Japan (SIM Free)
+sony,901SO,cn,索尼, Xperia 5 Japan (SoftBank)
+sony,SO-01M,cn,索尼, Xperia 5 Japan (NTT Docomo)
+sony,SOV41,cn,索尼, Xperia 5 Japan (KDDI)
+sony,J3273,cn,索尼, Xperia 8 Lite Japan (SIM Free)
+sony,902SO,cn,索尼, Xperia 8 Japan (SoftBank)
+sony,SOV42,cn,索尼, Xperia 8 Japan (KDDI)
+sony,SOV42-u,cn,索尼, Xperia 8 Japan (KDDI)
+sony,I3113,cn,索尼, Xperia 10 (Single SIM)
+sony,I3123,cn,索尼, Xperia 10 (Single SIM)
+sony,I4113,cn,索尼, Xperia 10 (Dual SIM)
+sony,I4193,cn,索尼, Xperia 10 (Dual SIM)
+sony,I3213,cn,索尼, Xperia 10 Plus (Single SIM)
+sony,I3223,cn,索尼, Xperia 10 Plus (Single SIM)
+sony,I4213,cn,索尼, Xperia 10 Plus (Dual SIM)
+sony,I4293,cn,索尼, Xperia 10 Plus (Dual SIM)
+sony,J3173,cn,索尼, Xperia Ace Japan (SIM Free)
+sony,SO-02L,cn,索尼, Xperia Ace Japan (NTT Docomo)
+sony,XQ-AQ52,cn,索尼, Xperia PRO Global
+sony,XQ-AQ62,cn,索尼, Xperia PRO US
+sony,XQ-AT42,cn,索尼, Xperia 1 II Japan (SIM Free)
+sony,XQ-AT51,cn,索尼, Xperia 1 II Global (Single SIM)
+sony,XQ-AT52,cn,索尼, Xperia 1 II Global (Dual SIM)
+sony,XQ-AT72,cn,索尼, Xperia 1 II China
+sony,SO-51A,cn,索尼, Xperia 1 II Japan (NTT Docomo)
+sony,SOG01,cn,索尼, Xperia 1 II Japan (KDDI)
+sony,XQ-AS42,cn,索尼, Xperia 5 II Japan (SIM Free)
+sony,XQ-AS52,cn,索尼, Xperia 5 II Global
+sony,XQ-AS62,cn,索尼, Xperia 5 II US
+sony,XQ-AS72,cn,索尼, Xperia 5 II China
+sony,A002SO,cn,索尼, Xperia 5 II Japan (SoftBank)
+sony,SO-52A,cn,索尼, Xperia 5 II Japan (NTT Docomo)
+sony,SOG02,cn,索尼, Xperia 5 II Japan (KDDI)
+sony,XQ-AU42,cn,索尼, Xperia 10 II Japan (SIM Free)
+sony,XQ-AU51,cn,索尼, Xperia 10 II Global (Single SIM)
+sony,XQ-AU52,cn,索尼, Xperia 10 II Global (Dual SIM)
+sony,A001SO,cn,索尼, Xperia 10 II Japan (SoftBank)
+sony,SO-41A,cn,索尼, Xperia 10 II Japan (NTT Docomo)
+sony,SOV43,cn,索尼, Xperia 10 II Japan (KDDI)
+sony,XQ-AD51,cn,索尼, Xperia L4 (Single SIM)
+sony,XQ-AD52,cn,索尼, Xperia L4 (Dual SIM)
+sony,XQ-BC42,cn,索尼, Xperia 1 III Japan (SIM Free)
+sony,XQ-BC52,cn,索尼, Xperia 1 III Global
+sony,XQ-BC62,cn,索尼, Xperia 1 III US
+sony,XQ-BC72,cn,索尼, Xperia 1 III Asia Pacific
+sony,A101SO,cn,索尼, Xperia 1 III Japan (SoftBank)
+sony,SO-51B,cn,索尼, Xperia 1 III Japan (NTT Docomo)
+sony,SOG03,cn,索尼, Xperia 1 III Japan (KDDI)
+sony,XQ-BQ42,cn,索尼, Xperia 5 III Japan (SIM Free)
+sony,XQ-BQ52,cn,索尼, Xperia 5 III Global
+sony,XQ-BQ62,cn,索尼, Xperia 5 III US
+sony,XQ-BQ72,cn,索尼, Xperia 5 III Asia Pacific
+sony,A103SO,cn,索尼, Xperia 5 III Japan (SoftBank)
+sony,SO-53B,cn,索尼, Xperia 5 III Japan (NTT Docomo)
+sony,SOG05,cn,索尼, Xperia 5 III Japan (KDDI)
+sony,XQ-BT44,cn,索尼, Xperia 10 III Japan (SIM Free)
+sony,XQ-BT52,cn,索尼, Xperia 10 III Global
+sony,A102SO,cn,索尼, Xperia 10 III Japan (SoftBank)
+sony,SO-52B,cn,索尼, Xperia 10 III Japan (NTT Docomo)
+sony,SOG04,cn,索尼, Xperia 10 III Japan (KDDI)
+sony,XQ-BE42,cn,索尼, Xperia PRO-I Japan
+sony,XQ-BE52,cn,索尼, Xperia PRO-I Global
+sony,XQ-BE62,cn,索尼, Xperia PRO-I US
+sony,XQ-BE72,cn,索尼, Xperia PRO-I Asia Pacific
+sony,SO-41B,cn,索尼, Xperia Ace II Japan (NTT Docomo)
+sony,XQ-CT44,cn,索尼, Xperia 1 IV Japan (SIM Free)
+sony,XQ-CT54,cn,索尼, Xperia 1 IV Global
+sony,XQ-CT62,cn,索尼, Xperia 1 IV US
+sony,XQ-CT72,cn,索尼, Xperia 1 IV Asia Pacific
+sony,A201SO,cn,索尼, Xperia 1 IV Japan (SoftBank)
+sony,SO-51C,cn,索尼, Xperia 1 IV Japan (NTT Docomo)
+sony,SOG06,cn,索尼, Xperia 1 IV Japan (KDDI)
+sony,XQ-CQ44,cn,索尼, Xperia 5 IV Japan (SIM Free)
+sony,XQ-CQ54,cn,索尼, Xperia 5 IV Global
+sony,XQ-CQ62,cn,索尼, Xperia 5 IV US
+sony,XQ-CQ72,cn,索尼, Xperia 5 IV Asia Pacific
+sony,A204SO,cn,索尼, Xperia 5 IV Japan (SoftBank)
+sony,SO-54C,cn,索尼, Xperia 5 IV Japan (NTT Docomo)
+sony,SOG09,cn,索尼, Xperia 5 IV Japan (KDDI)
+sony,XQ-CC44,cn,索尼, Xperia 10 IV Japan (SIM Free)
+sony,XQ-CC54,cn,索尼, Xperia 10 IV Global
+sony,XQ-CC72,cn,索尼, Xperia 10 IV Asia Pacific
+sony,A202SO,cn,索尼, Xperia 10 IV Japan (SoftBank)
+sony,SO-52C,cn,索尼, Xperia 10 IV Japan (NTT Docomo)
+sony,SOG07,cn,索尼, Xperia 10 IV Japan (KDDI)
+sony,A203SO,cn,索尼, Xperia Ace III Japan (SoftBank)
+sony,SO-53C,cn,索尼, Xperia Ace III Japan (NTT Docomo)
+sony,SOG08,cn,索尼, Xperia Ace III Japan (KDDI)
+sony,XQ-DQ44,cn,索尼, Xperia 1 V Japan (SIM Free)
+sony,XQ-DQ54,cn,索尼, Xperia 1 V Global
+sony,XQ-DQ62,cn,索尼, Xperia 1 V US
+sony,XQ-DQ72,cn,索尼, Xperia 1 V Asia Pacific
+sony,A301SO,cn,索尼, Xperia 1 V Japan (SoftBank)
+sony,SO-51D,cn,索尼, Xperia 1 V Japan (NTT Docomo)
+sony,SOG10,cn,索尼, Xperia 1 V Japan (KDDI)
+sony,XQ-DE44,cn,索尼, Xperia 5 V Japan (SIM Free)
+sony,XQ-DE54,cn,索尼, Xperia 5 V Global
+sony,XQ-DE72,cn,索尼, Xperia 5 V Asia Pacific
+sony,SO-53D,cn,索尼, Xperia 5 V Japan (NTT Docomo)
+sony,SOG12,cn,索尼, Xperia 5 V Japan (KDDI)
+sony,XQ-DC44,cn,索尼, Xperia 10 V Japan (SIM Free)
+sony,XQ-DC54,cn,索尼, Xperia 10 V Global
+sony,XQ-DC72,cn,索尼, Xperia 10 V Asia Pacific
+sony,A302SO,cn,索尼, Xperia 10 V Japan (SoftBank)
+sony,SO-52D,cn,索尼, Xperia 10 V Japan (NTT Docomo)
+sony,SOG11,cn,索尼, Xperia 10 V Japan (KDDI)
+sony,XQ-EC44,cn,索尼, Xperia 1 VI Japan (SIM Free)
+sony,XQ-EC54,cn,索尼, Xperia 1 VI Global
+sony,XQ-EC72,cn,索尼, Xperia 1 VI Asia Pacific
+sony,A401SO,cn,索尼, Xperia 1 VI Japan (SoftBank)
+sony,SO-51E,cn,索尼, Xperia 1 VI Japan (NTT Docomo)
+sony,SOG13,cn,索尼, Xperia 1 VI Japan (KDDI)
+sony,XQ-ES44,cn,索尼, Xperia 10 VI Japan (SIM Free)
+sony,XQ-ES54,cn,索尼, Xperia 10 VI Global
+sony,XQ-ES72,cn,索尼, Xperia 10 VI Asia Pacific
+sony,A402SO,cn,索尼, Xperia 10 VI Japan (SoftBank)
+sony,SO-52E,cn,索尼, Xperia 10 VI Japan (NTT Docomo)
+sony,SOG14,cn,索尼, Xperia 10 VI Japan (KDDI)
+sony,XQ-FS44,cn,索尼, Xperia 1 VII Japan (SIM Free)
+sony,XQ-FS54,cn,索尼, Xperia 1 VII Global
+sony,XQ-FS72,cn,索尼, Xperia 1 VII Asia Pacific
+sony,A501SO,cn,索尼, Xperia 1 VII Japan (SoftBank)
+sony,SO-51F,cn,索尼, Xperia 1 VII Japan (NTT Docomo)
+sony,SOG15,cn,索尼, Xperia 1 VII Japan (KDDI)
+sony,XQ-FE44,cn,索尼, Xperia 10 VII Japan (SIM Free)
+sony,XQ-FE54,cn,索尼, Xperia 10 VII Global
+sony,XQ-FE72,cn,索尼, Xperia 10 VII Asia Pacific
+sony,A502SO,cn,索尼, Xperia 10 VII Japan (SoftBank)
+sony,SO-52F,cn,索尼, Xperia 10 VII Japan (NTT Docomo)
+sony,SOG16,cn,索尼, Xperia 10 VII Japan (KDDI)
+sony,SGP712,cn,索尼, Xperia Z4 Tablet Wi-Fi
+sony,SGP771,cn,索尼, Xperia Z4 Tablet LTE
+sony,SO-05G,cn,索尼, Xperia Z4 Tablet LTE Japan (NTT Docomo)
+sony,SOT31,cn,索尼, Xperia Z4 Tablet LTE Japan (KDDI)
 sony,E6883,cn,索尼, Xperia Z5 Premium
 sony,F8332,cn,索尼, Xperia XZ
 sony,G8142,cn,索尼, Xperia XZ Premium
 sony,G8232,cn,索尼, Xperia XZs
 sony,G8342,cn,索尼, Xperia XZ1
-sony,G8441,cn,索尼, Xperia XZ1c
+sony,G8441,cn,索尼, Xperia XZ1 Compact
 sony,H4233,cn,索尼, Xperia XA2 Ultra
 sony,H8296,cn,索尼, Xperia XZ2
 sony,H8166,cn,索尼, Xperia XZ2 Premium
@@ -7534,9 +7820,6 @@ sony,XQ-CT72,cn,索尼, Xperia 1 IV
 sony,XQ-CQ72,cn,索尼, Xperia 5 IV
 sony,XQ-DQ72,cn,索尼, Xperia 1 V
 sony,XQ-DE72,cn,索尼, Xperia 5 V
-sony,XQ-DC72,cn,索尼, Xperia 10 V
-sony,XQ-EC72,cn,索尼, Xperia 1 VI
-sony,XQ-ES72,cn,索尼, Xperia 10 VI
 vivo,V1821A,cn,VIVO, vivo NEX 双屏版 全网通版
 vivo,V1821T,cn,VIVO, vivo NEX 双屏版 移动全网通版
 vivo,V1923A,cn,VIVO, vivo NEX 3 全网通版
@@ -8233,6 +8516,7 @@ xiaomi-wear,M2428W1,cn,小米, REDMI Watch 5 eSIM 版
 xiaomi-wear,M2351W1,cn,小米, Redmi Watch 5 Active 印度版
 xiaomi-wear,M2352W1,cn,小米, Redmi Watch 5 Lite 印度版
 xiaomi-wear,M2460W1,cn,小米, Redmi Watch Move 印度版
+xiaomi-wear,M2523W1,cn,小米, REDMI Watch 6
 xiaomi-wear,M2131W1,cn,小米, POCO Watch
 xiaomi-wear,M2111E1,cn,小米, Xiaomi 真无线降噪耳机 3
 xiaomi-wear,M2103E1,cn,小米, Xiaomi 真无线降噪耳机 3 Pro
@@ -8859,11 +9143,11 @@ xiaomi,2312DRAABC,cn,小米, Redmi Note 13 5G 国行版
 xiaomi,2312DRAABI,cn,小米, Redmi Note 13 5G 印度版
 xiaomi,2312DRAABG,cn,小米, Redmi Note 13 5G 国际版
 xiaomi,23117RA68G,cn,小米, Redmi Note 13 Pro 国际版
-xiaomi,2312DRA50C,cn,小米, Redmi Note 13 Pro 国行版
-xiaomi,2312CRAD3C,cn,小米, Redmi Note 13 Pro 国行版
+xiaomi,2312DRA50C,cn,小米, Redmi Note 13 Pro 国行版 (LPDDR4x + UFS 2.2)
 xiaomi,2312DRA50G,cn,小米, Redmi Note 13 Pro 5G 国际版
 xiaomi,2312DRA50I,cn,小米, Redmi Note 13 Pro 5G 印度版
 xiaomi,XIG05,cn,小米, Redmi Note 13 Pro 5G 日本版 (KDDI)
+xiaomi,2312CRAD3C,cn,小米, Redmi Note 13 Pro 国行版 (LPDDR5 + UFS 3.1)
 xiaomi,23090RA98C,cn,小米, Redmi Note 13 Pro+ 国行版
 xiaomi,23090RA98G,cn,小米, Redmi Note 13 Pro+ 5G 国际版
 xiaomi,23090RA98I,cn,小米, Redmi Note 13 Pro+ 5G 印度版
@@ -8945,6 +9229,7 @@ xiaomi,24127RK2CC,cn,小米, REDMI K80 Pro 冠军版
 xiaomi,25060RK16C,cn,小米, REDMI K80 至尊版
 xiaomi,2510DRK44C,cn,小米, REDMI K90
 xiaomi,25102RKBEC,cn,小米, REDMI K90 Pro Max
+xiaomi,25102RK69C,cn,小米, REDMI K90 Pro Max 冠军版
 xiaomi,2016020,cn,小米, 红米 Pro 标准版
 xiaomi,2016021,cn,小米, 红米 Pro 高配版 / 尊享版
 xiaomi,M1803E6E,cn,小米, 红米 S2 全网通版
@@ -9116,6 +9401,82 @@ xiaomi,2509ARPBDG,cn,小米, POCO Pad M1 国际版
 xiaomi,FYJ01QP,cn,小米, 小米米家翻译机
 xiaomi,21051191C,cn,小米, CyberDog 仿生四足机器人
 xiaomi,2503CVPC6C,cn,小米, Xiaomi YU7 后排移动控制屏
+xiaomi,M1903F2A,cn,小米, 小米 9 SE
+xiaomi,M2001J2E,cn,小米, 小米 10
+xiaomi,M2001J2C,cn,小米, 小米 10
+xiaomi,M2001J1E,cn,小米, 小米 10 Pro
+xiaomi,M2001J1C,cn,小米, 小米 10 Pro
+xiaomi,M2002J9E,cn,小米, 小米 10 青春版
+xiaomi,M2011K2C,cn,小米, 小米 11
+xiaomi,M2102K1C,cn,小米, 小米 11 Ultra
+xiaomi,M2101K9C,cn,小米, 小米 11 青春版
+xiaomi,2107119DC,cn,小米, Xiaomi 11 青春活力版
+xiaomi,2201123C,cn,小米, Xiaomi 12
+xiaomi,2112123AC,cn,小米, Xiaomi 12X
+xiaomi,2201122C,cn,小米, Xiaomi 12 Pro
+xiaomi,2211133C,cn,小米, Xiaomi 13
+xiaomi,2210132C,cn,小米, Xiaomi 13 Pro
+xiaomi,2304FPN6DC,cn,小米, Xiaomi 13 Ultra
+xiaomi,23127PN0CC,cn,小米, Xiaomi 14
+xiaomi,24031PN0DC,cn,小米, Xiaomi 14 Ultra
+xiaomi,24129PN74C,cn,小米, Xiaomi 15
+xiaomi,25019PNF3C,cn,小米, Xiaomi 15 Ultra
+xiaomi,25010PN30C,cn,小米, Xiaomi 15 Ultra 双卫星版
+xiaomi,25113PN0EC,cn,小米, Xiaomi 17
+xiaomi,M1810E5E,cn,小米, 小米 MIX 3
+xiaomi,2405CPX3DC,cn,小米, Xiaomi MIX Flip
+xiaomi,2505APX7BC,cn,小米, Xiaomi MIX Flip 2
+xiaomi,21051182C,cn,小米, 小米平板 5
+xiaomi,23043RP34C,cn,小米, Xiaomi Pad 6
+xiaomi,24018RPACC,cn,小米, Xiaomi Pad 6S Pro 12.4
+xiaomi,2410CRP4CC,cn,小米, Xiaomi Pad 7
+xiaomi,24091RPADC,cn,小米, Xiaomi Pad 7 Pro
+xiaomi,25097RP43C,cn,小米, Xiaomi Pad 8
+xiaomi,25091RP04C,cn,小米, Xiaomi Pad 8 Pro
+xiaomi,2016030,cn,小米, 红米 3S
+xiaomi,M1908C3KE,cn,小米, Redmi 8A
+xiaomi,M2004J19C,cn,小米, Redmi 9
+xiaomi,M2006C3LC,cn,小米, Redmi 9A
+xiaomi,220233L2C,cn,小米, Redmi 10A
+xiaomi,23077RABDC,cn,小米, Redmi 12 5G
+xiaomi,22120RN86C,cn,小米, Redmi 12C
+xiaomi,23124RN87C,cn,小米, Redmi 13C 5G / Redmi 13R 5G
+xiaomi,2409BRN2CC,cn,小米, Redmi 14C
+xiaomi,2411DRN47C,cn,小米, Redmi 14R 5G
+xiaomi,2508CRN2BC,cn,小米, REDMI 15C 5G
+xiaomi,2015112,cn,小米, 红米 Note 3
+xiaomi,2015115,cn,小米, 红米 Note 3
+xiaomi,M1901F7BE,cn,小米, Redmi Note 7 Pro
+xiaomi,M2010J19SC,cn,小米, Redmi Note 9 4G
+xiaomi,M2007J22C,cn,小米, Redmi Note 9 5G
+xiaomi,M2007J17C,cn,小米, Redmi Note 9 Pro 5G
+xiaomi,M2103K19C,cn,小米, Redmi Note 10 5G / Redmi Note 11SE
+xiaomi,M2104K10AC,cn,小米, Redmi Note 10 Pro
+xiaomi,21121119SC,cn,小米, Redmi Note 11 4G
+xiaomi,21091116AC,cn,小米, Redmi Note 11 5G
+xiaomi,21091116C,cn,小米, Redmi Note 11 Pro
+xiaomi,2201116SC,cn,小米, Redmi Note 11E Pro
+xiaomi,21091116UC,cn,小米, Redmi Note 11 Pro+
+xiaomi,22101317C,cn,小米, Redmi Note 12 5G / Redmi Note 12R Pro
+xiaomi,22101316C,cn,小米, Redmi Note 12 Pro
+xiaomi,22101316UCP,cn,小米, Redmi Note 12 Pro+
+xiaomi,2312DRAABC,cn,小米, Redmi Note 13 5G
+xiaomi,2312DRA50C,cn,小米, Redmi Note 13 Pro (LPDDR4x + UFS 2.2)
+xiaomi,2312CRAD3C,cn,小米, Redmi Note 13 Pro (LPDDR5 + UFS 3.1)
+xiaomi,23090RA98C,cn,小米, Redmi Note 13 Pro+
+xiaomi,24094RAD4C,cn,小米, Redmi Note 14 5G
+xiaomi,24090RA29C,cn,小米, Redmi Note 14 Pro
+xiaomi,24115RA8EC,cn,小米, Redmi Note 14 Pro+
+xiaomi,25098RA98C,cn,小米, REDMI Note 15
+xiaomi,25080RABDC,cn,小米, REDMI Note 15 Pro
+xiaomi,2510ERA8BC,cn,小米, REDMI Note 15 Pro+
+xiaomi,22081283C,cn,小米, Redmi Pad
+xiaomi,23073RPBFC,cn,小米, Redmi Pad SE
+xiaomi,2405CRPFDC,cn,小米, Redmi Pad Pro Wi-Fi
+xiaomi,24074RPD2C,cn,小米, Redmi Pad Pro 5G
+xiaomi,25040RP0AC,cn,小米, REDMI Pad 2
+xiaomi,25099RP13C,cn,小米, REDMI Pad 2 Pro
+xiaomi,2509BRP2DC,cn,小米, REDMI Pad 2 Pro 5G
 xiaomi,MI-ONE,en,小米, Mi 1 Lite
 xiaomi,2012051,en,小米, Mi 1S WCDMA
 xiaomi,2012053,en,小米, Mi 1S CDMA
@@ -9672,8 +10033,7 @@ xiaomi,2312DRAABC,en,小米, Redmi Note 13 5G China
 xiaomi,23117RA68G,en,小米, Redmi Note 13 Pro Global
 xiaomi,2312DRA50G,en,小米, Redmi Note 13 Pro 5G Global
 xiaomi,2312DRA50I,en,小米, Redmi Note 13 Pro 5G India
-xiaomi,2312DRA50C,en,小米, Redmi Note 13 Pro 5G China
-xiaomi,2312CRAD3C,en,小米, Redmi Note 13 Pro 5G China
+xiaomi,2312DRA50C,en,小米, Redmi Note 13 Pro 5G China (LPDDR4x + UFS 2.2)
 xiaomi,XIG05,en,小米, Redmi Note 13 Pro 5G Japan (KDDI)
 xiaomi,23090RA98G,en,小米, Redmi Note 13 Pro+ 5G Global
 xiaomi,23090RA98I,en,小米, Redmi Note 13 Pro+ 5G India
@@ -9755,6 +10115,7 @@ xiaomi,24127RK2CC,en,小米, REDMI K80 Pro Automobili Lamborghini Squadra Corse 
 xiaomi,25060RK16C,en,小米, REDMI K80 Ultra China
 xiaomi,2510DRK44C,en,小米, REDMI K90 China
 xiaomi,25102RKBEC,en,小米, REDMI K90 Pro Max China
+xiaomi,25102RK69C,en,小米, REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China
 xiaomi,2016020,en,小米, Redmi Pro (32GB)
 xiaomi,2016021,en,小米, Redmi Pro (64GB & 128GB)
 xiaomi,M1803E6G,en,小米, Redmi S2 Global
