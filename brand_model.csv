@@ -4934,6 +4934,7 @@ motorola,XT2557-1,cn,摩托罗拉, moto razr 60 Pro
 motorola,XT2551-3,cn,摩托罗拉, moto razr 60 Ultra
 motorola,XT2527-3,cn,摩托罗拉, moto g100 Pro
 motorola,XT2533-4,cn,摩托罗拉, moto g100
+motorola,XT2601-1,cn,摩托罗拉, moto X70 Air
 nokia,TA-1000,cn,诺基亚, Nokia 6
 nokia,TA-1054,cn,诺基亚, Nokia 6 (第二代)
 nokia,TA-1041,cn,诺基亚, Nokia 7
@@ -4959,6 +4960,7 @@ nothing,A142P,cn,Nothing, Nothing Phone (2a) Plus
 nothing,A024,cn,Nothing, Nothing Phone (3)
 nothing,A059,cn,Nothing, Nothing Phone (3a)
 nothing,A059P,cn,Nothing, Nothing Phone (3a) Plus
+nothing,A001T,cn,Nothing, Nothing Phone (3a) Lite
 nothing,A015,cn,Nothing, CMF Phone 1
 nothing,A001,cn,Nothing, CMF Phone 2 Pro
 nubia,NX501,cn,努比亚, nubia Z5
@@ -9318,6 +9320,8 @@ xiaomi,25053PC47G,cn,小米, POCO F7 国际版
 xiaomi,25053PC47I,cn,小米, POCO F7 印度版
 xiaomi,24117RK2CG,cn,小米, POCO F7 Pro 国际版
 xiaomi,24122RKC7G,cn,小米, POCO F7 Ultra 国际版
+xiaomi,2510DPC44G,cn,小米, POCO F8 Pro 国际版
+xiaomi,25102PCBEG,cn,小米, POCO F8 Ultra 国际版
 xiaomi,M1912G7BI,cn,小米, POCO X2 印度版
 xiaomi,M2007J20CI,cn,小米, POCO X3 印度版
 xiaomi,M2007J20CG,cn,小米, POCO X3 NFC 国际版
@@ -10173,6 +10177,8 @@ xiaomi,25053PC47G,en,小米, POCO F7 Global
 xiaomi,25053PC47I,en,小米, POCO F7 India
 xiaomi,24117RK2CG,en,小米, POCO F7 Pro Global
 xiaomi,24122RKC7G,en,小米, POCO F7 Ultra Global
+xiaomi,2510DPC44G,en,小米, POCO F8 Pro Global
+xiaomi,25102PCBEG,en,小米, POCO F8 Ultra Global
 xiaomi,M1912G7BI,en,小米, POCO X2 India
 xiaomi,M2007J20CI,en,小米, POCO X3 India
 xiaomi,M2007J20CG,en,小米, POCO X3 NFC Global
@@ -10363,9 +10369,12 @@ zhixuan,SHR-AN00,cn,华为智选, Hi 畅享 80 Pro 5G
 zhixuan,BRO-W00,cn,华为智选, Hi MatePad
 zhixuan,MASH-16,cn,华为智选, Hi MateBook 14 (16GB 内存)
 zhixuan,MASH-32,cn,华为智选, Hi MateBook 14 (32GB 内存)
-zhixuan,MASI-16,cn,华为智选, Hi MateBook 14 酷睿 Ultra 2 (16GB 内存)
-zhixuan,MASC-24,cn,华为智选, Hi MateBook 14 酷睿 Ultra 2 (24GB 内存)
-zhixuan,MASC-32,cn,华为智选, Hi MateBook 14 酷睿 Ultra 2 (32GB 内存)
+zhixuan,MASI-16,cn,华为智选, Hi MateBook 14 酷睿 Ultra 2 (16GB 内存) (方形键盘)
+zhixuan,MASC-24,cn,华为智选, Hi MateBook 14 酷睿 Ultra 2 (24GB 内存) (圆形键盘)
+zhixuan,MASC-32,cn,华为智选, Hi MateBook 14 酷睿 Ultra 2 (32GB 内存) (圆形键盘)
+zhixuan,MNCAA-16,cn,华为智选, Hi MateBook 14 锐龙 200 (16GB 内存) (方形键盘)
+zhixuan,MNCAA-32,cn,华为智选, Hi MateBook 14 锐龙 200 (32GB 内存) (方形键盘)
+zhixuan,MNCAC-32,cn,华为智选, Hi MateBook 14 锐龙 200 (32GB 内存) (圆形键盘)
 zhixuan,LYOI-16,cn,华为智选, Hi MateBook D 14 (16GB 内存)
 zhixuan,LYOI-32,cn,华为智选, Hi MateBook D 14 (32GB 内存)
 zhixuan,NICG-16,cn,华为智选, Hi MateBook D 16 (13 代酷睿) (16GB 内存)
